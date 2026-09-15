@@ -38,8 +38,21 @@ function stripHtml(value) {
   return (el.textContent || el.innerText || "").replace(/\s+/g, " ").trim();
 }
 
+function decodeUnicodeEscapes(str) {
+  return String(str ?? "").replace(/\\u([0-9a-fA-F]{4})/g, (_, hex) =>
+    String.fromCharCode(parseInt(hex, 16))
+  );
+}
+
 function getType(a) {
-  return a?._site?.type_name || a?.affairType?.name || a?.type?.name || a?.affairTypeName || "Ohne Typ";
+  const type =
+    a?._site?.type_name ||
+    a?.affairType?.name ||
+    a?.type?.name ||
+    a?.affairTypeName ||
+    "Ohne Typ";
+
+  return decodeUnicodeEscapes(type);
 }
 
 function getNumber(a) {
