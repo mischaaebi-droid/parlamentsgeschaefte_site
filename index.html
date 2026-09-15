@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Neue Parlamentsgeschäfte</title>
+  <meta name="description" content="Aktuelle Geschäfte des Schweizer Parlaments, filterbar nach Geschäftstyp.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="wrap">
+    <header class="hero">
+      <p class="eyebrow">Schweizer Parlament</p>
+      <h1>Neue Geschäfte</h1>
+      <p class="intro">Aktuelle Vorstösse und Geschäfte, automatisch aus den Parlamentsdaten aktualisiert.</p>
+    </header>
+
+    <section class="filters" aria-label="Filter">
+      <label>
+        <span>Geschäftstyp</span>
+        <select id="typeFilter">
+          <option value="">Alle Typen</option>
+        </select>
+      </label>
+
+      <label class="search">
+        <span>Suche</span>
+        <input id="searchInput" type="search" placeholder="Titel, Nummer, Text …">
+      </label>
+
+      <button id="resetButton" type="button">Filter zurücksetzen</button>
+    </section>
+
+    <div class="statusbar">
+      <strong id="resultCount">Lade Daten …</strong>
+      <span id="updated"></span>
+    </div>
+
+    <section id="results" class="results" aria-live="polite"></section>
+
+    <button id="moreButton" class="more" type="button" hidden>Mehr anzeigen</button>
+
+    <footer>
+      Daten: Parlamentsdienste des Schweizer Parlaments. Diese Website ist ein unabhängiges Projekt.
+    </footer>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
