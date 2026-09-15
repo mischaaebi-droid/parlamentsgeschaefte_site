@@ -1,9 +1,11 @@
 const DATA_URL = "data/geschaefte.json";
 const PAGE_SIZE = 40;
+const PREVIEW_LENGTH = 400;
 
 let allAffairs = [];
 let filteredAffairs = [];
 let visibleCount = PAGE_SIZE;
+const openAffairs = new Set();
 
 const typeFilter = document.querySelector("#typeFilter");
 const searchInput = document.querySelector("#searchInput");
@@ -33,7 +35,7 @@ function escapeHtml(value) {
 function stripHtml(value) {
   const el = document.createElement("div");
   el.innerHTML = String(value ?? "");
-  return el.textContent || el.innerText || "";
+  return (el.textContent || el.innerText || "").replace(/\s+/g, " ").trim();
 }
 
 function getType(a) {
@@ -48,10 +50,6 @@ function getTitle(a) {
   return a?.title || "Titel folgt";
 }
 
-function getUpdated(a) {
-  return a?.updated || a?._site?.fetched_at || "";
-}
-
 function getState(a) {
   return a?.state?.name || a?.state || "";
 }
@@ -63,15 +61,84 @@ function getCouncil(a) {
 function getAuthor(a) {
   const roles = a?.roles?.role || a?.roles || [];
   const list = Array.isArray(roles) ? roles : [roles];
+
   for (const role of list) {
     const candidate =
       role?.councillor?.fullName ||
       role?.councillor?.name ||
       role?.person?.fullName ||
       role?.name;
+
     if (candidate) return candidate;
   }
   return "";
+}
+
+/*
+  Die Parlaments-API liefert die Texte als Sammlung.
+  Gesucht wird ausdrücklich der Abschnitt "Eingereichter Text".
+  Die Funktion ist absichtlich tolerant gegenüber leicht unterschiedlichen
+  JSON-Strukturen.
+*/
+function getSubmittedText(a) {
+  const containers = [
+    a?.texts,
+    a?.text,
+    a?.affairTexts,
+    a?.descriptions
+  ].filter(Boolean);
+
+  for (const container of containers) {
+    const list = Array.isArray(container)
+      ? container
+      : Array.isArray(container?.text)
+        ? container.text
+        : Array.isArray(container?.texts)
+          ? container.texts
+          : Object.values(container);
+
+    for (const item of list) {
+      if (!item || typeof item !== "object") continue;
+
+      const label = text(
+        item.typeName ??
+        item.type?.name ??
+        item.name ??
+        item.title ??
+        item.textTypeName ??
+        item.descriptionTypeName ??
+        item.type
+      ).toLocaleLowerCase("de-CH");
+
+      if (
+        label.includes("eingereichter text") ||
+        label.includes("eingereicht") ||
+        label.includes("submitted text")
+      ) {
+        const value =
+          item.value ??
+          item.text ??
+          item.content ??
+          item.description ??
+          item.html;
+
+        if (typeof value === "string" && value.trim()) return value;
+      }
+    }
+  }
+
+  return "";
+}
+
+function getPreview(html) {
+  const plain = stripHtml(html);
+  if (plain.length <= PREVIEW_LENGTH) return plain;
+
+  let cut = plain.slice(0, PREVIEW_LENGTH);
+  const lastSpace = cut.lastIndexOf(" ");
+  if (lastSpace > PREVIEW_LENGTH - 60) cut = cut.slice(0, lastSpace);
+
+  return `${cut} …`;
 }
 
 function parliamentUrl(a) {
@@ -98,8 +165,6 @@ function applyFilters() {
   filteredAffairs = allAffairs.filter(a => {
     if (wantedType && getType(a) !== wantedType) return false;
     if (!q) return true;
-
-    // Volltextsuche über den gesamten gespeicherten Datensatz.
     return text(a).toLocaleLowerCase("de-CH").includes(q);
   });
 
@@ -119,28 +184,106 @@ function render() {
   }
 
   results.innerHTML = shown.map(a => {
+    const id = String(a?.id ?? getNumber(a));
     const type = escapeHtml(getType(a));
     const number = escapeHtml(getNumber(a));
     const title = escapeHtml(stripHtml(getTitle(a)));
     const state = escapeHtml(text(getState(a)));
     const council = escapeHtml(text(getCouncil(a)));
     const author = escapeHtml(text(getAuthor(a)));
+    const submittedHtml = getSubmittedText(a);
+    const preview = escapeHtml(getPreview(submittedHtml));
+    const isOpen = openAffairs.has(id);
     const detailBits = [author, council, state].filter(Boolean);
 
+    let body = "";
+
+    if (submittedHtml) {
+      body = `
+        <div class="affair-reader">
+          <div class="preview-text" ${isOpen ? "hidden" : ""}>${preview}</div>
+
+          <div class="full-text" ${isOpen ? "" : "hidden"}>
+            ${submittedHtml}
+          </div>
+
+          <button
+            class="toggle-text"
+            type="button"
+            data-affair-id="${escapeHtml(id)}"
+            aria-expanded="${isOpen ? "true" : "false"}"
+          >
+            ${isOpen ? "Text zuklappen ↑" : "Ganzen Text anzeigen ↓"}
+          </button>
+        </div>
+      `;
+    } else {
+      body = `<div class="no-text">Noch kein eingereichter Text verfügbar.</div>`;
+    }
+
     return `
-      <article class="card">
+      <article class="card ${isOpen ? "is-open" : ""}" data-card-id="${escapeHtml(id)}">
         <div class="meta">
           <span class="badge">${type}</span>
           <span class="number">${number}</span>
         </div>
-        <h2><a href="${parliamentUrl(a)}" target="_blank" rel="noopener">${title}</a></h2>
+
+        <h2>
+          <a href="${parliamentUrl(a)}" target="_blank" rel="noopener">${title}</a>
+        </h2>
+
         ${detailBits.length ? `<div class="details">${detailBits.join(" · ")}</div>` : ""}
+
+        ${body}
       </article>
     `;
   }).join("");
 
   moreButton.hidden = visibleCount >= filteredAffairs.length;
 }
+
+function toggleAffair(id) {
+  const card = results.querySelector(`[data-card-id="${CSS.escape(id)}"]`);
+  if (!card) return;
+
+  const preview = card.querySelector(".preview-text");
+  const full = card.querySelector(".full-text");
+  const button = card.querySelector(".toggle-text");
+  if (!preview || !full || !button) return;
+
+  const opening = !openAffairs.has(id);
+
+  if (opening) {
+    openAffairs.add(id);
+    preview.hidden = true;
+    full.hidden = false;
+    card.classList.add("is-open");
+    button.textContent = "Text zuklappen ↑";
+    button.setAttribute("aria-expanded", "true");
+  } else {
+    openAffairs.delete(id);
+    preview.hidden = false;
+    full.hidden = true;
+    card.classList.remove("is-open");
+    button.textContent = "Ganzen Text anzeigen ↓";
+    button.setAttribute("aria-expanded", "false");
+
+    // Beim Zuklappen springt die Seite sanft zum Anfang des Geschäfts zurück.
+    const top = card.getBoundingClientRect().top;
+    if (top < 0) {
+      card.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+  }
+}
+
+results.addEventListener("click", event => {
+  const button = event.target.closest(".toggle-text");
+  if (!button) return;
+
+  event.preventDefault();
+  event.stopPropagation();
+  toggleAffair(button.dataset.affairId);
+});
 
 async function init() {
   try {
@@ -174,11 +317,13 @@ async function init() {
 
 typeFilter.addEventListener("change", applyFilters);
 searchInput.addEventListener("input", applyFilters);
+
 resetButton.addEventListener("click", () => {
   typeFilter.value = "";
   searchInput.value = "";
   applyFilters();
 });
+
 moreButton.addEventListener("click", () => {
   visibleCount += PAGE_SIZE;
   render();
