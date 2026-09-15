@@ -3,11 +3,12 @@ name: Parlamentsgeschaefte aktualisieren
 on:
   workflow_dispatch:
   schedule:
-    # GitHub Actions verwendet UTC.
-    # 17:30 UTC = 19:30 MESZ / 18:30 MEZ.
-    # Für eine ganzjährig konstante Schweizer Lokalzeit wären zwei
-    # saisonale Zeitpläne nötig. Für den Start ist dieser Lauf bewusst simpel.
-    - cron: "30 17 * * *"
+    # GitHub Actions Cron läuft in UTC.
+    # Wir starten stündlich in einem ausreichend grossen UTC-Fenster.
+    # Ein späterer Schritt prüft Europe/Zurich und lässt den Scraper
+    # nur um 10, 12, 14, 16, 18 und 20 Uhr Schweizer Zeit laufen.
+    # Dadurch funktioniert der Zeitplan sowohl mit MEZ als auch MESZ.
+    - cron: "0 8-19 * * *"
 
 permissions:
   contents: write
@@ -20,21 +21,37 @@ jobs:
       - name: Repository auschecken
         uses: actions/checkout@v4
 
+      - name: Schweizer Laufzeit prüfen
+        id: swiss_time
+        run: |
+          HOUR=$(TZ=Europe/Zurich date +%H)
+          if [[ "$HOUR" =~ ^(10|12|14|16|18|20)$ ]]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            echo "Scraper läuft: In der Schweiz ist es $HOUR Uhr."
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "Kein Scraper-Lauf: In der Schweiz ist es $HOUR Uhr."
+          fi
+
       - name: Python installieren
+        if: steps.swiss_time.outputs.run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.13"
 
       - name: Abhängigkeiten installieren
+        if: steps.swiss_time.outputs.run == 'true'
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
 
       - name: Daten aktualisieren
+        if: steps.swiss_time.outputs.run == 'true'
         run: python scraper.py
 
       - name: Änderungen speichern
+        if: steps.swiss_time.outputs.run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
