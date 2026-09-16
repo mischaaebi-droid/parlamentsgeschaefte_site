@@ -8,7 +8,7 @@ on:
     # Ein späterer Schritt prüft Europe/Zurich und lässt den Scraper
     # nur um 10, 12, 14, 16, 18 und 20 Uhr Schweizer Zeit laufen.
     # Dadurch funktioniert der Zeitplan sowohl mit MEZ als auch MESZ.
-    - cron: "0 8-19 * * *"
+    - cron: "7 8-19 * * *"
 
 permissions:
   contents: write
