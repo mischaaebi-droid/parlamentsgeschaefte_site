@@ -1,7 +1,8 @@
 [
   {
     "id": 20264704,
-    "updated": "2026-10-16T16:59:11Z",
+    "updated": "2026-10-20T13:24:19Z",
+    "additionalIndexing": "34;1236",
     "affairType": {
       "abbreviation": "Po.",
       "id": 6,
@@ -140,21 +141,21 @@
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "Schutz der kognitiven Integrität: Rechtsanpassung notwendig?"
+        "value": "Schutz der kognitiven Integrität. Rechtsanpassung notwendig?"
       }
     ],
-    "title": "Schutz der kognitiven Integrität: Rechtsanpassung notwendig?",
+    "title": "Schutz der kognitiven Integrität. Rechtsanpassung notwendig?",
     "_site": {
       "formatted_id": "26.4704",
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 1,
-      "fetched_at": "2026-10-19T21:03:12.635279+00:00"
+      "fetched_at": "2026-10-20T13:33:59.478016+00:00"
     }
   },
   {
     "id": 20260475,
-    "updated": "2026-10-16T17:13:06Z",
+    "updated": "2026-10-20T13:28:48Z",
     "affairType": {
       "abbreviation": "Pa. Iv.",
       "id": 4,
@@ -323,12 +324,12 @@
       "type_id": "4",
       "type_name": "Parlamentarische Initiative",
       "curia_rank": 2,
-      "fetched_at": "2026-10-19T21:03:13.219730+00:00"
+      "fetched_at": "2026-10-20T13:34:00.436539+00:00"
     }
   },
   {
     "id": 20260474,
-    "updated": "2026-10-19T07:49:50Z",
+    "updated": "2026-10-20T13:27:44Z",
     "affairType": {
       "abbreviation": "Pa. Iv.",
       "id": 4,
@@ -495,12 +496,13 @@
       "type_id": "4",
       "type_name": "Parlamentarische Initiative",
       "curia_rank": 3,
-      "fetched_at": "2026-10-19T21:03:13.747113+00:00"
+      "fetched_at": "2026-10-20T13:34:00.988747+00:00"
     }
   },
   {
     "id": 20264705,
-    "updated": "2026-10-19T13:58:05Z",
+    "updated": "2026-10-20T13:25:59Z",
+    "additionalIndexing": "15;24",
     "affairType": {
       "abbreviation": "Po.",
       "id": 6,
@@ -565,7 +567,14 @@
           }
         ],
         "references": [],
-        "relatedDepartments": [],
+        "relatedDepartments": [
+          {
+            "abbreviation": "WBF",
+            "id": 8,
+            "name": "Departement für Wirtschaft, Bildung und Forschung",
+            "leading": true
+          }
+        ],
         "states": [
           {
             "date": "/Date(1792015200000+0200)/",
@@ -643,12 +652,13 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 4,
-      "fetched_at": "2026-10-19T21:03:14.322974+00:00"
+      "fetched_at": "2026-10-20T13:34:01.807127+00:00"
     }
   },
   {
     "id": 20264703,
-    "updated": "2026-10-13T15:37:17Z",
+    "updated": "2026-10-20T13:23:00Z",
+    "additionalIndexing": "2846;55;52",
     "affairType": {
       "abbreviation": "Mo.",
       "id": 5,
@@ -907,12 +917,12 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 5,
-      "fetched_at": "2026-10-19T21:03:15.411037+00:00"
+      "fetched_at": "2026-10-20T13:34:02.373857+00:00"
     }
   },
   {
     "id": 20260473,
-    "updated": "2026-10-15T14:46:57Z",
+    "updated": "2026-10-20T13:26:57Z",
     "affairType": {
       "abbreviation": "Pa. Iv.",
       "id": 4,
@@ -1092,7 +1102,7 @@
       "type_id": "4",
       "type_name": "Parlamentarische Initiative",
       "curia_rank": 6,
-      "fetched_at": "2026-10-19T21:03:15.978324+00:00"
+      "fetched_at": "2026-10-20T13:34:02.940076+00:00"
     }
   },
   {
@@ -1183,7 +1193,7 @@
       "type_id": "2",
       "type_name": "Gesch\\u00e4ft des Parlaments",
       "curia_rank": 7,
-      "fetched_at": "2026-10-19T21:03:16.596413+00:00"
+      "fetched_at": "2026-10-20T13:34:03.549074+00:00"
     }
   },
   {
@@ -1281,7 +1291,7 @@
       "type_id": "2",
       "type_name": "Gesch\\u00e4ft des Parlaments",
       "curia_rank": 8,
-      "fetched_at": "2026-10-19T21:03:17.161841+00:00"
+      "fetched_at": "2026-10-20T13:34:04.067427+00:00"
     }
   },
   {
@@ -1379,7 +1389,7 @@
       "type_id": "2",
       "type_name": "Gesch\\u00e4ft des Parlaments",
       "curia_rank": 9,
-      "fetched_at": "2026-10-19T21:03:17.698131+00:00"
+      "fetched_at": "2026-10-20T13:34:04.622726+00:00"
     }
   },
   {
@@ -1477,12 +1487,12 @@
       "type_id": "2",
       "type_name": "Gesch\\u00e4ft des Parlaments",
       "curia_rank": 10,
-      "fetched_at": "2026-10-19T21:03:18.289213+00:00"
+      "fetched_at": "2026-10-20T13:34:05.164633+00:00"
     }
   },
   {
     "id": 20264702,
-    "updated": "2026-10-16T10:54:36Z",
+    "updated": "2026-10-20T13:22:13Z",
     "additionalIndexing": "55;52;36;24",
     "affairType": {
       "abbreviation": "Po.",
@@ -1603,7 +1613,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 11,
-      "fetched_at": "2026-10-19T21:03:19.217763+00:00"
+      "fetched_at": "2026-10-20T13:34:05.733082+00:00"
     }
   },
   {
@@ -1783,7 +1793,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 12,
-      "fetched_at": "2026-10-19T21:03:19.793399+00:00"
+      "fetched_at": "2026-10-20T13:34:06.268089+00:00"
     }
   },
   {
@@ -1999,12 +2009,12 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 13,
-      "fetched_at": "2026-10-19T21:03:20.321049+00:00"
+      "fetched_at": "2026-10-20T13:34:06.800708+00:00"
     }
   },
   {
     "id": 20264699,
-    "updated": "2026-10-19T10:08:19Z",
+    "updated": "2026-10-20T13:21:25Z",
     "additionalIndexing": "55;2846;2446",
     "affairType": {
       "abbreviation": "Ip.",
@@ -2135,7 +2145,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 14,
-      "fetched_at": "2026-10-19T21:03:20.873483+00:00"
+      "fetched_at": "2026-10-20T13:34:07.336080+00:00"
     }
   },
   {
@@ -2327,7 +2337,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 15,
-      "fetched_at": "2026-10-19T21:03:21.464543+00:00"
+      "fetched_at": "2026-10-20T13:34:07.899471+00:00"
     }
   },
   {
@@ -2439,7 +2449,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 16,
-      "fetched_at": "2026-10-19T21:03:21.970872+00:00"
+      "fetched_at": "2026-10-20T13:34:08.443710+00:00"
     }
   },
   {
@@ -2571,7 +2581,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 17,
-      "fetched_at": "2026-10-19T21:03:22.630270+00:00"
+      "fetched_at": "2026-10-20T13:34:09.020432+00:00"
     }
   },
   {
@@ -2690,7 +2700,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 18,
-      "fetched_at": "2026-10-19T21:03:23.173902+00:00"
+      "fetched_at": "2026-10-20T13:34:09.552235+00:00"
     }
   },
   {
@@ -2862,7 +2872,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 19,
-      "fetched_at": "2026-10-19T21:03:23.738308+00:00"
+      "fetched_at": "2026-10-20T13:34:10.143031+00:00"
     }
   },
   {
@@ -3118,7 +3128,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 20,
-      "fetched_at": "2026-10-19T21:03:24.369525+00:00"
+      "fetched_at": "2026-10-20T13:34:10.674312+00:00"
     }
   },
   {
@@ -3274,7 +3284,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 21,
-      "fetched_at": "2026-10-19T21:03:24.891328+00:00"
+      "fetched_at": "2026-10-20T13:34:11.202687+00:00"
     }
   },
   {
@@ -3896,12 +3906,12 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 22,
-      "fetched_at": "2026-10-19T21:03:25.429393+00:00"
+      "fetched_at": "2026-10-20T13:34:11.761344+00:00"
     }
   },
   {
     "id": 20264690,
-    "updated": "2026-10-13T13:42:39Z",
+    "updated": "2026-10-20T13:20:43Z",
     "additionalIndexing": "08;24",
     "affairType": {
       "abbreviation": "Ip.",
@@ -4075,7 +4085,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 23,
-      "fetched_at": "2026-10-19T21:03:25.940426+00:00"
+      "fetched_at": "2026-10-20T13:34:12.348972+00:00"
     }
   },
   {
@@ -4304,7 +4314,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 24,
-      "fetched_at": "2026-10-19T21:03:26.525591+00:00"
+      "fetched_at": "2026-10-20T13:34:12.899759+00:00"
     }
   },
   {
@@ -4510,7 +4520,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 25,
-      "fetched_at": "2026-10-19T21:03:27.109704+00:00"
+      "fetched_at": "2026-10-20T13:34:13.500324+00:00"
     }
   },
   {
@@ -4702,7 +4712,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 26,
-      "fetched_at": "2026-10-19T21:03:27.651536+00:00"
+      "fetched_at": "2026-10-20T13:34:14.041254+00:00"
     }
   },
   {
@@ -4821,7 +4831,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 27,
-      "fetched_at": "2026-10-19T21:03:28.252622+00:00"
+      "fetched_at": "2026-10-20T13:34:14.584359+00:00"
     }
   },
   {
@@ -4980,7 +4990,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 28,
-      "fetched_at": "2026-10-19T21:03:28.776344+00:00"
+      "fetched_at": "2026-10-20T13:34:15.139597+00:00"
     }
   },
   {
@@ -5149,7 +5159,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 29,
-      "fetched_at": "2026-10-19T21:03:29.359238+00:00"
+      "fetched_at": "2026-10-20T13:34:15.735936+00:00"
     }
   },
   {
@@ -5308,7 +5318,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 30,
-      "fetched_at": "2026-10-19T21:03:29.895776+00:00"
+      "fetched_at": "2026-10-20T13:34:16.306590+00:00"
     }
   },
   {
@@ -5477,7 +5487,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 31,
-      "fetched_at": "2026-10-19T21:03:30.485865+00:00"
+      "fetched_at": "2026-10-20T13:34:16.851938+00:00"
     }
   },
   {
@@ -5653,7 +5663,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 32,
-      "fetched_at": "2026-10-19T21:03:31.092226+00:00"
+      "fetched_at": "2026-10-20T13:34:17.476649+00:00"
     }
   },
   {
@@ -5765,7 +5775,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 33,
-      "fetched_at": "2026-10-19T21:03:31.602409+00:00"
+      "fetched_at": "2026-10-20T13:34:18.008007+00:00"
     }
   },
   {
@@ -5924,7 +5934,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 34,
-      "fetched_at": "2026-10-19T21:03:32.237638+00:00"
+      "fetched_at": "2026-10-20T13:34:18.540674+00:00"
     }
   },
   {
@@ -6043,7 +6053,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 35,
-      "fetched_at": "2026-10-19T21:03:33.062188+00:00"
+      "fetched_at": "2026-10-20T13:34:19.064366+00:00"
     }
   },
   {
@@ -6232,7 +6242,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 36,
-      "fetched_at": "2026-10-19T21:03:33.592361+00:00"
+      "fetched_at": "2026-10-20T13:34:19.800908+00:00"
     }
   },
   {
@@ -6384,7 +6394,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 37,
-      "fetched_at": "2026-10-19T21:03:34.149080+00:00"
+      "fetched_at": "2026-10-20T13:34:20.402047+00:00"
     }
   },
   {
@@ -6523,7 +6533,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 38,
-      "fetched_at": "2026-10-19T21:03:34.672077+00:00"
+      "fetched_at": "2026-10-20T13:34:20.917917+00:00"
     }
   },
   {
@@ -6665,7 +6675,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 39,
-      "fetched_at": "2026-10-19T21:03:35.351250+00:00"
+      "fetched_at": "2026-10-20T13:34:21.670635+00:00"
     }
   },
   {
@@ -6797,7 +6807,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 40,
-      "fetched_at": "2026-10-19T21:03:35.878971+00:00"
+      "fetched_at": "2026-10-20T13:34:22.233274+00:00"
     }
   },
   {
@@ -6973,7 +6983,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 41,
-      "fetched_at": "2026-10-19T21:03:36.403038+00:00"
+      "fetched_at": "2026-10-20T13:34:22.825813+00:00"
     }
   },
   {
@@ -7192,12 +7202,12 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 42,
-      "fetched_at": "2026-10-19T21:03:36.978266+00:00"
+      "fetched_at": "2026-10-20T13:34:23.347296+00:00"
     }
   },
   {
     "id": 20264670,
-    "updated": "2026-10-13T13:40:30Z",
+    "updated": "2026-10-20T13:19:54Z",
     "additionalIndexing": "08;1231;15;1236",
     "affairType": {
       "abbreviation": "Ip.",
@@ -7401,7 +7411,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 43,
-      "fetched_at": "2026-10-19T21:03:37.496793+00:00"
+      "fetched_at": "2026-10-20T13:34:23.955408+00:00"
     }
   },
   {
@@ -7657,7 +7667,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 44,
-      "fetched_at": "2026-10-19T21:03:38.065272+00:00"
+      "fetched_at": "2026-10-20T13:34:24.567368+00:00"
     }
   },
   {
@@ -7786,7 +7796,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 45,
-      "fetched_at": "2026-10-19T21:03:38.581524+00:00"
+      "fetched_at": "2026-10-20T13:34:25.116724+00:00"
     }
   },
   {
@@ -8088,7 +8098,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 46,
-      "fetched_at": "2026-10-19T21:03:39.096833+00:00"
+      "fetched_at": "2026-10-20T13:34:25.674075+00:00"
     }
   },
   {
@@ -8314,7 +8324,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 47,
-      "fetched_at": "2026-10-19T21:03:39.751936+00:00"
+      "fetched_at": "2026-10-20T13:34:26.306251+00:00"
     }
   },
   {
@@ -8476,12 +8486,12 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 48,
-      "fetched_at": "2026-10-19T21:03:40.286604+00:00"
+      "fetched_at": "2026-10-20T13:34:26.839585+00:00"
     }
   },
   {
     "id": 20264664,
-    "updated": "2026-10-13T09:03:36Z",
+    "updated": "2026-10-20T13:19:12Z",
     "additionalIndexing": "08;2811;1231;34",
     "affairType": {
       "abbreviation": "Ip.",
@@ -8586,21 +8596,21 @@
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "Transnationale Repression in der Schweiz und Umsetzung des Berichts des Bundesrates: Wo stehen wir?"
+        "value": "Transnationale Repression in der Schweiz und Umsetzung des Berichts des Bundesrates. Wo stehen wir?"
       }
     ],
-    "title": "Transnationale Repression in der Schweiz und Umsetzung des Berichts des Bundesrates: Wo stehen wir?",
+    "title": "Transnationale Repression in der Schweiz und Umsetzung des Berichts des Bundesrates. Wo stehen wir?",
     "_site": {
       "formatted_id": "26.4664",
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 49,
-      "fetched_at": "2026-10-19T21:03:40.812877+00:00"
+      "fetched_at": "2026-10-20T13:34:27.360126+00:00"
     }
   },
   {
     "id": 20264663,
-    "updated": "2026-10-06T14:51:06Z",
+    "updated": "2026-10-20T14:20:57Z",
     "additionalIndexing": "52;15;09",
     "affairType": {
       "abbreviation": "Ip.",
@@ -8805,19 +8815,26 @@
     "texts": [
       {
         "type": {
+          "id": 5,
+          "name": "Eingereichter Text"
+        },
+        "value": "<p>Die Schweiz verfügt über bedeutende natürliche Ressourcen, insbesondere über mineralische Rohstoffe, die für das Bauwesen unverzichtbar sind: Kies, Sand, Kalk, Ton und Hartstein.</p><p>Gemäss swisstopo werden in der Schweiz jährlich knapp 55&nbsp;Millionen Tonnen mineralischer Rohstoffe verbraucht, wobei ein Grossteil des Bedarfs durch die inländische Produktion gedeckt werden kann. Diese Ressourcen sind daher ein wichtiger Faktor unserer Versorgungssicherheit.</p><p>Dennoch werden Rohstoffe, die in unserem Land verfügbar wären, zuweilen aus dem Ausland importiert und über weite Strecken transportiert. Es scheint widersprüchlich, unsere eigenen Ressourcen unter Einhaltung hoher Umweltstandards zu nutzen und gleichzeitig ähnliche Rohstoffe zu importieren, die Hunderte von Kilometern per Lastwagen zurückgelegt haben&nbsp;– mit den damit verbundenen CO₂-Emissionen.</p><p>Durch die Nutzung unserer einheimischen Ressourcen lassen sich die Transportwege verkürzen, CO₂-Emissionen reduzieren, die Autonomie stärken sowie Arbeitsplätze und Wertschöpfung in den Regionen erhalten.</p><p>Der Schutz der Umwelt, der Landschaften, der landwirtschaftlichen Flächen und der Gewässer muss selbstverständlich gewährleistet sein. Wenn jedoch Ressourcen verfügbar sind und ihre Gewinnung in der Schweiz zugelassen ist, muss ihre Nutzung Teil unserer Versorgungspolitik sein.</p><p>Ich bitte deshalb den Bundesrat, folgende Fragen zu beantworten:</p><ol style=\"list-style-type:decimal;\"><li>Welche Bedeutung misst er den einheimischen mineralischen Rohstoffen in seiner Versorgungspolitik bei?</li><li>Welche Mengen an Kies, Sand und anderen Gesteinsmaterialien werden jährlich in die Schweiz importiert, und wie haben sich diese Importe entwickelt?</li><li>Wie erklärt er, dass Rohstoffe über weite Strecken importiert werden, obwohl vergleichbare Ressourcen in der Schweiz verfügbar sind, insbesondere im Hinblick auf die durch den Transport verursachten CO₂-Emissionen?</li><li>Wie werden bei öffentlichen Aufträgen und Infrastrukturprojekten des Bundes die Herkunft der Rohstoffe, die Transportwege, die CO₂-Emissionen und die Verfügbarkeit einheimischer Ressourcen berücksichtigt?</li><li>Ist der Bundesrat der Ansicht, dass die aktuellen Rahmenbedingungen die nachhaltige Nutzung der Schweizer Bodenschätze ausreichend fördern, und welche Verbesserungen sieht er vor?</li></ol>"
+      },
+      {
+        "type": {
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "Titel folgt"
+        "value": "Mineralische Rohstoffe unseres Landes stärker nutzen"
       }
     ],
-    "title": "Titel folgt",
+    "title": "Mineralische Rohstoffe unseres Landes stärker nutzen",
     "_site": {
       "formatted_id": "26.4663",
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 50,
-      "fetched_at": "2026-10-19T21:03:41.360631+00:00"
+      "fetched_at": "2026-10-20T13:34:27.892753+00:00"
     }
   },
   {
@@ -9049,12 +9066,12 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 51,
-      "fetched_at": "2026-10-19T21:03:41.973733+00:00"
+      "fetched_at": "2026-10-20T13:34:28.442289+00:00"
     }
   },
   {
     "id": 20264661,
-    "updated": "2026-10-19T09:23:39Z",
+    "updated": "2026-10-20T13:17:53Z",
     "additionalIndexing": "15;1216;28",
     "affairType": {
       "abbreviation": "Ip.",
@@ -9159,16 +9176,16 @@
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "Reinigungsmittel als «K.-o.-Tropfen»: Welche Massnahmen ergreift der Bundesrat?"
+        "value": "Reinigungsmittel als \"K.-o.-Tropfen\". Welche Massnahmen ergreift der Bundesrat?"
       }
     ],
-    "title": "Reinigungsmittel als «K.-o.-Tropfen»: Welche Massnahmen ergreift der Bundesrat?",
+    "title": "Reinigungsmittel als \"K.-o.-Tropfen\". Welche Massnahmen ergreift der Bundesrat?",
     "_site": {
       "formatted_id": "26.4661",
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 52,
-      "fetched_at": "2026-10-19T21:03:42.506909+00:00"
+      "fetched_at": "2026-10-20T13:34:28.973139+00:00"
     }
   },
   {
@@ -9287,7 +9304,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 53,
-      "fetched_at": "2026-10-19T21:03:43.197943+00:00"
+      "fetched_at": "2026-10-20T13:34:29.488600+00:00"
     }
   },
   {
@@ -9406,7 +9423,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 54,
-      "fetched_at": "2026-10-19T21:03:43.714484+00:00"
+      "fetched_at": "2026-10-20T13:34:30.017423+00:00"
     }
   },
   {
@@ -9688,7 +9705,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 55,
-      "fetched_at": "2026-10-19T21:03:44.389739+00:00"
+      "fetched_at": "2026-10-20T13:34:30.588329+00:00"
     }
   },
   {
@@ -9990,7 +10007,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 56,
-      "fetched_at": "2026-10-19T21:03:45.030444+00:00"
+      "fetched_at": "2026-10-20T13:34:31.126689+00:00"
     }
   },
   {
@@ -10152,7 +10169,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 57,
-      "fetched_at": "2026-10-19T21:03:45.585685+00:00"
+      "fetched_at": "2026-10-20T13:34:31.765418+00:00"
     }
   },
   {
@@ -10384,7 +10401,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 58,
-      "fetched_at": "2026-10-19T21:03:46.210560+00:00"
+      "fetched_at": "2026-10-20T13:34:32.445138+00:00"
     }
   },
   {
@@ -10686,7 +10703,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 59,
-      "fetched_at": "2026-10-19T21:03:46.830426+00:00"
+      "fetched_at": "2026-10-20T13:34:33.022631+00:00"
     }
   },
   {
@@ -11018,7 +11035,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 60,
-      "fetched_at": "2026-10-19T21:03:47.481912+00:00"
+      "fetched_at": "2026-10-20T13:34:33.607690+00:00"
     }
   },
   {
@@ -11200,7 +11217,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 61,
-      "fetched_at": "2026-10-19T21:03:48.124326+00:00"
+      "fetched_at": "2026-10-20T13:34:34.131939+00:00"
     }
   },
   {
@@ -11396,7 +11413,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 62,
-      "fetched_at": "2026-10-19T21:03:48.714979+00:00"
+      "fetched_at": "2026-10-20T13:34:34.646773+00:00"
     }
   },
   {
@@ -11547,7 +11564,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 63,
-      "fetched_at": "2026-10-19T21:03:49.239220+00:00"
+      "fetched_at": "2026-10-20T13:34:35.171532+00:00"
     }
   },
   {
@@ -11813,7 +11830,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 64,
-      "fetched_at": "2026-10-19T21:03:49.858799+00:00"
+      "fetched_at": "2026-10-20T13:34:35.703025+00:00"
     }
   },
   {
@@ -11939,7 +11956,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 65,
-      "fetched_at": "2026-10-19T21:03:50.439404+00:00"
+      "fetched_at": "2026-10-20T13:34:36.257834+00:00"
     }
   },
   {
@@ -12058,7 +12075,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 66,
-      "fetched_at": "2026-10-19T21:03:51.046755+00:00"
+      "fetched_at": "2026-10-20T13:34:36.800962+00:00"
     }
   },
   {
@@ -12245,7 +12262,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 67,
-      "fetched_at": "2026-10-19T21:03:51.655965+00:00"
+      "fetched_at": "2026-10-20T13:34:37.360767+00:00"
     }
   },
   {
@@ -12511,7 +12528,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 68,
-      "fetched_at": "2026-10-19T21:03:52.173914+00:00"
+      "fetched_at": "2026-10-20T13:34:37.883957+00:00"
     }
   },
   {
@@ -12697,7 +12714,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 69,
-      "fetched_at": "2026-10-19T21:03:52.731335+00:00"
+      "fetched_at": "2026-10-20T13:34:38.414959+00:00"
     }
   },
   {
@@ -12869,7 +12886,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 70,
-      "fetched_at": "2026-10-19T21:03:53.401571+00:00"
+      "fetched_at": "2026-10-20T13:34:38.955984+00:00"
     }
   },
   {
@@ -13055,7 +13072,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 71,
-      "fetched_at": "2026-10-19T21:03:53.919440+00:00"
+      "fetched_at": "2026-10-20T13:34:39.501210+00:00"
     }
   },
   {
@@ -13267,7 +13284,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 72,
-      "fetched_at": "2026-10-19T21:03:54.444470+00:00"
+      "fetched_at": "2026-10-20T13:34:40.190994+00:00"
     }
   },
   {
@@ -13489,12 +13506,12 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 73,
-      "fetched_at": "2026-10-19T21:03:54.984801+00:00"
+      "fetched_at": "2026-10-20T13:34:40.740156+00:00"
     }
   },
   {
     "id": 20264639,
-    "updated": "2026-10-19T14:40:20Z",
+    "updated": "2026-10-20T13:16:34Z",
     "additionalIndexing": "2841",
     "affairType": {
       "abbreviation": "Mo.",
@@ -13846,21 +13863,21 @@
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "Brustkrebs-Screening: Befreiung von der Franchise auf dem gesamten diagnostischen Pfad"
+        "value": "Brustkrebs-Screening. Befreiung von der Franchise auf dem gesamten diagnostischen Pfad"
       }
     ],
-    "title": "Brustkrebs-Screening: Befreiung von der Franchise auf dem gesamten diagnostischen Pfad",
+    "title": "Brustkrebs-Screening. Befreiung von der Franchise auf dem gesamten diagnostischen Pfad",
     "_site": {
       "formatted_id": "26.4639",
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 74,
-      "fetched_at": "2026-10-19T21:03:55.639015+00:00"
+      "fetched_at": "2026-10-20T13:34:41.285002+00:00"
     }
   },
   {
     "id": 20264638,
-    "updated": "2026-10-15T07:57:28Z",
+    "updated": "2026-10-20T13:15:40Z",
     "additionalIndexing": "55;2841;52",
     "affairType": {
       "abbreviation": "Ip.",
@@ -14081,7 +14098,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 75,
-      "fetched_at": "2026-10-19T21:03:56.205122+00:00"
+      "fetched_at": "2026-10-20T13:34:41.806988+00:00"
     }
   },
   {
@@ -14367,7 +14384,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 76,
-      "fetched_at": "2026-10-19T21:03:56.748607+00:00"
+      "fetched_at": "2026-10-20T13:34:42.334860+00:00"
     }
   },
   {
@@ -14486,7 +14503,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 77,
-      "fetched_at": "2026-10-19T21:03:57.258193+00:00"
+      "fetched_at": "2026-10-20T13:34:42.888731+00:00"
     }
   },
   {
@@ -14688,7 +14705,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 78,
-      "fetched_at": "2026-10-19T21:03:57.779368+00:00"
+      "fetched_at": "2026-10-20T13:34:43.421012+00:00"
     }
   },
   {
@@ -14870,7 +14887,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 79,
-      "fetched_at": "2026-10-19T21:03:58.302600+00:00"
+      "fetched_at": "2026-10-20T13:34:44.008019+00:00"
     }
   },
   {
@@ -15189,12 +15206,12 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 80,
-      "fetched_at": "2026-10-19T21:03:59.016317+00:00"
+      "fetched_at": "2026-10-20T13:34:44.585300+00:00"
     }
   },
   {
     "id": 20264632,
-    "updated": "2026-10-06T14:17:54Z",
+    "updated": "2026-10-20T14:22:43Z",
     "additionalIndexing": "52;09",
     "affairType": {
       "abbreviation": "Ip.",
@@ -15455,7 +15472,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 81,
-      "fetched_at": "2026-10-19T21:03:59.552379+00:00"
+      "fetched_at": "2026-10-20T13:34:45.115518+00:00"
     }
   },
   {
@@ -15577,7 +15594,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 82,
-      "fetched_at": "2026-10-19T21:04:00.071238+00:00"
+      "fetched_at": "2026-10-20T13:34:45.673145+00:00"
     }
   },
   {
@@ -16243,7 +16260,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 83,
-      "fetched_at": "2026-10-19T21:04:00.616947+00:00"
+      "fetched_at": "2026-10-20T13:34:46.224911+00:00"
     }
   },
   {
@@ -16479,7 +16496,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 84,
-      "fetched_at": "2026-10-19T21:04:01.150561+00:00"
+      "fetched_at": "2026-10-20T13:34:46.770191+00:00"
     }
   },
   {
@@ -16607,7 +16624,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 85,
-      "fetched_at": "2026-10-19T21:04:01.695883+00:00"
+      "fetched_at": "2026-10-20T13:34:47.354543+00:00"
     }
   },
   {
@@ -16893,12 +16910,12 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 86,
-      "fetched_at": "2026-10-19T21:04:02.496466+00:00"
+      "fetched_at": "2026-10-20T13:34:47.990400+00:00"
     }
   },
   {
     "id": 20264626,
-    "updated": "2026-10-06T14:12:41Z",
+    "updated": "2026-10-20T07:59:09Z",
     "additionalIndexing": "52;24",
     "affairType": {
       "abbreviation": "Mo.",
@@ -17059,7 +17076,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 87,
-      "fetched_at": "2026-10-19T21:04:03.057030+00:00"
+      "fetched_at": "2026-10-20T13:34:48.580594+00:00"
     }
   },
   {
@@ -17345,7 +17362,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 88,
-      "fetched_at": "2026-10-19T21:04:03.588744+00:00"
+      "fetched_at": "2026-10-20T13:34:49.103628+00:00"
     }
   },
   {
@@ -17481,7 +17498,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 89,
-      "fetched_at": "2026-10-19T21:04:04.096831+00:00"
+      "fetched_at": "2026-10-20T13:34:49.621836+00:00"
     }
   },
   {
@@ -17593,7 +17610,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 90,
-      "fetched_at": "2026-10-19T21:04:04.625905+00:00"
+      "fetched_at": "2026-10-20T13:34:50.149781+00:00"
     }
   },
   {
@@ -17705,7 +17722,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 91,
-      "fetched_at": "2026-10-19T21:04:05.132155+00:00"
+      "fetched_at": "2026-10-20T13:34:50.713302+00:00"
     }
   },
   {
@@ -18247,7 +18264,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 92,
-      "fetched_at": "2026-10-19T21:04:05.684574+00:00"
+      "fetched_at": "2026-10-20T13:34:51.278189+00:00"
     }
   },
   {
@@ -18523,7 +18540,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 93,
-      "fetched_at": "2026-10-19T21:04:06.257899+00:00"
+      "fetched_at": "2026-10-20T13:34:51.803620+00:00"
     }
   },
   {
@@ -18769,7 +18786,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 94,
-      "fetched_at": "2026-10-19T21:04:06.835144+00:00"
+      "fetched_at": "2026-10-20T13:34:52.332068+00:00"
     }
   },
   {
@@ -19195,7 +19212,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 95,
-      "fetched_at": "2026-10-19T21:04:07.361611+00:00"
+      "fetched_at": "2026-10-20T13:34:52.867914+00:00"
     }
   },
   {
@@ -19337,7 +19354,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 96,
-      "fetched_at": "2026-10-19T21:04:07.931681+00:00"
+      "fetched_at": "2026-10-20T13:34:53.391700+00:00"
     }
   },
   {
@@ -19571,7 +19588,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 97,
-      "fetched_at": "2026-10-19T21:04:08.486121+00:00"
+      "fetched_at": "2026-10-20T13:34:53.925682+00:00"
     }
   },
   {
@@ -19683,7 +19700,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 98,
-      "fetched_at": "2026-10-19T21:04:09.086674+00:00"
+      "fetched_at": "2026-10-20T13:34:54.452602+00:00"
     }
   },
   {
@@ -19869,7 +19886,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 99,
-      "fetched_at": "2026-10-19T21:04:09.856321+00:00"
+      "fetched_at": "2026-10-20T13:34:55.009523+00:00"
     }
   },
   {
@@ -20215,7 +20232,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 100,
-      "fetched_at": "2026-10-19T21:04:10.543604+00:00"
+      "fetched_at": "2026-10-20T13:34:55.557678+00:00"
     }
   },
   {
@@ -20567,7 +20584,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 101,
-      "fetched_at": "2026-10-19T21:04:11.153335+00:00"
+      "fetched_at": "2026-10-20T13:34:56.084035+00:00"
     }
   },
   {
@@ -20693,7 +20710,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 102,
-      "fetched_at": "2026-10-19T21:04:11.665793+00:00"
+      "fetched_at": "2026-10-20T13:34:56.600006+00:00"
     }
   },
   {
@@ -20989,7 +21006,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 103,
-      "fetched_at": "2026-10-19T21:04:12.195521+00:00"
+      "fetched_at": "2026-10-20T13:34:57.233986+00:00"
     }
   },
   {
@@ -21165,7 +21182,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 104,
-      "fetched_at": "2026-10-19T21:04:12.776956+00:00"
+      "fetched_at": "2026-10-20T13:34:57.797500+00:00"
     }
   },
   {
@@ -21341,12 +21358,12 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 105,
-      "fetched_at": "2026-10-19T21:04:13.556265+00:00"
+      "fetched_at": "2026-10-20T13:34:58.377822+00:00"
     }
   },
   {
     "id": 20264607,
-    "updated": "2026-10-15T10:58:51Z",
+    "updated": "2026-10-20T13:15:07Z",
     "additionalIndexing": "34;04;15",
     "affairType": {
       "abbreviation": "Mo.",
@@ -21478,16 +21495,16 @@
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "«Demokratie- und wirtschaftsfreundliche Briefporti»"
+        "value": "\"Demokratie- und wirtschaftsfreundliche Briefporti\""
       }
     ],
-    "title": "«Demokratie- und wirtschaftsfreundliche Briefporti»",
+    "title": "\"Demokratie- und wirtschaftsfreundliche Briefporti\"",
     "_site": {
       "formatted_id": "26.4607",
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 106,
-      "fetched_at": "2026-10-19T21:04:14.294502+00:00"
+      "fetched_at": "2026-10-20T13:34:58.953231+00:00"
     }
   },
   {
@@ -21899,7 +21916,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 107,
-      "fetched_at": "2026-10-19T21:04:14.855678+00:00"
+      "fetched_at": "2026-10-20T13:34:59.479677+00:00"
     }
   },
   {
@@ -22105,7 +22122,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 108,
-      "fetched_at": "2026-10-19T21:04:15.397819+00:00"
+      "fetched_at": "2026-10-20T13:35:00.137686+00:00"
     }
   },
   {
@@ -22317,7 +22334,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 109,
-      "fetched_at": "2026-10-19T21:04:15.919853+00:00"
+      "fetched_at": "2026-10-20T13:35:00.842936+00:00"
     }
   },
   {
@@ -22543,7 +22560,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 110,
-      "fetched_at": "2026-10-19T21:04:16.458976+00:00"
+      "fetched_at": "2026-10-20T13:35:01.537185+00:00"
     }
   },
   {
@@ -22779,7 +22796,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 111,
-      "fetched_at": "2026-10-19T21:04:17.037207+00:00"
+      "fetched_at": "2026-10-20T13:35:02.223174+00:00"
     }
   },
   {
@@ -23011,7 +23028,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 112,
-      "fetched_at": "2026-10-19T21:04:17.595624+00:00"
+      "fetched_at": "2026-10-20T13:35:02.840462+00:00"
     }
   },
   {
@@ -23253,7 +23270,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 113,
-      "fetched_at": "2026-10-19T21:04:18.206070+00:00"
+      "fetched_at": "2026-10-20T13:35:03.556077+00:00"
     }
   },
   {
@@ -23679,7 +23696,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 114,
-      "fetched_at": "2026-10-19T21:04:18.753263+00:00"
+      "fetched_at": "2026-10-20T13:35:04.091643+00:00"
     }
   },
   {
@@ -24041,7 +24058,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 115,
-      "fetched_at": "2026-10-19T21:04:19.348996+00:00"
+      "fetched_at": "2026-10-20T13:35:04.666402+00:00"
     }
   },
   {
@@ -24263,7 +24280,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 116,
-      "fetched_at": "2026-10-19T21:04:19.956960+00:00"
+      "fetched_at": "2026-10-20T13:35:05.188509+00:00"
     }
   },
   {
@@ -24805,7 +24822,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 117,
-      "fetched_at": "2026-10-19T21:04:20.568486+00:00"
+      "fetched_at": "2026-10-20T13:35:05.732164+00:00"
     }
   },
   {
@@ -25131,7 +25148,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 118,
-      "fetched_at": "2026-10-19T21:04:21.106209+00:00"
+      "fetched_at": "2026-10-20T13:35:06.311394+00:00"
     }
   },
   {
@@ -25553,7 +25570,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 119,
-      "fetched_at": "2026-10-19T21:04:21.635633+00:00"
+      "fetched_at": "2026-10-20T13:35:06.843534+00:00"
     }
   },
   {
@@ -25785,7 +25802,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 120,
-      "fetched_at": "2026-10-19T21:04:22.150416+00:00"
+      "fetched_at": "2026-10-20T13:35:07.363471+00:00"
     }
   },
   {
@@ -26131,12 +26148,12 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 121,
-      "fetched_at": "2026-10-19T21:04:22.750548+00:00"
+      "fetched_at": "2026-10-20T13:35:07.888859+00:00"
     }
   },
   {
     "id": 20264591,
-    "updated": "2026-10-13T14:44:43Z",
+    "updated": "2026-10-20T13:14:08Z",
     "additionalIndexing": "52;2841;32",
     "affairType": {
       "abbreviation": "Mo.",
@@ -26448,21 +26465,21 @@
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "Dringende Hitzeschutzprojekte rascher ermöglichen: Zusätzliches Eingabefenster für Adapt+"
+        "value": "Dringende Hitzeschutzprojekte rascher ermöglichen. Zusätzliches Eingabefenster für Adapt plus"
       }
     ],
-    "title": "Dringende Hitzeschutzprojekte rascher ermöglichen: Zusätzliches Eingabefenster für Adapt+",
+    "title": "Dringende Hitzeschutzprojekte rascher ermöglichen. Zusätzliches Eingabefenster für Adapt plus",
     "_site": {
       "formatted_id": "26.4591",
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 122,
-      "fetched_at": "2026-10-19T21:04:23.271211+00:00"
+      "fetched_at": "2026-10-20T13:35:08.420061+00:00"
     }
   },
   {
     "id": 20264590,
-    "updated": "2026-10-13T14:47:48Z",
+    "updated": "2026-10-20T13:08:46Z",
     "additionalIndexing": "52;24",
     "affairType": {
       "abbreviation": "Mo.",
@@ -26793,7 +26810,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 123,
-      "fetched_at": "2026-10-19T21:04:23.810170+00:00"
+      "fetched_at": "2026-10-20T13:35:08.960180+00:00"
     }
   },
   {
@@ -26905,7 +26922,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 124,
-      "fetched_at": "2026-10-19T21:04:24.388571+00:00"
+      "fetched_at": "2026-10-20T13:35:09.475869+00:00"
     }
   },
   {
@@ -27024,12 +27041,12 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 125,
-      "fetched_at": "2026-10-19T21:04:24.905899+00:00"
+      "fetched_at": "2026-10-20T13:35:10.014658+00:00"
     }
   },
   {
     "id": 20264587,
-    "updated": "2026-10-19T08:38:28Z",
+    "updated": "2026-10-20T13:11:56Z",
     "additionalIndexing": "55;52",
     "affairType": {
       "abbreviation": "Ip.",
@@ -27150,7 +27167,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 126,
-      "fetched_at": "2026-10-19T21:04:25.435033+00:00"
+      "fetched_at": "2026-10-20T13:35:10.552046+00:00"
     }
   },
   {
@@ -27329,7 +27346,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 127,
-      "fetched_at": "2026-10-19T21:04:26.072271+00:00"
+      "fetched_at": "2026-10-20T13:35:11.104324+00:00"
     }
   },
   {
@@ -27531,7 +27548,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 128,
-      "fetched_at": "2026-10-19T21:04:26.625106+00:00"
+      "fetched_at": "2026-10-20T13:35:11.697380+00:00"
     }
   },
   {
@@ -27853,7 +27870,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 129,
-      "fetched_at": "2026-10-19T21:04:27.143078+00:00"
+      "fetched_at": "2026-10-20T13:35:12.219431+00:00"
     }
   },
   {
@@ -27965,12 +27982,12 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 130,
-      "fetched_at": "2026-10-19T21:04:27.698620+00:00"
+      "fetched_at": "2026-10-20T13:35:12.781671+00:00"
     }
   },
   {
     "id": 20264582,
-    "updated": "2026-10-09T11:00:49Z",
+    "updated": "2026-10-20T14:38:58Z",
     "additionalIndexing": "2841;28;2836",
     "affairType": {
       "abbreviation": "Mo.",
@@ -28155,19 +28172,33 @@
     "texts": [
       {
         "type": {
+          "id": 6,
+          "name": "Begründung"
+        },
+        "value": "<p>Die von den Krankenkassenprämien ausgehende finanzielle Belastung ist für einen wachsenden Teil der Schweizer Bevölkerung strukturell untragbar geworden.</p><p>&nbsp;</p><p>Besonders Familien, Pensionierte, Menschen mit tiefen Einkommen und der Mittelstand leiden unter den sukzessiven und einschneidenden Erhöhungen, die der tatsächlichen Entwicklung von Löhnen und Kaufkraft in keiner Weise mehr entsprechen. Zu den inakzeptablen Prämienerhöhungen kommen die steigenden Kosten für Energie, Mieten usw. sowie die immer höheren allgemeinen Lebenshaltungskosten.</p><p>&nbsp;</p><p>Die damit einhergehende finanzielle Belastung gefährdet den universellen Zugang zu einer hochwertigen Gesundheitsversorgung, einer Säule des schweizerischen Sozialmodells.</p><p>&nbsp;</p><p>Die Branche ist nicht in der Lage, die Gesundheitskosten in den Griff zu bekommen. Dabei kann von der Bevölkerung nicht verlangt werden, die Machtlosigkeit der betroffenen Akteure und Institutionen (Versicherer, Behörden, Pharmaindustrie, Ärzteschaft, Spitäler usw.) auf unbestimmte Zeit hinzunehmen.</p><p>&nbsp;</p><p>2028 braucht es eine längst fällige Pause, um die Schweizer Haushalte unverzüglich finanziell zu entlasten. Das einjährige Moratorium ermöglicht es, den nötigen Abstand zu gewinnen, damit die strukturellen Reformen, die Umsetzung der einheitlichen Finanzierung der Leistungen (EFAS), das Kostendämpfungspaket&nbsp;2 und die Projekte zur Digitalisierung des Gesundheitssystems endlich ihre Korrekturwirkung auf die allgemeinen Ausgaben entfalten können.&nbsp;</p><p>&nbsp;</p><p>Es geht also darum, mit einer ausserordentlichen und befristeten Krisenmassnahme die Bevölkerung zu entlasten und die betroffenen Akteure anzuregen, keine theoretischen, sondern handfeste Lösungen für diese inzwischen unhaltbaren Zustände zu finden.</p>"
+      },
+      {
+        "type": {
+          "id": 5,
+          "name": "Eingereichter Text"
+        },
+        "value": "<p>Der Bundesrat wird beauftragt, die nötigen gesetzlichen Massnahmen zu erarbeiten, damit die Prämien der obligatorischen Krankenpflegeversicherung (OKP) für das Jahr&nbsp;2028 für alle Versicherten auf dem genehmigten Stand von 2027 eingefroren werden.</p>"
+      },
+      {
+        "type": {
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "Titel folgt"
+        "value": "Moratorium für die Erhöhung der Krankenkassenprämien im Jahr 2028"
       }
     ],
-    "title": "Titel folgt",
+    "title": "Moratorium für die Erhöhung der Krankenkassenprämien im Jahr 2028",
     "_site": {
       "formatted_id": "26.4582",
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 131,
-      "fetched_at": "2026-10-19T21:04:28.248620+00:00"
+      "fetched_at": "2026-10-20T13:35:13.356504+00:00"
     }
   },
   {
@@ -28293,12 +28324,12 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 132,
-      "fetched_at": "2026-10-19T21:04:28.868243+00:00"
+      "fetched_at": "2026-10-20T13:35:13.937372+00:00"
     }
   },
   {
     "id": 20264580,
-    "updated": "2026-10-09T10:52:36Z",
+    "updated": "2026-10-20T14:37:32Z",
     "additionalIndexing": "2841",
     "affairType": {
       "abbreviation": "Mo.",
@@ -28523,19 +28554,33 @@
     "texts": [
       {
         "type": {
+          "id": 6,
+          "name": "Begründung"
+        },
+        "value": "<p>Im Bericht EFK-25604 werden die gewährten Vergünstigungen für 2024 allein bei Medikamenten auf 743&nbsp;Millionen Franken geschätzt. Davon seien nur 88&nbsp;Millionen weitergegeben worden. Die Differenz ist nicht unbedingt in vollem Masse unrechtmässig, doch ist die EFK der Ansicht, dass es bei 266&nbsp;Millionen Franken um rabattähnliche Skonti und Prozentabzüge geht, die weitergegeben werden müssten. Das BAG verfügt nicht über ausreichend Daten und hat bei einer Prüfung bisher noch nie eine Weitergabe verlangt.</p><p>&nbsp;</p><p>Derselbe Sachverhalt gilt für Laboranalysen. Das BAG anerkennt inzwischen, dass die «fees for service» eine Doppelvergütung darstellen, die vollumfänglich weitergegeben werden muss. Deren Abschaffung im Juli&nbsp;2026 korrigiert jedoch keine in der Vergangenheit gemachten Fehler.</p><p>&nbsp;</p><p>Die Zuständigkeiten sind verteilt: Artikel&nbsp;82<i>a</i> KVG gilt für Medikamente und Medizinprodukte, während andere Forderungen von den Versicherern und den Versicherten ausgehen, die häufig nicht über die entsprechenden Informationen verfügen. Zudem wurde vor Kurzem eine willkürliche Frist von fünf Jahren beschlossen. Dieses Geld stammt aus den Prämien und steht den Versicherten zu.</p>"
+      },
+      {
+        "type": {
+          "id": 5,
+          "name": "Eingereichter Text"
+        },
+        "value": "<p>Der Bundesrat wird beauftragt, alle direkten oder indirekten Vergünstigungen zu ermitteln, die unter Verstoss gegen Artikel&nbsp;56 Absatz&nbsp;3 KVG nicht an die Versicherer oder die Versicherten weitergegeben wurden, und deren Weitergabe zu veranlassen. Wenn die Zuständigkeit beim Bund liegt, fordert er die entsprechenden Beträge ein oder ordnet ihre Rückforderung an. In allen anderen Fällen sorgt er für die Koordination und stellt sicher, dass diejenigen, denen die Forderungen gelten, diesen nachkommen.</p><p>&nbsp;</p><p>Dieses Vorgehen gilt für einen Zeitraum von zehn Jahren vor Einreichung der vorliegenden Motion und die Zeit danach. Es betrifft alle Akteure und alle im Rahmen der OKP erstatteten Leistungen, insbesondere Rabatte, Rückvergütungen, Cashbacks und «fees for service» sowie indirekte Vergünstigungen und solche in Form von Naturalleistungen.</p><p>&nbsp;</p><p>Bei Bedarf erarbeitet der Bundesrat die rechtlichen Grundlagen dafür, dass für alle Personen, die solche Vergünstigungen gewährt oder erhalten haben, die Identität der Begünstigten, die Beträge und die Belege erhoben werden, ihre Rückforderung angeordnet bzw. koordiniert wird sowie eine Rückzahlungsfrist von zehn Jahren und die erforderlichen Übergangsbestimmungen vorgesehen werden.</p><p>&nbsp;</p><p>Bei freiwilliger Meldung und vollständiger Rückerstattung soll die unterlassene Weitergabe als fahrlässig begangen gelten und keine Strafe nach Artikel&nbsp;92 KVG nach sich ziehen.</p><p>&nbsp;</p><p>Die zurückgeforderten Beträge haben den Versicherten vollständig und nachprüfbar zugutezukommen, insbesondere durch Rückerstattung, Verrechnung oder Prämiensenkung.</p>"
+      },
+      {
+        "type": {
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "Titel folgt"
+        "value": "Rabatte und Retrozessionen in der OKP. Den Versicherten zurückgeben, was ihnen zusteht"
       }
     ],
-    "title": "Titel folgt",
+    "title": "Rabatte und Retrozessionen in der OKP. Den Versicherten zurückgeben, was ihnen zusteht",
     "_site": {
       "formatted_id": "26.4580",
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 133,
-      "fetched_at": "2026-10-19T21:04:29.476731+00:00"
+      "fetched_at": "2026-10-20T13:35:14.463709+00:00"
     }
   },
   {
@@ -28701,7 +28746,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 134,
-      "fetched_at": "2026-10-19T21:04:30.049751+00:00"
+      "fetched_at": "2026-10-20T13:35:14.985004+00:00"
     }
   },
   {
@@ -28833,7 +28878,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 135,
-      "fetched_at": "2026-10-19T21:04:30.606333+00:00"
+      "fetched_at": "2026-10-20T13:35:15.500442+00:00"
     }
   },
   {
@@ -29115,7 +29160,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 136,
-      "fetched_at": "2026-10-19T21:04:31.216033+00:00"
+      "fetched_at": "2026-10-20T13:35:16.040583+00:00"
     }
   },
   {
@@ -29244,7 +29289,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 137,
-      "fetched_at": "2026-10-19T21:04:31.814524+00:00"
+      "fetched_at": "2026-10-20T13:35:16.588466+00:00"
     }
   },
   {
@@ -29453,7 +29498,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 138,
-      "fetched_at": "2026-10-19T21:04:32.432252+00:00"
+      "fetched_at": "2026-10-20T13:35:17.121850+00:00"
     }
   },
   {
@@ -29619,7 +29664,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 139,
-      "fetched_at": "2026-10-19T21:04:33.039458+00:00"
+      "fetched_at": "2026-10-20T13:35:17.659206+00:00"
     }
   },
   {
@@ -29845,7 +29890,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 140,
-      "fetched_at": "2026-10-19T21:04:33.620666+00:00"
+      "fetched_at": "2026-10-20T13:35:18.210750+00:00"
     }
   },
   {
@@ -30157,7 +30202,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 142,
-      "fetched_at": "2026-10-19T21:04:34.712149+00:00"
+      "fetched_at": "2026-10-20T13:35:19.260786+00:00"
     }
   },
   {
@@ -30513,7 +30558,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 143,
-      "fetched_at": "2026-10-19T21:04:35.296770+00:00"
+      "fetched_at": "2026-10-20T13:35:19.909345+00:00"
     }
   },
   {
@@ -30742,12 +30787,12 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 144,
-      "fetched_at": "2026-10-19T21:04:35.811311+00:00"
+      "fetched_at": "2026-10-20T13:35:20.468567+00:00"
     }
   },
   {
     "id": 20264568,
-    "updated": "2026-10-16T13:17:37Z",
+    "updated": "2026-10-20T13:10:21Z",
     "additionalIndexing": "55;52",
     "affairType": {
       "abbreviation": "Mo.",
@@ -31268,7 +31313,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 145,
-      "fetched_at": "2026-10-19T21:04:36.364881+00:00"
+      "fetched_at": "2026-10-20T13:35:21.370291+00:00"
     }
   },
   {
@@ -31644,7 +31689,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 146,
-      "fetched_at": "2026-10-19T21:04:36.907828+00:00"
+      "fetched_at": "2026-10-20T13:35:21.923828+00:00"
     }
   },
   {
@@ -31756,7 +31801,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 147,
-      "fetched_at": "2026-10-19T21:04:37.426778+00:00"
+      "fetched_at": "2026-10-20T13:35:22.442029+00:00"
     }
   },
   {
@@ -32042,7 +32087,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 148,
-      "fetched_at": "2026-10-19T21:04:37.962981+00:00"
+      "fetched_at": "2026-10-20T13:35:23.059152+00:00"
     }
   },
   {
@@ -32338,7 +32383,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 149,
-      "fetched_at": "2026-10-19T21:04:38.486812+00:00"
+      "fetched_at": "2026-10-20T13:35:23.699315+00:00"
     }
   },
   {
@@ -32544,7 +32589,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 150,
-      "fetched_at": "2026-10-19T21:04:39.039000+00:00"
+      "fetched_at": "2026-10-20T13:35:24.266927+00:00"
     }
   },
   {
@@ -32730,7 +32775,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 151,
-      "fetched_at": "2026-10-19T21:04:39.595025+00:00"
+      "fetched_at": "2026-10-20T13:35:24.863681+00:00"
     }
   },
   {
@@ -32849,7 +32894,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 152,
-      "fetched_at": "2026-10-19T21:04:40.144929+00:00"
+      "fetched_at": "2026-10-20T13:35:25.430396+00:00"
     }
   },
   {
@@ -32975,7 +33020,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 153,
-      "fetched_at": "2026-10-19T21:04:40.666717+00:00"
+      "fetched_at": "2026-10-20T13:35:25.982125+00:00"
     }
   },
   {
@@ -33117,12 +33162,12 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 154,
-      "fetched_at": "2026-10-19T21:04:41.175491+00:00"
+      "fetched_at": "2026-10-20T13:35:26.496420+00:00"
     }
   },
   {
     "id": 20264558,
-    "updated": "2026-10-06T15:44:57Z",
+    "updated": "2026-10-20T08:09:37Z",
     "additionalIndexing": "44;1211;1221",
     "affairType": {
       "abbreviation": "Ip.",
@@ -33383,7 +33428,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 155,
-      "fetched_at": "2026-10-19T21:04:41.730433+00:00"
+      "fetched_at": "2026-10-20T13:35:27.107446+00:00"
     }
   },
   {
@@ -33495,7 +33540,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 156,
-      "fetched_at": "2026-10-19T21:04:42.279243+00:00"
+      "fetched_at": "2026-10-20T13:35:27.683478+00:00"
     }
   },
   {
@@ -33761,7 +33806,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 157,
-      "fetched_at": "2026-10-19T21:04:42.845707+00:00"
+      "fetched_at": "2026-10-20T13:35:28.272599+00:00"
     }
   },
   {
@@ -34187,7 +34232,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 158,
-      "fetched_at": "2026-10-19T21:04:43.407483+00:00"
+      "fetched_at": "2026-10-20T13:35:28.850110+00:00"
     }
   },
   {
@@ -34346,12 +34391,12 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 159,
-      "fetched_at": "2026-10-19T21:04:43.926205+00:00"
+      "fetched_at": "2026-10-20T13:35:29.439760+00:00"
     }
   },
   {
     "id": 20264553,
-    "updated": "2026-10-14T16:04:28Z",
+    "updated": "2026-10-20T13:09:38Z",
     "additionalIndexing": "55;36;15",
     "affairType": {
       "abbreviation": "Ip.",
@@ -34472,7 +34517,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 160,
-      "fetched_at": "2026-10-19T21:04:44.676609+00:00"
+      "fetched_at": "2026-10-20T13:35:29.990431+00:00"
     }
   },
   {
@@ -34584,7 +34629,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 161,
-      "fetched_at": "2026-10-19T21:04:45.243960+00:00"
+      "fetched_at": "2026-10-20T13:35:30.542216+00:00"
     }
   },
   {
@@ -34710,7 +34755,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 162,
-      "fetched_at": "2026-10-19T21:04:45.795715+00:00"
+      "fetched_at": "2026-10-20T13:35:31.113882+00:00"
     }
   },
   {
@@ -34820,7 +34865,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 163,
-      "fetched_at": "2026-10-19T21:04:46.422228+00:00"
+      "fetched_at": "2026-10-20T13:35:31.670039+00:00"
     }
   },
   {
@@ -35256,7 +35301,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 164,
-      "fetched_at": "2026-10-19T21:04:47.051426+00:00"
+      "fetched_at": "2026-10-20T13:35:32.260229+00:00"
     }
   },
   {
@@ -35400,7 +35445,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 165,
-      "fetched_at": "2026-10-19T21:04:47.605581+00:00"
+      "fetched_at": "2026-10-20T13:35:32.836990+00:00"
     }
   },
   {
@@ -35512,7 +35557,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 166,
-      "fetched_at": "2026-10-19T21:04:48.139932+00:00"
+      "fetched_at": "2026-10-20T13:35:33.387530+00:00"
     }
   },
   {
@@ -35698,12 +35743,12 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 167,
-      "fetched_at": "2026-10-19T21:04:48.680384+00:00"
+      "fetched_at": "2026-10-20T13:35:33.978208+00:00"
     }
   },
   {
     "id": 20264545,
-    "updated": "2026-10-05T15:13:23Z",
+    "updated": "2026-10-20T14:23:04Z",
     "additionalIndexing": "48;2446;15;52",
     "affairType": {
       "abbreviation": "Mo.",
@@ -35894,7 +35939,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 168,
-      "fetched_at": "2026-10-19T21:04:49.213916+00:00"
+      "fetched_at": "2026-10-20T13:35:34.581674+00:00"
     }
   },
   {
@@ -36170,7 +36215,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 169,
-      "fetched_at": "2026-10-19T21:04:49.786291+00:00"
+      "fetched_at": "2026-10-20T13:35:35.149669+00:00"
     }
   },
   {
@@ -36289,7 +36334,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 170,
-      "fetched_at": "2026-10-19T21:04:50.319700+00:00"
+      "fetched_at": "2026-10-20T13:35:35.730919+00:00"
     }
   },
   {
@@ -36421,7 +36466,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 171,
-      "fetched_at": "2026-10-19T21:04:50.837830+00:00"
+      "fetched_at": "2026-10-20T13:35:36.300530+00:00"
     }
   },
   {
@@ -36633,12 +36678,12 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 172,
-      "fetched_at": "2026-10-19T21:04:51.444054+00:00"
+      "fetched_at": "2026-10-20T13:35:36.820999+00:00"
     }
   },
   {
     "id": 20264540,
-    "updated": "2026-10-05T15:02:14Z",
+    "updated": "2026-10-20T14:35:40Z",
     "additionalIndexing": "2841;04",
     "affairType": {
       "abbreviation": "Mo.",
@@ -36823,19 +36868,33 @@
     "texts": [
       {
         "type": {
+          "id": 6,
+          "name": "Begründung"
+        },
+        "value": "<p>Im Bericht EFK-25604 werden die gewährten Vergünstigungen für 2024 allein bei Medikamenten auf 743&nbsp;Millionen Franken geschätzt. Davon seien nur 88&nbsp;Millionen weitergegeben worden. Die Differenz ist nicht unbedingt in vollem Masse unrechtmässig, doch ist die EFK der Ansicht, dass es bei 266&nbsp;Millionen Franken um rabattähnliche Skonti und Prozentabzüge geht, die weitergegeben werden müssten. Das BAG verfügt nicht über ausreichend Daten und hat bei einer Prüfung bisher noch nie eine Weitergabe verlangt.</p><p>&nbsp;</p><p>Derselbe Sachverhalt gilt für Laboranalysen. Das BAG anerkennt inzwischen, dass die «fees for service» eine Doppelvergütung darstellen, die vollumfänglich weitergegeben werden muss. Deren Abschaffung im Juli&nbsp;2026 korrigiert jedoch keine in der Vergangenheit gemachten Fehler.</p><p>&nbsp;</p><p>Vergünstigungen kommen nicht nur in Form von ausdrücklichen Rabatten vor. Auch Naturalleistungen oder Vorzugskonditionen, insbesondere die kostenlose oder vergünstigte Bereitstellung von Räumlichkeiten, Geräten oder Materialien sowie Geschenke, können sich wirtschaftlich ähnlich auswirken. Diese müssen daher in die Überprüfung einbezogen werden, um Umgehungen zu verhindern.</p><p>&nbsp;</p><p>Für eine praxisnahe Überprüfung der letzten zehn Jahre müssen alle Leistungserbringer eine unabhängige Kontrolle dieses Zeitraums veranlassen und Fehlbeträge melden und erstatten. Eine freiwillige Meldung ist, gekoppelt mit einer vollständigen Rückerstattung, als Korrektur einer fahrlässig unterlassenen Weitergabe zu behandeln und darf keine Strafe nach Artikel&nbsp;92 KVG zur Folge haben. Dieser Anreiz soll es ermöglichen, Beträge zügig zurückzufordern, ohne die Zahl der Verfahren zu vervielfachen.</p><p>&nbsp;</p><p>Eine systematische Überprüfung ist nur dann glaubwürdig, wenn das BAG zeitweise mit den entsprechenden Ressourcen ausgestattet wird.&nbsp;</p><p>&nbsp;</p><p>Die Zuständigkeiten sind verteilt: Artikel&nbsp;82<i>a</i> KVG gilt für Medikamente und Medizinprodukte, während andere Forderungen von den Versicherern und den Versicherten ausgehen, die häufig nicht über die entsprechenden Informationen verfügen. Zudem wurde vor Kurzem eine willkürliche Frist von fünf Jahren beschlossen. Dieses Geld stammt aus den Prämien und steht den Versicherten zu.</p>"
+      },
+      {
+        "type": {
+          "id": 5,
+          "name": "Eingereichter Text"
+        },
+        "value": "<p>Der Bundesrat wird beauftragt, alle direkten oder indirekten Vergünstigungen zu ermitteln, die unter Verstoss gegen Artikel&nbsp;56 Absatz&nbsp;3 KVG nicht an die Versicherer oder die Versicherten weitergegeben wurden bzw. nicht gemäss Artikel&nbsp;56 Absatz&nbsp;3<sup>bis</sup> KVG eingesetzt wurden, und deren Weitergabe zu veranlassen. Wenn die Zuständigkeit beim Bund liegt, fordert er die entsprechenden Beträge ein oder ordnet ihre Rückforderung an. In allen anderen Fällen sorgt er für die Koordination und stellt sicher, dass diejenigen, denen die Forderungen gelten, diesen nachkommen.</p><p>&nbsp;</p><p>Dieses Vorgehen gilt für einen Zeitraum von zehn Jahren vor Einreichung der vorliegenden Motion und die Zeit danach. Es betrifft alle Akteure und alle im Rahmen der OKP erstatteten Leistungen, insbesondere Rabatte, Rückvergütungen, Cashbacks und «fees for service» sowie indirekte Vergünstigungen und solche in Form von Naturalleistungen, wie die Vermietung von Räumlichkeiten zu Vorzugskonditionen, Geschenke oder die vergünstigte Bereitstellung von Geräten im Zusammenhang mit Medikamenten, Medizinprodukten, Laboranalysen oder weiteren Leistungen.</p><p>&nbsp;</p><p>Bei Bedarf erarbeitet der Bundesrat die rechtlichen Grundlagen dafür, dass für alle Personen, die solche Vergünstigungen gewährt oder erhalten haben, die Identität der Begünstigten, die Beträge und die Belege erhoben werden, ihre Rückforderung angeordnet bzw. koordiniert wird sowie eine Rückzahlungsfrist von zehn Jahren und die erforderlichen Übergangsbestimmungen vorgesehen werden. Alle Leistungserbringer sollen verpflichtet sein, sich für die vergangenen zehn Jahre von einer unabhängigen Revisionsstelle bescheinigen zu lassen, ob sie alle Vergünstigungen gesetzeskonform weitergegeben oder eingesetzt haben. Allfällige Fehlbeträge müssen gemeldet und erstattet werden.</p><p>&nbsp;</p><p>Bei freiwilliger Meldung und vollständiger Rückerstattung soll die unterlassene Weitergabe als fahrlässig begangen gelten und keine Strafe nach Artikel&nbsp;92 KVG nach sich ziehen.</p><p>&nbsp;</p><p>Der Bundesrat stellt dem BAG für einen Zeitraum von sieben Jahren die für die erfolgreiche Umsetzung dieser Aufgabe erforderlichen Mittel zur Verfügung.</p><p>&nbsp;</p><p>Die zurückgeforderten Beträge haben den Versicherten vollständig und nachprüfbar zugutezukommen, insbesondere durch Rückerstattung, Verrechnung oder Prämiensenkung.</p>"
+      },
+      {
+        "type": {
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "Titel folgt"
+        "value": "Rabatte und Retrozessionen in der OKP. Den Versicherten zurückgeben, was ihnen zusteht"
       }
     ],
-    "title": "Titel folgt",
+    "title": "Rabatte und Retrozessionen in der OKP. Den Versicherten zurückgeben, was ihnen zusteht",
     "_site": {
       "formatted_id": "26.4540",
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 173,
-      "fetched_at": "2026-10-19T21:04:52.049634+00:00"
+      "fetched_at": "2026-10-20T13:35:37.362025+00:00"
     }
   },
   {
@@ -36954,7 +37013,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 174,
-      "fetched_at": "2026-10-19T21:04:52.593978+00:00"
+      "fetched_at": "2026-10-20T13:35:37.898195+00:00"
     }
   },
   {
@@ -37140,7 +37199,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 175,
-      "fetched_at": "2026-10-19T21:04:53.145293+00:00"
+      "fetched_at": "2026-10-20T13:35:38.421613+00:00"
     }
   },
   {
@@ -37259,7 +37318,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 176,
-      "fetched_at": "2026-10-19T21:04:53.911449+00:00"
+      "fetched_at": "2026-10-20T13:35:38.953525+00:00"
     }
   },
   {
@@ -37446,7 +37505,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 177,
-      "fetched_at": "2026-10-19T21:04:54.585448+00:00"
+      "fetched_at": "2026-10-20T13:35:39.546425+00:00"
     }
   },
   {
@@ -37565,7 +37624,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 178,
-      "fetched_at": "2026-10-19T21:04:55.098058+00:00"
+      "fetched_at": "2026-10-20T13:35:40.082419+00:00"
     }
   },
   {
@@ -37697,7 +37756,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 179,
-      "fetched_at": "2026-10-19T21:04:55.610368+00:00"
+      "fetched_at": "2026-10-20T13:35:40.607192+00:00"
     }
   },
   {
@@ -37839,7 +37898,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 180,
-      "fetched_at": "2026-10-19T21:04:56.222435+00:00"
+      "fetched_at": "2026-10-20T13:35:41.170760+00:00"
     }
   },
   {
@@ -37991,7 +38050,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 181,
-      "fetched_at": "2026-10-19T21:04:56.740395+00:00"
+      "fetched_at": "2026-10-20T13:35:41.882506+00:00"
     }
   },
   {
@@ -38283,7 +38342,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 182,
-      "fetched_at": "2026-10-19T21:04:57.310518+00:00"
+      "fetched_at": "2026-10-20T13:35:42.402750+00:00"
     }
   },
   {
@@ -38402,7 +38461,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 183,
-      "fetched_at": "2026-10-19T21:04:57.822673+00:00"
+      "fetched_at": "2026-10-20T13:35:42.933915+00:00"
     }
   },
   {
@@ -38521,7 +38580,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 184,
-      "fetched_at": "2026-10-19T21:04:58.542759+00:00"
+      "fetched_at": "2026-10-20T13:35:43.454614+00:00"
     }
   },
   {
@@ -38660,7 +38719,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 185,
-      "fetched_at": "2026-10-19T21:04:59.128030+00:00"
+      "fetched_at": "2026-10-20T13:35:43.987532+00:00"
     }
   },
   {
@@ -38799,7 +38858,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 186,
-      "fetched_at": "2026-10-19T21:04:59.742900+00:00"
+      "fetched_at": "2026-10-20T13:35:44.528292+00:00"
     }
   },
   {
@@ -38992,7 +39051,7 @@
       "type_id": "4",
       "type_name": "Parlamentarische Initiative",
       "curia_rank": 187,
-      "fetched_at": "2026-10-19T21:05:00.281165+00:00"
+      "fetched_at": "2026-10-20T13:35:45.141542+00:00"
     }
   },
   {
@@ -39205,7 +39264,7 @@
       "type_id": "4",
       "type_name": "Parlamentarische Initiative",
       "curia_rank": 188,
-      "fetched_at": "2026-10-19T21:05:00.815836+00:00"
+      "fetched_at": "2026-10-20T13:35:45.805704+00:00"
     }
   },
   {
@@ -39338,7 +39397,7 @@
       "type_id": "4",
       "type_name": "Parlamentarische Initiative",
       "curia_rank": 189,
-      "fetched_at": "2026-10-19T21:05:01.369352+00:00"
+      "fetched_at": "2026-10-20T13:35:46.383097+00:00"
     }
   },
   {
@@ -39541,7 +39600,7 @@
       "type_id": "4",
       "type_name": "Parlamentarische Initiative",
       "curia_rank": 190,
-      "fetched_at": "2026-10-19T21:05:01.964866+00:00"
+      "fetched_at": "2026-10-20T13:35:46.996927+00:00"
     }
   },
   {
@@ -40134,7 +40193,7 @@
       "type_id": "4",
       "type_name": "Parlamentarische Initiative",
       "curia_rank": 191,
-      "fetched_at": "2026-10-19T21:05:02.527825+00:00"
+      "fetched_at": "2026-10-20T13:35:47.764160+00:00"
     }
   },
   {
@@ -40267,12 +40326,12 @@
       "type_id": "4",
       "type_name": "Parlamentarische Initiative",
       "curia_rank": 192,
-      "fetched_at": "2026-10-19T21:05:03.038107+00:00"
+      "fetched_at": "2026-10-20T13:35:48.323091+00:00"
     }
   },
   {
     "id": 20260466,
-    "updated": "2026-10-08T09:38:12Z",
+    "updated": "2026-10-20T14:33:16Z",
     "additionalIndexing": "34;12;1221;1236",
     "affairType": {
       "abbreviation": "Pa. Iv.",
@@ -40404,24 +40463,38 @@
     "texts": [
       {
         "type": {
+          "id": 6,
+          "name": "Begründung"
+        },
+        "value": "<p>Die KI entwickelt sich in allen Lebensbereichen rasend schnell. Auch die Justizbehörden können sich bei der Rechtsprechung dieser Entwicklung nicht entziehen. Es gibt zahlreiche nützliche KI-Anwendungen, die zu effizienteren Abläufen in der Rechtspflege beitragen können, so bei den juristischen Recherchen oder der Analyse der bestehenden Rechtsprechung.</p><p>&nbsp;</p><p>Bereits heute wäre es möglich, den Gerichtsentscheid selbst an die KI zu delegieren. Die Realität hat die Vorstellung dabei bereits überholt: Es besteht schon heute die Möglichkeit, die KI zu beauftragen, anhand der eingespeisten Parteieingaben die Entscheidentwürfe zu verfassen … Auch ohne so weit zu gehen, werfen gewisse Anwendungen der KI sehr heikle Fragen im Zusammenhang mit der Achtung der Grundrechte und der verfassungsmässigen Grundsätze (Nichtdiskriminierung, Neutralität, Unabhängigkeit, Datenschutz usw.) auf. Es braucht einen Rahmen für den Einsatz von KI, bevor sich die Praxis in eine Richtung entwickelt, die diese Rechte und Grundsätze verletzt, dies im Interesse einer funktionsfähigen Justiz und der Rechtsunterworfenen.&nbsp;</p>"
+      },
+      {
+        "type": {
+          "id": 5,
+          "name": "Eingereichter Text"
+        },
+        "value": "<p>Die Verfahrensgesetze auf Bundesebene sind dahingehend zu ändern, dass eine Regelung für den Einsatz von künstlicher Intelligenz (KI) durch die Gerichtsbehörden eingeführt wird. Mit den neuen gesetzlichen Bestimmungen soll insbesondere vermieden werden, dass das Entscheidungsverfahren selbst von der KI beeinflusst wird; denn dieses soll weiterhin in den Händen der Richterinnen und Richter liegen. Als Grundlage für die neuen Bestimmungen sollen die Grundrechte und die Leitsätze dienen, die teilweise in den Verhaltenskodizes oder in den nicht bindenden Instrumenten in Zusammenhang mit dem Einsatz von KI enthalten sind. Besondere Bedeutung soll zudem dem Datenschutz beigemessen werden.</p>"
+      },
+      {
+        "type": {
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "Titel folgt"
+        "value": "Den Einsatz von KI in der Rechtspflege regeln"
       }
     ],
-    "title": "Titel folgt",
+    "title": "Den Einsatz von KI in der Rechtspflege regeln",
     "_site": {
       "formatted_id": "26.466",
       "type_id": "4",
       "type_name": "Parlamentarische Initiative",
       "curia_rank": 193,
-      "fetched_at": "2026-10-19T21:05:03.637511+00:00"
+      "fetched_at": "2026-10-20T13:35:48.855407+00:00"
     }
   },
   {
     "id": 20260076,
-    "updated": "2026-10-06T15:53:38Z",
+    "updated": "2026-10-20T08:51:24Z",
     "additionalIndexing": "24;08",
     "affairType": {
       "abbreviation": "BRG",
@@ -40448,12 +40521,17 @@
             "date": "/Date(1790892000000+0200)/",
             "publication": {
               "isOldFormat": false,
+              "page": "2832",
+              "source": "BBl 2026 2832",
               "type": {
                 "id": 1,
                 "name": "Bundesblatt",
                 "shortName": "BBl"
-              }
+              },
+              "url": "http://www.admin.ch/opc/de/federal-gazette/2026/2832.pdf",
+              "year": "2026"
             },
+            "title": "Botschaft vom 2. Oktober 2026 zur Gewährung eines Verpflichtungskredits zur Weiterführung der internationalen Währungshilfe in den Jahren 2028–2033",
             "type": {
               "id": 1,
               "name": "Beratungsgegenstand / Entwurf"
@@ -40480,7 +40558,70 @@
             "name": "Eingereicht"
           }
         ],
-        "texts": []
+        "texts": [
+          {
+            "type": {
+              "id": 2,
+              "name": "Titel der Vorlage"
+            },
+            "value": "Botschaft vom 2. Oktober 2026 zur Gewährung eines Verpflichtungskredits zur Weiterführung der internationalen Währungshilfe in den Jahren 2028–2033"
+          }
+        ]
+      },
+      {
+        "consultation": {
+          "resolutions": []
+        },
+        "federalCouncilProposal": {},
+        "index": 1,
+        "links": [],
+        "preConsultations": [],
+        "references": [
+          {
+            "date": "/Date(1790892000000+0200)/",
+            "publication": {
+              "isOldFormat": false,
+              "page": "2833",
+              "source": "BBl 2026 2833",
+              "type": {
+                "id": 1,
+                "name": "Bundesblatt",
+                "shortName": "BBl"
+              },
+              "url": "http://www.admin.ch/opc/de/federal-gazette/2026/2833.pdf",
+              "year": "2026"
+            },
+            "title": "Bundesbeschluss über die Gewährung eines Verpflichtungskredits zur Weiterführung der internationalen Währungshilfe in den Jahren 2028–2033 (Währungshilfebeschluss 2028–2033)",
+            "type": {
+              "id": 1,
+              "name": "Beratungsgegenstand / Entwurf"
+            }
+          }
+        ],
+        "relatedDepartments": [
+          {
+            "abbreviation": "EFD",
+            "id": 7,
+            "name": "Finanzdepartement",
+            "leading": true
+          }
+        ],
+        "states": [
+          {
+            "date": "/Date(1792447200000+0200)/",
+            "id": 201,
+            "name": "Angemeldet"
+          }
+        ],
+        "texts": [
+          {
+            "type": {
+              "id": 2,
+              "name": "Titel der Vorlage"
+            },
+            "value": "Bundesbeschluss über die Gewährung eines Verpflichtungskredits zur Weiterführung der internationalen Währungshilfe in den Jahren 2028–2033 (Währungshilfebeschluss 2028–2033)"
+          }
+        ]
       }
     ],
     "language": "de",
@@ -40508,7 +40649,7 @@
       "type_id": "1",
       "type_name": "Gesch\\u00e4ft des Bundesrates",
       "curia_rank": 194,
-      "fetched_at": "2026-10-19T21:05:04.145954+00:00"
+      "fetched_at": "2026-10-20T13:35:49.463599+00:00"
     }
   },
   {
@@ -40804,7 +40945,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 195,
-      "fetched_at": "2026-10-19T21:05:04.777928+00:00"
+      "fetched_at": "2026-10-20T13:35:50.100827+00:00"
     }
   },
   {
@@ -40930,12 +41071,12 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 196,
-      "fetched_at": "2026-10-19T21:05:05.295870+00:00"
+      "fetched_at": "2026-10-20T13:35:50.668511+00:00"
     }
   },
   {
     "id": 20264528,
-    "updated": "2026-10-19T08:20:30Z",
+    "updated": "2026-10-20T13:08:35Z",
     "additionalIndexing": "1231;09;15;08",
     "affairType": {
       "abbreviation": "Mo.",
@@ -41117,16 +41258,16 @@
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "Humanitäre Schutzgüter sind keine Waffen. Die ukrainische Zivilbevölkerung wirksam schützen  "
+        "value": "Humanitäre Schutzgüter sind keine Waffen. Die ukrainische Zivilbevölkerung wirksam schützen"
       }
     ],
-    "title": "Humanitäre Schutzgüter sind keine Waffen. Die ukrainische Zivilbevölkerung wirksam schützen  ",
+    "title": "Humanitäre Schutzgüter sind keine Waffen. Die ukrainische Zivilbevölkerung wirksam schützen",
     "_site": {
       "formatted_id": "26.4528",
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 197,
-      "fetched_at": "2026-10-19T21:05:05.879749+00:00"
+      "fetched_at": "2026-10-20T13:35:51.206161+00:00"
     }
   },
   {
@@ -41305,12 +41446,12 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 198,
-      "fetched_at": "2026-10-19T21:05:06.397299+00:00"
+      "fetched_at": "2026-10-20T13:35:51.777069+00:00"
     }
   },
   {
     "id": 20264526,
-    "updated": "2026-10-14T14:48:35Z",
+    "updated": "2026-10-20T13:07:43Z",
     "additionalIndexing": "52;34",
     "affairType": {
       "abbreviation": "Mo.",
@@ -41551,7 +41692,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 199,
-      "fetched_at": "2026-10-19T21:05:06.917067+00:00"
+      "fetched_at": "2026-10-20T13:35:52.461660+00:00"
     }
   },
   {
@@ -41677,12 +41818,12 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 200,
-      "fetched_at": "2026-10-19T21:05:07.434525+00:00"
+      "fetched_at": "2026-10-20T13:35:52.982771+00:00"
     }
   },
   {
     "id": 20264524,
-    "updated": "2026-10-19T12:08:33Z",
+    "updated": "2026-10-20T13:07:05Z",
     "additionalIndexing": "2841;28;15",
     "affairType": {
       "abbreviation": "Mo.",
@@ -41884,16 +42025,16 @@
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "Aromastoffe in Nikotinprodukten: Schluss mit Kaufanreizen für Jugendliche!"
+        "value": "Aromastoffe in Nikotinprodukten. Schluss mit Kaufanreizen für Jugendliche!"
       }
     ],
-    "title": "Aromastoffe in Nikotinprodukten: Schluss mit Kaufanreizen für Jugendliche!",
+    "title": "Aromastoffe in Nikotinprodukten. Schluss mit Kaufanreizen für Jugendliche!",
     "_site": {
       "formatted_id": "26.4524",
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 201,
-      "fetched_at": "2026-10-19T21:05:08.018612+00:00"
+      "fetched_at": "2026-10-20T13:35:53.706568+00:00"
     }
   },
   {
@@ -42025,12 +42166,12 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 202,
-      "fetched_at": "2026-10-19T21:05:08.557694+00:00"
+      "fetched_at": "2026-10-20T13:35:54.282345+00:00"
     }
   },
   {
     "id": 20264522,
-    "updated": "2026-10-13T15:46:27Z",
+    "updated": "2026-10-20T13:06:07Z",
     "additionalIndexing": "09",
     "affairType": {
       "abbreviation": "Mo.",
@@ -42125,19 +42266,33 @@
     "texts": [
       {
         "type": {
+          "id": 6,
+          "name": "Begründung"
+        },
+        "value": "<p>Bei ihrer Entlassung aus der Dienstpflicht müssen Angehörige der Armee heute mehrere wichtige Bestandteile ihrer persönlichen Ausrüstung zurückgeben.&nbsp;</p><p>In Anbetracht der Entwicklung der Sicherheitslage in Europa und der Notwendigkeit, die Aufwuchsfähigkeit unserer Armee zu stärken, sollte diese Praxis neu überdacht werden.&nbsp;</p><p>Im Fall einer schweren Krise könnte die Schweiz gezwungen sein, ihren Bestand an Armeeangehörigen schnell zu erhöhen. Kürzlich aus der Dienstpflicht Entlassene stellen diesbezüglich ein wertvolles Potenzial dar. Sie verfügen über eine noch aktuelle militärische Ausbildung. Die Rückgabe von Ausrüstung durch Angehörige der Armee, die eventuell einige Jahre später erneut ausgerüstet werden müssen, zieht einen zusätzlichen logistischen Aufwand nach sich und erfordert Material, Personal und finanzielle Mittel.&nbsp;</p><p>Das Behalten der Ausrüstung während drei bis fünf Jahren würde es ermöglichen, eine dezentrale und schnell verfügbare materielle Reserve zu schaffen. Diese Massnahme würde einen Aufwuchs erleichtern, die für eine Neuausrüstung notwendige Zeit beträchtlich verringern und den Druck auf die Lagerbestände und die Logistikinfrastruktur der Armee reduzieren.&nbsp;</p><p>Die betroffenen Ausrüstungsgegenstände blieben Eigentum des Bundes und müssten entsprechend den Vorschriften der Armee aufbewahrt und gepflegt werden.&nbsp;</p><p>Diese Massnahme würde die Dienstpflicht an sich nicht verlängern. Sie würde es jedoch ermöglichen, bereits zugeteiltes und dem Nutzer oder der Nutzerin angepasstes Material vorübergehend bei den aus der Dienstpflicht entlassenen Angehörigen der Armee zu belassen, damit es rasch verfügbar ist, wenn es die Umstände erfordern.&nbsp;</p><p>Vor dem Hintergrund, dass die Schweiz ihre Verteidigungsfähigkeit und Krisenvorsorge stärken muss, erscheint es wenig sinnvoll, individuelles Material systematisch zurückzufordern, wodurch kürzlich aus dem Dienst entlassene Armeeangehörige im Bedarfsfall in aller Eile wieder ausgerüstet werden müssten. Verbessern wir die Reaktionsfähigkeit unserer Armee durch eine einfache und kostengünstige Massnahme!&nbsp;</p>"
+      },
+      {
+        "type": {
+          "id": 5,
+          "name": "Eingereichter Text"
+        },
+        "value": "<p>Der Bundesrat wird beauftragt, die gesetzlichen und reglementarischen Grundlagen dahingehend anzupassen, dass aus der Dienstpflicht entlassene Angehörige der Armee während drei bis fünf Jahren nach Ende der Dienstpflicht ihre persönliche Ausrüstung oder die Teile davon aufbewahren müssen, die im Fall einer Mobilmachung, eines Aufwuchses der Armee oder einer ausserordentlichen Lage benötigt würden. Der Bundesrat regelt die Modalitäten der Aufbewahrung, Instandhaltung und Rücknahme sowie allfällig notwendige Ausnahmen.&nbsp;</p>"
+      },
+      {
+        "type": {
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "Titel folgt"
+        "value": "Die persönliche Ausrüstung nach Ende der Dienstpflicht für alle Fälle aufbewahren"
       }
     ],
-    "title": "Titel folgt",
+    "title": "Die persönliche Ausrüstung nach Ende der Dienstpflicht für alle Fälle aufbewahren",
     "_site": {
       "formatted_id": "26.4522",
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 203,
-      "fetched_at": "2026-10-19T21:05:09.079936+00:00"
+      "fetched_at": "2026-10-20T13:35:54.810380+00:00"
     }
   },
   {
@@ -42363,7 +42518,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 204,
-      "fetched_at": "2026-10-19T21:05:09.667064+00:00"
+      "fetched_at": "2026-10-20T13:35:55.377022+00:00"
     }
   },
   {
@@ -42475,7 +42630,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 205,
-      "fetched_at": "2026-10-19T21:05:10.212786+00:00"
+      "fetched_at": "2026-10-20T13:35:56.007580+00:00"
     }
   },
   {
@@ -42634,12 +42789,12 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 206,
-      "fetched_at": "2026-10-19T21:05:10.894244+00:00"
+      "fetched_at": "2026-10-20T13:35:56.584930+00:00"
     }
   },
   {
     "id": 20264518,
-    "updated": "2026-10-05T13:35:48Z",
+    "updated": "2026-10-20T13:06:44Z",
     "additionalIndexing": "55;36;52",
     "affairType": {
       "abbreviation": "Ip.",
@@ -42793,7 +42948,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 207,
-      "fetched_at": "2026-10-19T21:05:11.443347+00:00"
+      "fetched_at": "2026-10-20T13:35:57.152087+00:00"
     }
   },
   {
@@ -43079,7 +43234,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 208,
-      "fetched_at": "2026-10-19T21:05:11.973112+00:00"
+      "fetched_at": "2026-10-20T13:35:57.787787+00:00"
     }
   },
   {
@@ -43201,7 +43356,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 209,
-      "fetched_at": "2026-10-19T21:05:12.488294+00:00"
+      "fetched_at": "2026-10-20T13:35:58.350846+00:00"
     }
   },
   {
@@ -43370,7 +43525,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 210,
-      "fetched_at": "2026-10-19T21:05:13.017433+00:00"
+      "fetched_at": "2026-10-20T13:35:58.928503+00:00"
     }
   },
   {
@@ -43524,7 +43679,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 211,
-      "fetched_at": "2026-10-19T21:05:13.543878+00:00"
+      "fetched_at": "2026-10-20T13:35:59.546000+00:00"
     }
   },
   {
@@ -43646,7 +43801,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 212,
-      "fetched_at": "2026-10-19T21:05:14.109383+00:00"
+      "fetched_at": "2026-10-20T13:36:00.097443+00:00"
     }
   },
   {
@@ -43972,7 +44127,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 213,
-      "fetched_at": "2026-10-19T21:05:14.683807+00:00"
+      "fetched_at": "2026-10-20T13:36:00.750964+00:00"
     }
   },
   {
@@ -44134,7 +44289,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 214,
-      "fetched_at": "2026-10-19T21:05:15.204287+00:00"
+      "fetched_at": "2026-10-20T13:36:01.362119+00:00"
     }
   },
   {
@@ -44256,7 +44411,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 215,
-      "fetched_at": "2026-10-19T21:05:15.764141+00:00"
+      "fetched_at": "2026-10-20T13:36:01.979613+00:00"
     }
   },
   {
@@ -44810,7 +44965,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 216,
-      "fetched_at": "2026-10-19T21:05:16.298563+00:00"
+      "fetched_at": "2026-10-20T13:36:02.726430+00:00"
     }
   },
   {
@@ -44929,7 +45084,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 217,
-      "fetched_at": "2026-10-19T21:05:16.812437+00:00"
+      "fetched_at": "2026-10-20T13:36:03.273423+00:00"
     }
   },
   {
@@ -45391,7 +45546,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 218,
-      "fetched_at": "2026-10-19T21:05:17.343558+00:00"
+      "fetched_at": "2026-10-20T13:36:03.910403+00:00"
     }
   },
   {
@@ -45503,7 +45658,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 219,
-      "fetched_at": "2026-10-19T21:05:17.949339+00:00"
+      "fetched_at": "2026-10-20T13:36:04.423405+00:00"
     }
   },
   {
@@ -45785,7 +45940,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 220,
-      "fetched_at": "2026-10-19T21:05:18.503076+00:00"
+      "fetched_at": "2026-10-20T13:36:04.957112+00:00"
     }
   },
   {
@@ -46179,7 +46334,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 221,
-      "fetched_at": "2026-10-19T21:05:19.199673+00:00"
+      "fetched_at": "2026-10-20T13:36:05.548635+00:00"
     }
   },
   {
@@ -46596,12 +46751,12 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 222,
-      "fetched_at": "2026-10-19T21:05:19.776711+00:00"
+      "fetched_at": "2026-10-20T13:36:06.103905+00:00"
     }
   },
   {
     "id": 20264502,
-    "updated": "2026-10-05T12:54:04Z",
+    "updated": "2026-10-20T14:13:42Z",
     "additionalIndexing": "55;15;2446;36",
     "affairType": {
       "abbreviation": "Ip.",
@@ -46699,7 +46854,7 @@
           "id": 6,
           "name": "Begründung"
         },
-        "value": "<p>Mit der Motion&nbsp;<a href=\"https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263709\">26.3709</a> wird der Bundesrat beauftragt, die Gebührenordnung anzupssen. Ziel ist eine ausgewogenere Verteilung der Gebührenlast zwischen den verschiedenen Zulassungsverfahren und das Ermöglichen von modernen Pflanzenschutzmitteln insbesondere für Spezialkulturen im Obst- und Gemüsebau.</p><p>Der Bundesrat lehnt die Motion ab. Diese Begründungen greifen jedoch zu kurz. Die Gebührenverordnung lässt zur Behandlung von Gesuchen und Anträge weitgehenden Spielraum in der Ausgestaltung der Gebührenstruktur. Die Motion verlangt die wettbewerbsneutrale Verteilung der finanziellen Last zwischen Erstzulassern und Parallelimporteuren. Zudem reduziert die abermalige Erhöhung der Gebühren ohne ersichtlichen Mehrwert die Zulassungsbereitschaft der Firmen und gefährdet die Versorgung der Schweiz mit modernen und hochwirksamen Pflanzenschutzmitteln.</p>"
+        "value": "<p>Mit der Motion&nbsp;26.3709 wird der Bundesrat beauftragt, die Gebührenordnung anzupssen. Ziel ist eine ausgewogenere Verteilung der Gebührenlast zwischen den verschiedenen Zulassungsverfahren und das Ermöglichen von modernen Pflanzenschutzmitteln insbesondere für Spezialkulturen im Obst- und Gemüsebau.</p><p>Der Bundesrat lehnt die Motion ab. Diese Begründungen greifen jedoch zu kurz. Die Gebührenverordnung lässt zur Behandlung von Gesuchen und Anträge weitgehenden Spielraum in der Ausgestaltung der Gebührenstruktur. Die Motion verlangt die wettbewerbsneutrale Verteilung der finanziellen Last zwischen Erstzulassern und Parallelimporteuren. Zudem reduziert die abermalige Erhöhung der Gebühren ohne ersichtlichen Mehrwert die Zulassungsbereitschaft der Firmen und gefährdet die Versorgung der Schweiz mit modernen und hochwirksamen Pflanzenschutzmitteln.</p>"
       },
       {
         "type": {
@@ -46722,7 +46877,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 223,
-      "fetched_at": "2026-10-19T21:05:20.323708+00:00"
+      "fetched_at": "2026-10-20T13:36:06.624479+00:00"
     }
   },
   {
@@ -46848,7 +47003,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 224,
-      "fetched_at": "2026-10-19T21:05:20.921229+00:00"
+      "fetched_at": "2026-10-20T13:36:07.158890+00:00"
     }
   },
   {
@@ -46960,7 +47115,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 225,
-      "fetched_at": "2026-10-19T21:05:21.498024+00:00"
+      "fetched_at": "2026-10-20T13:36:07.684739+00:00"
     }
   },
   {
@@ -47206,7 +47361,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 226,
-      "fetched_at": "2026-10-19T21:05:22.057886+00:00"
+      "fetched_at": "2026-10-20T13:36:08.365165+00:00"
     }
   },
   {
@@ -47455,7 +47610,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 227,
-      "fetched_at": "2026-10-19T21:05:22.575521+00:00"
+      "fetched_at": "2026-10-20T13:36:08.911844+00:00"
     }
   },
   {
@@ -47614,7 +47769,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 228,
-      "fetched_at": "2026-10-19T21:05:23.155159+00:00"
+      "fetched_at": "2026-10-20T13:36:09.460389+00:00"
     }
   },
   {
@@ -47973,7 +48128,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 229,
-      "fetched_at": "2026-10-19T21:05:23.720840+00:00"
+      "fetched_at": "2026-10-20T13:36:10.019891+00:00"
     }
   },
   {
@@ -48112,7 +48267,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 230,
-      "fetched_at": "2026-10-19T21:05:24.314948+00:00"
+      "fetched_at": "2026-10-20T13:36:10.543938+00:00"
     }
   },
   {
@@ -48398,7 +48553,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 231,
-      "fetched_at": "2026-10-19T21:05:24.854939+00:00"
+      "fetched_at": "2026-10-20T13:36:11.092109+00:00"
     }
   },
   {
@@ -48674,7 +48829,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 232,
-      "fetched_at": "2026-10-19T21:05:25.422372+00:00"
+      "fetched_at": "2026-10-20T13:36:11.628589+00:00"
     }
   },
   {
@@ -49050,7 +49205,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 233,
-      "fetched_at": "2026-10-19T21:05:25.996870+00:00"
+      "fetched_at": "2026-10-20T13:36:12.179201+00:00"
     }
   },
   {
@@ -49476,7 +49631,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 234,
-      "fetched_at": "2026-10-19T21:05:26.596728+00:00"
+      "fetched_at": "2026-10-20T13:36:12.731037+00:00"
     }
   },
   {
@@ -49610,7 +49765,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 235,
-      "fetched_at": "2026-10-19T21:05:27.133736+00:00"
+      "fetched_at": "2026-10-20T13:36:13.312456+00:00"
     }
   },
   {
@@ -49754,7 +49909,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 236,
-      "fetched_at": "2026-10-19T21:05:27.727450+00:00"
+      "fetched_at": "2026-10-20T13:36:13.858291+00:00"
     }
   },
   {
@@ -49866,7 +50021,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 237,
-      "fetched_at": "2026-10-19T21:05:28.310356+00:00"
+      "fetched_at": "2026-10-20T13:36:14.435417+00:00"
     }
   },
   {
@@ -50085,7 +50240,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 238,
-      "fetched_at": "2026-10-19T21:05:28.878908+00:00"
+      "fetched_at": "2026-10-20T13:36:14.958610+00:00"
     }
   },
   {
@@ -50297,7 +50452,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 239,
-      "fetched_at": "2026-10-19T21:05:29.451765+00:00"
+      "fetched_at": "2026-10-20T13:36:15.574289+00:00"
     }
   },
   {
@@ -50623,12 +50778,12 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 240,
-      "fetched_at": "2026-10-19T21:05:29.984559+00:00"
+      "fetched_at": "2026-10-20T13:36:16.103007+00:00"
     }
   },
   {
     "id": 20264484,
-    "updated": "2026-10-13T09:23:09Z",
+    "updated": "2026-10-20T13:05:19Z",
     "additionalIndexing": "28;15;2841",
     "affairType": {
       "abbreviation": "Mo.",
@@ -50843,19 +50998,33 @@
     "texts": [
       {
         "type": {
+          "id": 6,
+          "name": "Begründung"
+        },
+        "value": "<p>Die Fédération Romande des Consommateurs (FRC) hat über 2200&nbsp;Produkte in 30&nbsp;Läden in der Westschweiz untersucht.</p><p>&nbsp;</p><p>Das Ergebnis ist leider negativ und sogar noch schlechter als bei der Studie im Jahr&nbsp;2011. So werden beispielsweise bei 98&nbsp;Prozent der bedienten Kassen in Genf Süssigkeiten angeboten und in der übrigen Westschweiz sieht es nicht besser aus. Zudem haben die Grossverteiler für die Selbstbedienungskassen neue Arten von Verkaufsregalen mit entsprechend angepasstem Marketing eingeführt, damit diese Bereiche weiterhin die Aufmerksamkeit auf sich ziehen.&nbsp;</p><p>&nbsp;</p><p>Für Jugendliche werden zudem relativ günstige Produkte angeboten, die auf ihren Geschmack zugeschnitten sind und mit ansprechendem Marketing präsentiert werden. Die Botschaften sind auf die einzelnen Altersgruppen zugeschnitten, um eine junge Kundschaft an die einzelnen Grossverteiler zu binden.</p><p>&nbsp;</p><p>Gesunde Produkte sind hingegen kaum zu finden.</p><p>&nbsp;</p><p>In der Schweiz sind bekanntlich 43&nbsp;Prozent der Bevölkerung übergewichtig oder fettleibig und auch Kinder und Jugendliche sind davon betroffen.</p><p>&nbsp;</p><p>Vor diesem Hintergrund ist es unerlässlich, wirksame Massnahmen zu ergreifen, um diesem für Kinder und Jugendliche schädlichen und rein kommerziellen Marketing ein Ende zu setzen.</p>"
+      },
+      {
+        "type": {
+          "id": 5,
+          "name": "Eingereichter Text"
+        },
+        "value": "<p>Der Bundesrat wird beauftragt, Massnahmen zu ergreifen, damit Kinder an Kassen von Grossverteilern ungesunden Lebensmitteln nicht mehr derart stark ausgesetzt sind. Zum einen sind Verhandlungen mit den Grossverteilern aufzunehmen mit dem Ziel, Produkte mit geringem Nährwert weniger prominent zu platzieren. Zum anderen sind parallel dazu regulatorische Massnahmen zu prüfen.</p><p>&nbsp;</p><p>Der Bundesrat räumte in seiner Antwort vom 12.&nbsp;Mai&nbsp;2021 auf meine Interpellation&nbsp;21.3393 («In den Supermärkten gesunde Produkte in Kassennähe anbieten») ein, dass die Situation problematisch ist, und stand einer Empfehlung insbesondere an die Grossverteiler, ihren Kassenbereich mit gesunden Produkten auszugestalten, positiv gegenüber. Er ankerkannte ausdrücklich, dass mit einer anderen Ausgestaltung des Kassenbereichs Kinder vor dieser spezifischen Marketingform geschützt werden können.&nbsp;</p><p>&nbsp;</p><p>In der Schweizer Ernährungsstrategie 2017–2024 sprach sich der Bundesrat für einen freiwilligen Ansatz aus und erklärte zudem, entsprechende private Initiativen zu unterstützen.</p><p>&nbsp;</p><p>Seither hat sich jedoch nichts getan und die Situation hat sich eher verschlechtert.</p>"
+      },
+      {
+        "type": {
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "Titel folgt"
+        "value": "Systematisches Marketing an den Kassen der Grossverteiler. Es braucht Gegenmassnahmen!"
       }
     ],
-    "title": "Titel folgt",
+    "title": "Systematisches Marketing an den Kassen der Grossverteiler. Es braucht Gegenmassnahmen!",
     "_site": {
       "formatted_id": "26.4484",
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 241,
-      "fetched_at": "2026-10-19T21:05:30.589426+00:00"
+      "fetched_at": "2026-10-20T13:36:16.644071+00:00"
     }
   },
   {
@@ -50999,7 +51168,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 242,
-      "fetched_at": "2026-10-19T21:05:31.102946+00:00"
+      "fetched_at": "2026-10-20T13:36:17.173016+00:00"
     }
   },
   {
@@ -51111,12 +51280,12 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 243,
-      "fetched_at": "2026-10-19T21:05:31.612297+00:00"
+      "fetched_at": "2026-10-20T13:36:17.698281+00:00"
     }
   },
   {
     "id": 20264481,
-    "updated": "2026-10-06T15:11:46Z",
+    "updated": "2026-10-20T14:23:30Z",
     "additionalIndexing": "04;1216",
     "affairType": {
       "abbreviation": "Ip.",
@@ -51327,7 +51496,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 244,
-      "fetched_at": "2026-10-19T21:05:32.200721+00:00"
+      "fetched_at": "2026-10-20T13:36:18.276463+00:00"
     }
   },
   {
@@ -51556,7 +51725,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 245,
-      "fetched_at": "2026-10-19T21:05:32.756143+00:00"
+      "fetched_at": "2026-10-20T13:36:18.800993+00:00"
     }
   },
   {
@@ -51752,7 +51921,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 246,
-      "fetched_at": "2026-10-19T21:05:33.288026+00:00"
+      "fetched_at": "2026-10-20T13:36:19.328929+00:00"
     }
   },
   {
@@ -51866,7 +52035,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 247,
-      "fetched_at": "2026-10-19T21:05:33.821926+00:00"
+      "fetched_at": "2026-10-20T13:36:19.854949+00:00"
     }
   },
   {
@@ -51980,7 +52149,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 248,
-      "fetched_at": "2026-10-19T21:05:34.379693+00:00"
+      "fetched_at": "2026-10-20T13:36:20.373243+00:00"
     }
   },
   {
@@ -52094,7 +52263,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 249,
-      "fetched_at": "2026-10-19T21:05:34.907069+00:00"
+      "fetched_at": "2026-10-20T13:36:20.998789+00:00"
     }
   },
   {
@@ -52280,7 +52449,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 250,
-      "fetched_at": "2026-10-19T21:05:35.444866+00:00"
+      "fetched_at": "2026-10-20T13:36:21.581688+00:00"
     }
   },
   {
@@ -52622,7 +52791,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 251,
-      "fetched_at": "2026-10-19T21:05:36.126327+00:00"
+      "fetched_at": "2026-10-20T13:36:22.398970+00:00"
     }
   },
   {
@@ -52964,7 +53133,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 252,
-      "fetched_at": "2026-10-19T21:05:36.858367+00:00"
+      "fetched_at": "2026-10-20T13:36:23.182926+00:00"
     }
   },
   {
@@ -53076,7 +53245,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 253,
-      "fetched_at": "2026-10-19T21:05:37.366795+00:00"
+      "fetched_at": "2026-10-20T13:36:23.737923+00:00"
     }
   },
   {
@@ -53365,7 +53534,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 254,
-      "fetched_at": "2026-10-19T21:05:37.889467+00:00"
+      "fetched_at": "2026-10-20T13:36:24.286339+00:00"
     }
   },
   {
@@ -53507,7 +53676,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 255,
-      "fetched_at": "2026-10-19T21:05:38.418368+00:00"
+      "fetched_at": "2026-10-20T13:36:24.805077+00:00"
     }
   },
   {
@@ -53619,7 +53788,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 256,
-      "fetched_at": "2026-10-19T21:05:39.004956+00:00"
+      "fetched_at": "2026-10-20T13:36:25.385926+00:00"
     }
   },
   {
@@ -53731,7 +53900,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 257,
-      "fetched_at": "2026-10-19T21:05:39.606001+00:00"
+      "fetched_at": "2026-10-20T13:36:25.938758+00:00"
     }
   },
   {
@@ -53933,12 +54102,12 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 258,
-      "fetched_at": "2026-10-19T21:05:40.124004+00:00"
+      "fetched_at": "2026-10-20T13:36:26.458576+00:00"
     }
   },
   {
     "id": 20264466,
-    "updated": "2026-10-19T09:30:12Z",
+    "updated": "2026-10-20T13:04:11Z",
     "additionalIndexing": "34;28",
     "affairType": {
       "abbreviation": "Ip.",
@@ -54163,16 +54332,16 @@
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "Social Media - effektiver und zukunftsfähiger Jugendschutz "
+        "value": "Social Media. Effektiver und zukunftsfähiger Jugendschutz "
       }
     ],
-    "title": "Social Media - effektiver und zukunftsfähiger Jugendschutz ",
+    "title": "Social Media. Effektiver und zukunftsfähiger Jugendschutz ",
     "_site": {
       "formatted_id": "26.4466",
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 259,
-      "fetched_at": "2026-10-19T21:05:40.639862+00:00"
+      "fetched_at": "2026-10-20T13:36:26.993402+00:00"
     }
   },
   {
@@ -54428,7 +54597,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 260,
-      "fetched_at": "2026-10-19T21:05:41.171072+00:00"
+      "fetched_at": "2026-10-20T13:36:27.543123+00:00"
     }
   },
   {
@@ -54584,7 +54753,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 261,
-      "fetched_at": "2026-10-19T21:05:41.735241+00:00"
+      "fetched_at": "2026-10-20T13:36:28.109344+00:00"
     }
   },
   {
@@ -54696,7 +54865,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 262,
-      "fetched_at": "2026-10-19T21:05:42.275124+00:00"
+      "fetched_at": "2026-10-20T13:36:28.630293+00:00"
     }
   },
   {
@@ -54822,7 +54991,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 263,
-      "fetched_at": "2026-10-19T21:05:42.787097+00:00"
+      "fetched_at": "2026-10-20T13:36:29.164381+00:00"
     }
   },
   {
@@ -54974,7 +55143,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 264,
-      "fetched_at": "2026-10-19T21:05:43.319773+00:00"
+      "fetched_at": "2026-10-20T13:36:29.738184+00:00"
     }
   },
   {
@@ -55086,7 +55255,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 265,
-      "fetched_at": "2026-10-19T21:05:43.953599+00:00"
+      "fetched_at": "2026-10-20T13:36:30.296632+00:00"
     }
   },
   {
@@ -55193,7 +55362,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 266,
-      "fetched_at": "2026-10-19T21:05:44.498358+00:00"
+      "fetched_at": "2026-10-20T13:36:30.817135+00:00"
     }
   },
   {
@@ -55293,7 +55462,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 267,
-      "fetched_at": "2026-10-19T21:05:45.052473+00:00"
+      "fetched_at": "2026-10-20T13:36:31.471010+00:00"
     }
   },
   {
@@ -55419,7 +55588,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 268,
-      "fetched_at": "2026-10-19T21:05:45.575758+00:00"
+      "fetched_at": "2026-10-20T13:36:32.030052+00:00"
     }
   },
   {
@@ -55538,7 +55707,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 269,
-      "fetched_at": "2026-10-19T21:05:46.162888+00:00"
+      "fetched_at": "2026-10-20T13:36:32.549590+00:00"
     }
   },
   {
@@ -55754,7 +55923,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 270,
-      "fetched_at": "2026-10-19T21:05:46.700106+00:00"
+      "fetched_at": "2026-10-20T13:36:33.123604+00:00"
     }
   },
   {
@@ -55990,7 +56159,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 271,
-      "fetched_at": "2026-10-19T21:05:47.264141+00:00"
+      "fetched_at": "2026-10-20T13:36:33.719850+00:00"
     }
   },
   {
@@ -56316,7 +56485,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 272,
-      "fetched_at": "2026-10-19T21:05:47.808211+00:00"
+      "fetched_at": "2026-10-20T13:36:34.297909+00:00"
     }
   },
   {
@@ -56423,7 +56592,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 273,
-      "fetched_at": "2026-10-19T21:05:48.389485+00:00"
+      "fetched_at": "2026-10-20T13:36:34.814120+00:00"
     }
   },
   {
@@ -56542,7 +56711,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 274,
-      "fetched_at": "2026-10-19T21:05:48.905312+00:00"
+      "fetched_at": "2026-10-20T13:36:35.332743+00:00"
     }
   },
   {
@@ -56656,7 +56825,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 275,
-      "fetched_at": "2026-10-19T21:05:49.433923+00:00"
+      "fetched_at": "2026-10-20T13:36:35.864351+00:00"
     }
   },
   {
@@ -56992,7 +57161,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 276,
-      "fetched_at": "2026-10-19T21:05:49.987940+00:00"
+      "fetched_at": "2026-10-20T13:36:36.409422+00:00"
     }
   },
   {
@@ -57198,7 +57367,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 277,
-      "fetched_at": "2026-10-19T21:05:50.511131+00:00"
+      "fetched_at": "2026-10-20T13:36:36.931348+00:00"
     }
   },
   {
@@ -57324,7 +57493,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 278,
-      "fetched_at": "2026-10-19T21:05:51.117978+00:00"
+      "fetched_at": "2026-10-20T13:36:37.449618+00:00"
     }
   },
   {
@@ -57450,7 +57619,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 279,
-      "fetched_at": "2026-10-19T21:05:51.680723+00:00"
+      "fetched_at": "2026-10-20T13:36:37.969677+00:00"
     }
   },
   {
@@ -57786,7 +57955,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 280,
-      "fetched_at": "2026-10-19T21:05:52.206053+00:00"
+      "fetched_at": "2026-10-20T13:36:38.566087+00:00"
     }
   },
   {
@@ -57942,7 +58111,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 281,
-      "fetched_at": "2026-10-19T21:05:52.758624+00:00"
+      "fetched_at": "2026-10-20T13:36:39.087956+00:00"
     }
   },
   {
@@ -58128,7 +58297,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 282,
-      "fetched_at": "2026-10-19T21:05:53.338293+00:00"
+      "fetched_at": "2026-10-20T13:36:39.611570+00:00"
     }
   },
   {
@@ -58254,7 +58423,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 283,
-      "fetched_at": "2026-10-19T21:05:53.954631+00:00"
+      "fetched_at": "2026-10-20T13:36:40.127670+00:00"
     }
   },
   {
@@ -58456,7 +58625,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 284,
-      "fetched_at": "2026-10-19T21:05:54.658526+00:00"
+      "fetched_at": "2026-10-20T13:36:40.650548+00:00"
     }
   },
   {
@@ -58692,7 +58861,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 285,
-      "fetched_at": "2026-10-19T21:05:55.207584+00:00"
+      "fetched_at": "2026-10-20T13:36:41.191295+00:00"
     }
   },
   {
@@ -58948,12 +59117,12 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 286,
-      "fetched_at": "2026-10-19T21:05:55.854679+00:00"
+      "fetched_at": "2026-10-20T13:36:41.747546+00:00"
     }
   },
   {
     "id": 20264438,
-    "updated": "2026-10-19T09:37:13Z",
+    "updated": "2026-10-20T14:23:46Z",
     "additionalIndexing": "48;52;2846",
     "affairType": {
       "abbreviation": "Mo.",
@@ -59122,7 +59291,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 287,
-      "fetched_at": "2026-10-19T21:05:56.486487+00:00"
+      "fetched_at": "2026-10-20T13:36:42.295147+00:00"
     }
   },
   {
@@ -59278,12 +59447,12 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 288,
-      "fetched_at": "2026-10-19T21:05:57.128668+00:00"
+      "fetched_at": "2026-10-20T13:36:42.872783+00:00"
     }
   },
   {
     "id": 20264436,
-    "updated": "2026-10-15T09:49:01Z",
+    "updated": "2026-10-20T12:59:28Z",
     "additionalIndexing": "08;1231;1236",
     "affairType": {
       "abbreviation": "Ip.",
@@ -59418,16 +59587,16 @@
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "Chinas neues «Ethnic Unity Law» und transnationale Repression"
+        "value": "Chinas neues \"Ethnic Unity Law\" und transnationale Repression"
       }
     ],
-    "title": "Chinas neues «Ethnic Unity Law» und transnationale Repression",
+    "title": "Chinas neues \"Ethnic Unity Law\" und transnationale Repression",
     "_site": {
       "formatted_id": "26.4436",
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 289,
-      "fetched_at": "2026-10-19T21:05:57.722544+00:00"
+      "fetched_at": "2026-10-20T13:36:43.426658+00:00"
     }
   },
   {
@@ -59539,7 +59708,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 290,
-      "fetched_at": "2026-10-19T21:05:58.264389+00:00"
+      "fetched_at": "2026-10-20T13:36:43.949617+00:00"
     }
   },
   {
@@ -59768,7 +59937,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 291,
-      "fetched_at": "2026-10-19T21:05:58.817555+00:00"
+      "fetched_at": "2026-10-20T13:36:44.478764+00:00"
     }
   },
   {
@@ -59880,7 +60049,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 292,
-      "fetched_at": "2026-10-19T21:05:59.337263+00:00"
+      "fetched_at": "2026-10-20T13:36:44.993745+00:00"
     }
   },
   {
@@ -60156,7 +60325,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 293,
-      "fetched_at": "2026-10-19T21:06:00.061960+00:00"
+      "fetched_at": "2026-10-20T13:36:45.514780+00:00"
     }
   },
   {
@@ -60312,7 +60481,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 294,
-      "fetched_at": "2026-10-19T21:06:00.690189+00:00"
+      "fetched_at": "2026-10-20T13:36:46.030379+00:00"
     }
   },
   {
@@ -60518,7 +60687,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 295,
-      "fetched_at": "2026-10-19T21:06:01.233727+00:00"
+      "fetched_at": "2026-10-20T13:36:46.593661+00:00"
     }
   },
   {
@@ -60740,7 +60909,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 296,
-      "fetched_at": "2026-10-19T21:06:01.834330+00:00"
+      "fetched_at": "2026-10-20T13:36:47.143145+00:00"
     }
   },
   {
@@ -60859,12 +61028,12 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 297,
-      "fetched_at": "2026-10-19T21:06:02.351208+00:00"
+      "fetched_at": "2026-10-20T13:36:47.675671+00:00"
     }
   },
   {
     "id": 20264427,
-    "updated": "2026-10-07T10:32:20Z",
+    "updated": "2026-10-20T14:32:28Z",
     "additionalIndexing": "44;2836;04",
     "affairType": {
       "abbreviation": "Mo.",
@@ -60979,19 +61148,33 @@
     "texts": [
       {
         "type": {
+          "id": 6,
+          "name": "Begründung"
+        },
+        "value": "<p>Die Anstellungsbedingungen der Bundesangestellten stehen seit Jahren unter politischem Druck. Regelmässig wird gefordert, die Bedingungen stärker den Bedingungen vergleichbarer Arbeitgeber im privaten sowie im öffentlichen und halböffentlichen Sektor anzugleichen.</p><p>&nbsp;</p><p>Die Vergleichsstudie, die das Eidgenössische Personalamt in Erfüllung der Postulate Nantermod (23.3070) und Bauer (23.3087) bei der PwC in Auftrag gegeben hat, liefert hierfür eine umfangreiche Datenbasis. Der Vergleich der Arbeitszeiten ergibt ein eindeutiges Resultat: In der Bundesverwaltung gilt eine wöchentliche Arbeitszeit von 41,5 Stunden. In 69&nbsp;Prozent aller Organisationen der Vergleichsgruppe liegt die Arbeitszeit tiefer; im privaten Sektor ist dies sogar in 86&nbsp;Prozent der Organisationen der Fall. Die 40-Stunden-Woche ist in der Vergleichsgruppe am weitesten verbreitet (41&nbsp;Prozent). In weiteren 5&nbsp;Prozent der Unternehmen des privaten Sektors gilt bereits heute die 39-Stunden-Woche; bei den Organisationen der Vergleichsgruppe, die zum öffentlichen und halböffentlichen Sektor zählen, liegt der Anteil sogar bei 13&nbsp;Prozent.</p><p>&nbsp;</p><p>Gleichzeitig wurden die Anstellungsbedingungen der Bundesangestellten in verschiedenen Bereichen verschlechtert: Der Ferienanspruch ab dem 60. Altersjahr wurde gesenkt und die Treueprämie reduziert, und ein Teil der Risikoprämie im Zusammenhang mit der beruflichen Vorsorge geht nun zulasten der Angestellten. Mit dem neuen Lohnsystem wurde zudem ein tieferer Maximallohn eingeführt, und die Zeit, die es braucht, um diesen zu erreichen, wurde erheblich verlängert.</p><p>&nbsp;</p><p>Wer die Anstellungsbedingungen beim Bund mit denjenigen auf dem freien Arbeitsmarkt vergleicht und daraus ableitet, dass sie beim Bund verschlechtert werden müssen, muss diesen Vergleich konsequenterweise auch in denjenigen Bereichen ernst nehmen, in denen die Bundesverwaltung weniger gut abschneidet. Der Vergleich mit dem freien Arbeitsmarkt darf nicht nur einseitig erfolgen.</p><p>Zufriedenstellende und wettbewerbsfähige Anstellungsbedingungen sind unerlässlich, wenn man qualifizierte Angestellte gewinnen und halten und so die Leistungsfähigkeit der Bundesverwaltung langfristig gewährleisten will.</p><p>&nbsp;</p><p>Wer marktgerechte Bedingungen fordert, muss sich auch dann dafür einsetzen, wenn sie zugunsten der Angestellten sind.</p>"
+      },
+      {
+        "type": {
+          "id": 5,
+          "name": "Eingereichter Text"
+        },
+        "value": "<p>Der Bundesrat wird beauftragt, die wöchentliche Arbeitszeit der Bundesangestellten von heute 41,5 Stunden auf 40&nbsp;Stunden zu senken und die Bundespersonalverordnung entsprechend anzupassen. Die Änderung soll ohne Lohneinbussen erfolgen.&nbsp;</p>"
+      },
+      {
+        "type": {
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "Titel folgt"
+        "value": "Angleichen der Arbeitszeit der Bundesangestellten an die Arbeitszeit vergleichbarer Arbeitgeber"
       }
     ],
-    "title": "Titel folgt",
+    "title": "Angleichen der Arbeitszeit der Bundesangestellten an die Arbeitszeit vergleichbarer Arbeitgeber",
     "_site": {
       "formatted_id": "26.4427",
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 298,
-      "fetched_at": "2026-10-19T21:06:02.861717+00:00"
+      "fetched_at": "2026-10-20T13:36:48.220948+00:00"
     }
   },
   {
@@ -61110,7 +61293,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 299,
-      "fetched_at": "2026-10-19T21:06:03.377939+00:00"
+      "fetched_at": "2026-10-20T13:36:48.741108+00:00"
     }
   },
   {
@@ -61210,7 +61393,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 300,
-      "fetched_at": "2026-10-19T21:06:03.888037+00:00"
+      "fetched_at": "2026-10-20T13:36:49.279676+00:00"
     }
   },
   {
@@ -61506,7 +61689,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 301,
-      "fetched_at": "2026-10-19T21:06:04.445436+00:00"
+      "fetched_at": "2026-10-20T13:36:49.841416+00:00"
     }
   },
   {
@@ -61639,7 +61822,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 302,
-      "fetched_at": "2026-10-19T21:06:04.987645+00:00"
+      "fetched_at": "2026-10-20T13:36:50.362838+00:00"
     }
   },
   {
@@ -61895,7 +62078,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 303,
-      "fetched_at": "2026-10-19T21:06:05.660699+00:00"
+      "fetched_at": "2026-10-20T13:36:50.889887+00:00"
     }
   },
   {
@@ -62211,7 +62394,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 304,
-      "fetched_at": "2026-10-19T21:06:06.260620+00:00"
+      "fetched_at": "2026-10-20T13:36:51.414380+00:00"
     }
   },
   {
@@ -62330,7 +62513,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 305,
-      "fetched_at": "2026-10-19T21:06:06.777982+00:00"
+      "fetched_at": "2026-10-20T13:36:51.948996+00:00"
     }
   },
   {
@@ -62456,7 +62639,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 306,
-      "fetched_at": "2026-10-19T21:06:07.288704+00:00"
+      "fetched_at": "2026-10-20T13:36:52.465143+00:00"
     }
   },
   {
@@ -62575,7 +62758,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 307,
-      "fetched_at": "2026-10-19T21:06:07.800094+00:00"
+      "fetched_at": "2026-10-20T13:36:52.980151+00:00"
     }
   },
   {
@@ -62811,7 +62994,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 308,
-      "fetched_at": "2026-10-19T21:06:08.360990+00:00"
+      "fetched_at": "2026-10-20T13:36:53.512730+00:00"
     }
   },
   {
@@ -62947,7 +63130,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 309,
-      "fetched_at": "2026-10-19T21:06:08.931941+00:00"
+      "fetched_at": "2026-10-20T13:36:54.031618+00:00"
     }
   },
   {
@@ -63073,7 +63256,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 310,
-      "fetched_at": "2026-10-19T21:06:09.456543+00:00"
+      "fetched_at": "2026-10-20T13:36:54.545294+00:00"
     }
   },
   {
@@ -63199,7 +63382,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 311,
-      "fetched_at": "2026-10-19T21:06:09.962476+00:00"
+      "fetched_at": "2026-10-20T13:36:55.074647+00:00"
     }
   },
   {
@@ -63318,7 +63501,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 312,
-      "fetched_at": "2026-10-19T21:06:10.472040+00:00"
+      "fetched_at": "2026-10-20T13:36:55.592702+00:00"
     }
   },
   {
@@ -63470,7 +63653,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 313,
-      "fetched_at": "2026-10-19T21:06:10.985521+00:00"
+      "fetched_at": "2026-10-20T13:36:56.121900+00:00"
     }
   },
   {
@@ -63609,7 +63792,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 314,
-      "fetched_at": "2026-10-19T21:06:11.537170+00:00"
+      "fetched_at": "2026-10-20T13:36:56.640655+00:00"
     }
   },
   {
@@ -63795,7 +63978,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 315,
-      "fetched_at": "2026-10-19T21:06:12.113621+00:00"
+      "fetched_at": "2026-10-20T13:36:57.174501+00:00"
     }
   },
   {
@@ -63944,7 +64127,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 316,
-      "fetched_at": "2026-10-19T21:06:12.737049+00:00"
+      "fetched_at": "2026-10-20T13:36:57.709278+00:00"
     }
   },
   {
@@ -64160,7 +64343,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 317,
-      "fetched_at": "2026-10-19T21:06:13.257409+00:00"
+      "fetched_at": "2026-10-20T13:36:58.249727+00:00"
     }
   },
   {
@@ -64346,7 +64529,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 318,
-      "fetched_at": "2026-10-19T21:06:13.786494+00:00"
+      "fetched_at": "2026-10-20T13:36:58.808672+00:00"
     }
   },
   {
@@ -64540,7 +64723,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 319,
-      "fetched_at": "2026-10-19T21:06:14.435484+00:00"
+      "fetched_at": "2026-10-20T13:36:59.331349+00:00"
     }
   },
   {
@@ -64886,12 +65069,12 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 320,
-      "fetched_at": "2026-10-19T21:06:15.075532+00:00"
+      "fetched_at": "2026-10-20T13:36:59.860762+00:00"
     }
   },
   {
     "id": 20264404,
-    "updated": "2026-10-16T10:56:40Z",
+    "updated": "2026-10-20T12:57:17Z",
     "additionalIndexing": "55;15;10",
     "affairType": {
       "abbreviation": "Ip.",
@@ -64991,21 +65174,21 @@
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "Importe von Milch und Milchprodukten: Welche Auswirkungen auf den Produzentenpreis für Milch?"
+        "value": "Importe von Milch und Milchprodukten. Welche Auswirkungen auf den Produzentenpreis für Milch?"
       }
     ],
-    "title": "Importe von Milch und Milchprodukten: Welche Auswirkungen auf den Produzentenpreis für Milch?",
+    "title": "Importe von Milch und Milchprodukten. Welche Auswirkungen auf den Produzentenpreis für Milch?",
     "_site": {
       "formatted_id": "26.4404",
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 321,
-      "fetched_at": "2026-10-19T21:06:15.614547+00:00"
+      "fetched_at": "2026-10-20T13:37:00.455233+00:00"
     }
   },
   {
     "id": 20264403,
-    "updated": "2026-10-16T14:53:47Z",
+    "updated": "2026-10-20T12:56:25Z",
     "additionalIndexing": "2841;15;2446",
     "affairType": {
       "abbreviation": "Mo.",
@@ -65165,16 +65348,16 @@
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "Modernisierung des Tabaksteuergesetzes: Zeitgemässe Produktkategorien schaffen"
+        "value": "Modernisierung des Tabaksteuergesetzes. Zeitgemässe Produktkategorien schaffen"
       }
     ],
-    "title": "Modernisierung des Tabaksteuergesetzes: Zeitgemässe Produktkategorien schaffen",
+    "title": "Modernisierung des Tabaksteuergesetzes. Zeitgemässe Produktkategorien schaffen",
     "_site": {
       "formatted_id": "26.4403",
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 322,
-      "fetched_at": "2026-10-19T21:06:16.181040+00:00"
+      "fetched_at": "2026-10-20T13:37:01.003847+00:00"
     }
   },
   {
@@ -65378,7 +65561,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 323,
-      "fetched_at": "2026-10-19T21:06:16.758457+00:00"
+      "fetched_at": "2026-10-20T13:37:01.529393+00:00"
     }
   },
   {
@@ -65712,7 +65895,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 324,
-      "fetched_at": "2026-10-19T21:06:17.324107+00:00"
+      "fetched_at": "2026-10-20T13:37:02.090208+00:00"
     }
   },
   {
@@ -65826,7 +66009,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 325,
-      "fetched_at": "2026-10-19T21:06:17.864718+00:00"
+      "fetched_at": "2026-10-20T13:37:02.633632+00:00"
     }
   },
   {
@@ -66042,12 +66225,12 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 326,
-      "fetched_at": "2026-10-19T21:06:18.446297+00:00"
+      "fetched_at": "2026-10-20T13:37:03.179690+00:00"
     }
   },
   {
     "id": 20264398,
-    "updated": "2026-10-14T08:32:21Z",
+    "updated": "2026-10-20T12:55:26Z",
     "additionalIndexing": "55;15",
     "affairType": {
       "abbreviation": "Ip.",
@@ -66152,16 +66335,16 @@
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "Schweizer Getreide: Transparenz bei Importen und Vorrang der inländischen Produktion"
+        "value": "Schweizer Getreide. Transparenz bei Importen und Vorrang der inländischen Produktion"
       }
     ],
-    "title": "Schweizer Getreide: Transparenz bei Importen und Vorrang der inländischen Produktion",
+    "title": "Schweizer Getreide. Transparenz bei Importen und Vorrang der inländischen Produktion",
     "_site": {
       "formatted_id": "26.4398",
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 327,
-      "fetched_at": "2026-10-19T21:06:19.005563+00:00"
+      "fetched_at": "2026-10-20T13:37:03.698275+00:00"
     }
   },
   {
@@ -66280,7 +66463,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 328,
-      "fetched_at": "2026-10-19T21:06:19.549971+00:00"
+      "fetched_at": "2026-10-20T13:37:04.217533+00:00"
     }
   },
   {
@@ -66399,7 +66582,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 329,
-      "fetched_at": "2026-10-19T21:06:20.132464+00:00"
+      "fetched_at": "2026-10-20T13:37:04.748629+00:00"
     }
   },
   {
@@ -66511,7 +66694,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 330,
-      "fetched_at": "2026-10-19T21:06:20.741427+00:00"
+      "fetched_at": "2026-10-20T13:37:05.267578+00:00"
     }
   },
   {
@@ -66727,7 +66910,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 331,
-      "fetched_at": "2026-10-19T21:06:21.307633+00:00"
+      "fetched_at": "2026-10-20T13:37:05.838251+00:00"
     }
   },
   {
@@ -67003,7 +67186,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 332,
-      "fetched_at": "2026-10-19T21:06:21.928940+00:00"
+      "fetched_at": "2026-10-20T13:37:06.414257+00:00"
     }
   },
   {
@@ -67129,7 +67312,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 333,
-      "fetched_at": "2026-10-19T21:06:22.524705+00:00"
+      "fetched_at": "2026-10-20T13:37:06.961831+00:00"
     }
   },
   {
@@ -67395,7 +67578,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 334,
-      "fetched_at": "2026-10-19T21:06:23.082011+00:00"
+      "fetched_at": "2026-10-20T13:37:07.488958+00:00"
     }
   },
   {
@@ -67561,7 +67744,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 335,
-      "fetched_at": "2026-10-19T21:06:23.609287+00:00"
+      "fetched_at": "2026-10-20T13:37:08.041275+00:00"
     }
   },
   {
@@ -67857,7 +68040,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 336,
-      "fetched_at": "2026-10-19T21:06:24.148454+00:00"
+      "fetched_at": "2026-10-20T13:37:08.572677+00:00"
     }
   },
   {
@@ -67983,7 +68166,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 337,
-      "fetched_at": "2026-10-19T21:06:24.784485+00:00"
+      "fetched_at": "2026-10-20T13:37:09.106824+00:00"
     }
   },
   {
@@ -68235,7 +68418,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 338,
-      "fetched_at": "2026-10-19T21:06:25.313232+00:00"
+      "fetched_at": "2026-10-20T13:37:09.668697+00:00"
     }
   },
   {
@@ -68461,7 +68644,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 339,
-      "fetched_at": "2026-10-19T21:06:25.926196+00:00"
+      "fetched_at": "2026-10-20T13:37:10.193023+00:00"
     }
   },
   {
@@ -68703,7 +68886,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 340,
-      "fetched_at": "2026-10-19T21:06:26.562119+00:00"
+      "fetched_at": "2026-10-20T13:37:10.712291+00:00"
     }
   },
   {
@@ -68979,7 +69162,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 341,
-      "fetched_at": "2026-10-19T21:06:27.089207+00:00"
+      "fetched_at": "2026-10-20T13:37:11.257081+00:00"
     }
   },
   {
@@ -69098,7 +69281,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 342,
-      "fetched_at": "2026-10-19T21:06:27.646522+00:00"
+      "fetched_at": "2026-10-20T13:37:11.782727+00:00"
     }
   },
   {
@@ -69213,7 +69396,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 343,
-      "fetched_at": "2026-10-19T21:06:28.278904+00:00"
+      "fetched_at": "2026-10-20T13:37:12.297653+00:00"
     }
   },
   {
@@ -69339,7 +69522,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 344,
-      "fetched_at": "2026-10-19T21:06:28.798016+00:00"
+      "fetched_at": "2026-10-20T13:37:12.816458+00:00"
     }
   },
   {
@@ -69462,7 +69645,7 @@
       "type_id": "10",
       "type_name": "Petition",
       "curia_rank": 345,
-      "fetched_at": "2026-10-19T21:06:29.311341+00:00"
+      "fetched_at": "2026-10-20T13:37:13.343020+00:00"
     }
   },
   {
@@ -69574,7 +69757,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 346,
-      "fetched_at": "2026-10-19T21:06:29.819100+00:00"
+      "fetched_at": "2026-10-20T13:37:13.885153+00:00"
     }
   },
   {
@@ -69686,7 +69869,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 347,
-      "fetched_at": "2026-10-19T21:06:30.356100+00:00"
+      "fetched_at": "2026-10-20T13:37:14.409657+00:00"
     }
   },
   {
@@ -69798,7 +69981,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 348,
-      "fetched_at": "2026-10-19T21:06:30.972246+00:00"
+      "fetched_at": "2026-10-20T13:37:14.926829+00:00"
     }
   },
   {
@@ -69917,7 +70100,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 349,
-      "fetched_at": "2026-10-19T21:06:31.482210+00:00"
+      "fetched_at": "2026-10-20T13:37:15.442426+00:00"
     }
   },
   {
@@ -70043,7 +70226,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 350,
-      "fetched_at": "2026-10-19T21:06:32.119965+00:00"
+      "fetched_at": "2026-10-20T13:37:16.026532+00:00"
     }
   },
   {
@@ -70162,7 +70345,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 351,
-      "fetched_at": "2026-10-19T21:06:32.738123+00:00"
+      "fetched_at": "2026-10-20T13:37:16.552028+00:00"
     }
   },
   {
@@ -70281,7 +70464,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 352,
-      "fetched_at": "2026-10-19T21:06:33.261250+00:00"
+      "fetched_at": "2026-10-20T13:37:17.083315+00:00"
     }
   },
   {
@@ -70463,7 +70646,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 353,
-      "fetched_at": "2026-10-19T21:06:33.781104+00:00"
+      "fetched_at": "2026-10-20T13:37:17.603523+00:00"
     }
   },
   {
@@ -70582,7 +70765,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 354,
-      "fetched_at": "2026-10-19T21:06:34.313156+00:00"
+      "fetched_at": "2026-10-20T13:37:18.182971+00:00"
     }
   },
   {
@@ -70701,7 +70884,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 355,
-      "fetched_at": "2026-10-19T21:06:34.823197+00:00"
+      "fetched_at": "2026-10-20T13:37:18.722881+00:00"
     }
   },
   {
@@ -70904,7 +71087,7 @@
       "type_id": "4",
       "type_name": "Parlamentarische Initiative",
       "curia_rank": 356,
-      "fetched_at": "2026-10-19T21:06:35.383729+00:00"
+      "fetched_at": "2026-10-20T13:37:19.243740+00:00"
     }
   },
   {
@@ -71003,7 +71186,7 @@
       "type_id": "2",
       "type_name": "Gesch\\u00e4ft des Parlaments",
       "curia_rank": 357,
-      "fetched_at": "2026-10-19T21:06:35.955571+00:00"
+      "fetched_at": "2026-10-20T13:37:19.803140+00:00"
     }
   },
   {
@@ -71117,7 +71300,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 359,
-      "fetched_at": "2026-10-19T21:06:37.045250+00:00"
+      "fetched_at": "2026-10-20T13:37:20.905328+00:00"
     }
   },
   {
@@ -71311,12 +71494,12 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 360,
-      "fetched_at": "2026-10-19T21:06:37.686445+00:00"
+      "fetched_at": "2026-10-20T13:37:21.512300+00:00"
     }
   },
   {
     "id": 20264378,
-    "updated": "2026-10-01T13:13:13Z",
+    "updated": "2026-10-20T14:24:13Z",
     "additionalIndexing": "10;09;15",
     "affairType": {
       "abbreviation": "Mo.",
@@ -71461,19 +71644,33 @@
     "texts": [
       {
         "type": {
+          "id": 6,
+          "name": "Begründung"
+        },
+        "value": "<p>Gemäss der UNO haben die beschleunigte Ausweitung der illegalen Siedlungen und die laufenden Annexionsprozesse bereits zur Vertreibung von über 36&nbsp;000&nbsp;Palästinenserinnen und Palästinensern im Westjordanland geführt. Dies zeugt von einer drastischen Eskalation der Gewalt.</p><p>&nbsp;</p><p>Die Sanktionen des Rates der Europäischen Union vom 28.&nbsp;Mai 2026 umfassen das Einfrieren der Vermögenswerte der betroffenen Personen und Organisationen, ein Einreiseverbot in die EU sowie das Verbot, ihnen Gelder zur Verfügung zu stellen.</p><p>&nbsp;</p><p>Das friedliche Zusammenleben der Völker und die Linderung von Not in der Welt gehören zu den Schwerpunkten der Aussenpolitik des Bundes (Artikel&nbsp;54 der Bundesverfassung). Als Depositarstaat der Genfer Abkommen muss die Schweiz unbedingt ihren Beitrag zum Schutz der Zivilbevölkerung leisten.&nbsp;</p><p>&nbsp;</p><p>Die Schweiz hat die Sanktionen der EU gegen Russland infolge des von Präsident Putin geführten Angriffskriegs gegen die Ukraine übernommen. Es wäre folgerichtig, auch die Sanktionen der EU gegen gewalttätige israelische Siedler im Westjordanland und die sie unterstützenden Organisationen zu übernehmen, die jede Suche nach einer friedlichen Lösung untergraben.</p>"
+      },
+      {
+        "type": {
+          "id": 5,
+          "name": "Eingereichter Text"
+        },
+        "value": "<p>Der Bundesrat wird beauftragt, die Sanktionen des Rates der Europäischen Union vom 28.&nbsp;Mai 2026 gegen die für schwere und systematische Menschenrechtsverletzungen an Palästinenserinnen und Palästinensern im Westjordanland verantwortlichen extremistischen israelischen Siedler und die sie unterstützenden Organisationen zu übernehmen.</p>"
+      },
+      {
+        "type": {
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "Titel folgt"
+        "value": "Übernahme der Sanktionen gegen gewalttätige israelische Siedler"
       }
     ],
-    "title": "Titel folgt",
+    "title": "Übernahme der Sanktionen gegen gewalttätige israelische Siedler",
     "_site": {
       "formatted_id": "26.4378",
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 361,
-      "fetched_at": "2026-10-19T21:06:38.297504+00:00"
+      "fetched_at": "2026-10-20T13:37:22.096394+00:00"
     }
   },
   {
@@ -71585,12 +71782,12 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 362,
-      "fetched_at": "2026-10-19T21:06:38.852827+00:00"
+      "fetched_at": "2026-10-20T13:37:22.642497+00:00"
     }
   },
   {
     "id": 20264376,
-    "updated": "2026-10-05T15:01:40Z",
+    "updated": "2026-10-20T08:13:51Z",
     "additionalIndexing": "1216;12;1221;04",
     "affairType": {
       "abbreviation": "Po.",
@@ -71809,7 +72006,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 363,
-      "fetched_at": "2026-10-19T21:06:39.405704+00:00"
+      "fetched_at": "2026-10-20T13:37:23.253378+00:00"
     }
   },
   {
@@ -71993,7 +72190,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 364,
-      "fetched_at": "2026-10-19T21:06:39.920574+00:00"
+      "fetched_at": "2026-10-20T13:37:23.862851+00:00"
     }
   },
   {
@@ -72147,7 +72344,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 365,
-      "fetched_at": "2026-10-19T21:06:40.446543+00:00"
+      "fetched_at": "2026-10-20T13:37:24.462864+00:00"
     }
   },
   {
@@ -72419,7 +72616,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 366,
-      "fetched_at": "2026-10-19T21:06:40.984955+00:00"
+      "fetched_at": "2026-10-20T13:37:25.035099+00:00"
     }
   },
   {
@@ -72538,7 +72735,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 367,
-      "fetched_at": "2026-10-19T21:06:41.522197+00:00"
+      "fetched_at": "2026-10-20T13:37:25.585955+00:00"
     }
   },
   {
@@ -72650,7 +72847,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 368,
-      "fetched_at": "2026-10-19T21:06:42.075561+00:00"
+      "fetched_at": "2026-10-20T13:37:26.149720+00:00"
     }
   },
   {
@@ -73002,7 +73199,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 369,
-      "fetched_at": "2026-10-19T21:06:42.715221+00:00"
+      "fetched_at": "2026-10-20T13:37:26.678965+00:00"
     }
   },
   {
@@ -73128,7 +73325,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 370,
-      "fetched_at": "2026-10-19T21:06:43.315117+00:00"
+      "fetched_at": "2026-10-20T13:37:27.243420+00:00"
     }
   },
   {
@@ -73330,7 +73527,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 371,
-      "fetched_at": "2026-10-19T21:06:43.837182+00:00"
+      "fetched_at": "2026-10-20T13:37:27.853714+00:00"
     }
   },
   {
@@ -73586,7 +73783,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 372,
-      "fetched_at": "2026-10-19T21:06:44.373483+00:00"
+      "fetched_at": "2026-10-20T13:37:28.484665+00:00"
     }
   },
   {
@@ -73708,7 +73905,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 373,
-      "fetched_at": "2026-10-19T21:06:44.888068+00:00"
+      "fetched_at": "2026-10-20T13:37:29.035943+00:00"
     }
   },
   {
@@ -74010,7 +74207,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 374,
-      "fetched_at": "2026-10-19T21:06:45.401425+00:00"
+      "fetched_at": "2026-10-20T13:37:29.667584+00:00"
     }
   },
   {
@@ -74179,7 +74376,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 375,
-      "fetched_at": "2026-10-19T21:06:45.986184+00:00"
+      "fetched_at": "2026-10-20T13:37:30.244262+00:00"
     }
   },
   {
@@ -74491,12 +74688,12 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 376,
-      "fetched_at": "2026-10-19T21:06:46.560635+00:00"
+      "fetched_at": "2026-10-20T13:37:30.823919+00:00"
     }
   },
   {
     "id": 20264362,
-    "updated": "2026-10-16T15:01:01Z",
+    "updated": "2026-10-20T12:54:12Z",
     "additionalIndexing": "34;2841;15",
     "affairType": {
       "abbreviation": "Mo.",
@@ -74798,21 +74995,21 @@
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "Griffige Regeln für Medfluencing – Gesundheits- und Konsumentenschutz auf sozialen Medien stärken"
+        "value": "Griffige Regeln für Medfluencing. Gesundheits- und Konsumentenschutz auf sozialen Medien stärken"
       }
     ],
-    "title": "Griffige Regeln für Medfluencing – Gesundheits- und Konsumentenschutz auf sozialen Medien stärken",
+    "title": "Griffige Regeln für Medfluencing. Gesundheits- und Konsumentenschutz auf sozialen Medien stärken",
     "_site": {
       "formatted_id": "26.4362",
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 377,
-      "fetched_at": "2026-10-19T21:06:47.128505+00:00"
+      "fetched_at": "2026-10-20T13:37:31.400984+00:00"
     }
   },
   {
     "id": 20264361,
-    "updated": "2026-10-01T11:23:51Z",
+    "updated": "2026-10-20T08:00:21Z",
     "additionalIndexing": "66;15",
     "affairType": {
       "abbreviation": "Mo.",
@@ -75053,7 +75250,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 378,
-      "fetched_at": "2026-10-19T21:06:47.652451+00:00"
+      "fetched_at": "2026-10-20T13:37:32.020894+00:00"
     }
   },
   {
@@ -75259,12 +75456,12 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 379,
-      "fetched_at": "2026-10-19T21:06:48.264591+00:00"
+      "fetched_at": "2026-10-20T13:37:32.592262+00:00"
     }
   },
   {
     "id": 20264359,
-    "updated": "2026-10-05T14:47:27Z",
+    "updated": "2026-10-20T08:01:36Z",
     "additionalIndexing": "34;66;04",
     "affairType": {
       "abbreviation": "Po.",
@@ -75475,12 +75672,12 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 380,
-      "fetched_at": "2026-10-19T21:06:49.051328+00:00"
+      "fetched_at": "2026-10-20T13:37:33.187476+00:00"
     }
   },
   {
     "id": 20264358,
-    "updated": "2026-10-01T11:16:36Z",
+    "updated": "2026-10-20T14:24:39Z",
     "additionalIndexing": "48;2846",
     "affairType": {
       "abbreviation": "Ip.",
@@ -75575,19 +75772,26 @@
     "texts": [
       {
         "type": {
+          "id": 5,
+          "name": "Eingereichter Text"
+        },
+        "value": "<p>Die Region Locarno ist die einzige Schweizer Agglomeration ohne direkten Autobahnanschluss. Die Zufahrtsstrassen führen durch Ortschaften, in denen die Probleme inzwischen struktureller Natur sind.</p><p>&nbsp;</p><p>Der Kanton Tessin hat vor über zehn Jahren mit der Projektierung begonnen, die das Bundesamt für Strassen (ASTRA) in den letzten sechs Jahren weiterentwickelt hat. Dabei wurde auf einen sehr breiten Konsens bei der Linienführung im Tunnel am linken Ufer abgestützt sowie auf die gemäss Bericht Weidmann hohe Priorität. Es wurde erwartet, dass das Vorhaben als feste Grösse in den Sachplan Verkehr, Teil Infrastruktur Strasse (SIN) aufgenommen und in Hinblick auf die Realisierung genehmigt wird.</p><p>&nbsp;</p><p>Jedoch wurde in den SIN2027, derzeit in Anhörung, offenbar auf Wunsch des Bundesamts für Umwelt (BAFU) auch eine Variante zur Linienführung am rechten Ufer aufgenommen. Währenddessen wurde der Realisierungshorizont des Projekts gemäss Vorentwurf «Verkehr ’45», ebenfalls in der Vernehmlassung, auf nach 2045 verschoben ‒ allerdings mit dem Hinweis, nach Projektfortschritt sei auch eine Priorisierung des Projekts zu Lasten anderer Projekte denkbar.</p><p>&nbsp;</p><p>Das Ganze erinnert an ein Leiterlispiel, bei dem man immer wieder ein paar Felder zurückgeworfen wird.</p><p>&nbsp;</p><p>Daher stelle ich dem Bundesrat folgende Fragen:</p><p>&nbsp;</p><ol style=\"list-style-type:decimal;\"><li><p>Weshalb soll das BAFU nun verlangt haben, eine weitere Linienführung in den SIN aufzunehmen?</p><p>&nbsp;</p></li><li><p>Wurden die Varianten nicht bereits beurteilt? Wenn ja, mit welchem Ergebnis? Was hat der Vergleich zwischen dem Projekt am linken Ufer und der Variante am rechten Ufer in Bezug auf Konflikte mit Infrastruktur und Landwirtschaftszonen, Einpassung in die Landschaft, Verkehrsaufkommen und funktionale Wirksamkeit ergeben?</p><p>&nbsp;</p></li><li><p>Trifft es zu, dass das Projekt am linken Ufer trotz der unumgänglichen Querung der Moorlandschaft Nr.&nbsp;260 (die bereits heute durchquert wird) die ökologische Situation verbessern würde, allenfalls mithilfe von Ersatzmassnahmen?</p><p>&nbsp;</p></li><li><p>Was braucht es noch, damit auch das BAFU beziehungsweise die übergeordnete Entscheidungsinstanz bestätigt, dass die bereits projektierte Linienführung unverzichtbar ist und es keine tragfähige Alternative dafür gibt?</p><p>&nbsp;</p></li><li><p>Inwiefern verzögert die Diskussion zwischen den Ämtern des Eidgenössischen Departements für Umwelt, Verkehr, Energie und Kommunikation (UVEK) die Projektierung, die Genehmigung und die Realisierung des Vorhabens?</p><p>&nbsp;</p></li><li><p>Ist innerhalb des UVEK und insbesondere des BAFU allen bekannt, dass die Linienführung am linken Ufer das Ergebnis eines zehnjährigen Prozesses ist, und dass die lokalen Behörden, der Kanton und die vom ASTRA beigezogene Begleitgruppe dieser Lösung zugestimmt hat?</p><p>&nbsp;</p></li><li>Weshalb soll die Realisierung auf nach 2045 verschoben werden, obwohl sie gemäss Bericht Weidmann prioritär ist? Kann dies noch angepasst werden?</li></ol>"
+      },
+      {
+        "type": {
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "Titel folgt"
+        "value": "Autobahnverbindung A2–A13 Bellinzona–Locarno: ein Leiterlispiel?"
       }
     ],
-    "title": "Titel folgt",
+    "title": "Autobahnverbindung A2–A13 Bellinzona–Locarno: ein Leiterlispiel?",
     "_site": {
       "formatted_id": "26.4358",
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 381,
-      "fetched_at": "2026-10-19T21:06:49.552689+00:00"
+      "fetched_at": "2026-10-20T13:37:33.752174+00:00"
     }
   },
   {
@@ -75706,7 +75910,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 382,
-      "fetched_at": "2026-10-19T21:06:50.147803+00:00"
+      "fetched_at": "2026-10-20T13:37:34.305767+00:00"
     }
   },
   {
@@ -75832,7 +76036,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 383,
-      "fetched_at": "2026-10-19T21:06:50.686432+00:00"
+      "fetched_at": "2026-10-20T13:37:34.856276+00:00"
     }
   },
   {
@@ -75954,7 +76158,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 384,
-      "fetched_at": "2026-10-19T21:06:51.229711+00:00"
+      "fetched_at": "2026-10-20T13:37:35.412045+00:00"
     }
   },
   {
@@ -76068,12 +76272,12 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 385,
-      "fetched_at": "2026-10-19T21:06:51.754906+00:00"
+      "fetched_at": "2026-10-20T13:37:35.972474+00:00"
     }
   },
   {
     "id": 20264353,
-    "updated": "2026-10-16T13:11:37Z",
+    "updated": "2026-10-20T12:52:58Z",
     "additionalIndexing": "32;52;24",
     "affairType": {
       "abbreviation": "Mo.",
@@ -76364,12 +76568,12 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 386,
-      "fetched_at": "2026-10-19T21:06:52.401566+00:00"
+      "fetched_at": "2026-10-20T13:37:36.603590+00:00"
     }
   },
   {
     "id": 20264352,
-    "updated": "2026-10-01T10:55:46Z",
+    "updated": "2026-10-20T08:02:14Z",
     "additionalIndexing": "52;15",
     "affairType": {
       "abbreviation": "Ip.",
@@ -76490,12 +76694,12 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 387,
-      "fetched_at": "2026-10-19T21:06:52.950307+00:00"
+      "fetched_at": "2026-10-20T13:37:37.121565+00:00"
     }
   },
   {
     "id": 20264351,
-    "updated": "2026-10-16T11:00:43Z",
+    "updated": "2026-10-20T12:52:22Z",
     "additionalIndexing": "2841",
     "affairType": {
       "abbreviation": "Mo.",
@@ -76616,12 +76820,12 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 388,
-      "fetched_at": "2026-10-19T21:06:53.510634+00:00"
+      "fetched_at": "2026-10-20T13:37:37.705394+00:00"
     }
   },
   {
     "id": 20264350,
-    "updated": "2026-10-15T14:59:02Z",
+    "updated": "2026-10-20T14:25:06Z",
     "additionalIndexing": "2811;44;2836",
     "affairType": {
       "abbreviation": "Mo.",
@@ -76716,19 +76920,33 @@
     "texts": [
       {
         "type": {
+          "id": 6,
+          "name": "Begründung"
+        },
+        "value": "<p>Der Schutzstatus&nbsp;S gewährt den ukrainischen Geflüchteten Schutz. Die Solidarität der Gemeinschaft darf aber nicht als System reiner Rechte verstanden werden: Wer arbeitsfähig ist und von öffentlicher Unterstützung abhängt, soll nach Möglichkeit dazu angehalten werden, einen Beitrag zu der Gemeinschaft zu leisten, die ihn unterstützt.</p><p>Im Tessin gehört die Erwerbsquote der Personen mit Schutzstatus&nbsp;S zu den tiefsten der Schweiz. Dies wirkt sich – natürlich – auf die Akzeptanz in der Wohnbevölkerung aus.</p><p>Die Bundesgesetzgebung sieht Beschäftigungsprogramme für Personen aus dem Asylbereich vor. Es fehlt jedoch ein klarer Grundsatz, gemäss dem erwerbsfähige Personen mit Schutzstatus S nur dann Sozialhilfe erhalten, wenn sie sich gemeinnützig betätigen. Diese Lücke soll geschlossen werden.</p><p>Der Bund soll eine gesetzliche Grundlage schaffen, damit die Kantone erwerbsfähige Personen mit Schutzstatus&nbsp;S, die Sozialhilfe beziehen, zur Teilnahme an Beschäftigungsprogrammen oder gemeinnütziger Arbeit verpflichten können.&nbsp;</p><p>Die Regelung soll auch für die Aufenthaltsbewilligungen&nbsp;B gelten, die ab März&nbsp;2027 aus dem Schutzstatus&nbsp;S hervorgehen.</p><p>Die Tätigkeiten müssen gemeinnützig sein, dürfen keine regulären Arbeitsplätze ersetzen und die Privatwirtschaft nicht konkurrenzieren. Der Einsatz muss verhältnismässig sein und die individuelle Situation berücksichtigen.&nbsp;</p><p>Bei ungerechtfertigter Verweigerung der Teilnahme muss die Regelung eine verhältnismässige Kürzung der Sozialhilfeleistungen ermöglichen.&nbsp;</p>"
+      },
+      {
+        "type": {
+          "id": 5,
+          "name": "Eingereichter Text"
+        },
+        "value": "<p>Der Bundesrat wird beauftragt, Änderungen des Asylgesetzes, insbesondere von Artikel&nbsp;82, und der Ausführungsverordnung vorzuschlagen, damit erwerbsfähige Personen mit Schutzstatus&nbsp;S, die Sozialhilfe beziehen, verpflichtet werden, an Beschäftigungs- oder Integrationsprogrammen teilzunehmen oder gemeinnützige Arbeit zu leisten, sofern sie nicht bereits erwerbstätig sind oder eine Ausbildung absolvieren. Die Teilnahme ist eine Voraussetzung für den weiteren Bezug der Sozialhilfeleistungen. Die Verweigerung der Teilnahme muss eine verhältnismässige Kürzung der Sozialhilfeleistungen zur Folge haben.</p>"
+      },
+      {
+        "type": {
           "id": 1,
           "name": "Titel des Geschäftes"
         },
-        "value": "Titel folgt"
+        "value": "Schutzstatus S: Wer Sozialleistungen bezieht, soll einen Beitrag an die Gemeinschaft leisten"
       }
     ],
-    "title": "Titel folgt",
+    "title": "Schutzstatus S: Wer Sozialleistungen bezieht, soll einen Beitrag an die Gemeinschaft leisten",
     "_site": {
       "formatted_id": "26.4350",
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 389,
-      "fetched_at": "2026-10-19T21:06:54.055774+00:00"
+      "fetched_at": "2026-10-20T13:37:38.225223+00:00"
     }
   },
   {
@@ -76847,7 +77065,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 390,
-      "fetched_at": "2026-10-19T21:06:54.727209+00:00"
+      "fetched_at": "2026-10-20T13:37:38.790050+00:00"
     }
   },
   {
@@ -76999,7 +77217,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 391,
-      "fetched_at": "2026-10-19T21:06:55.382642+00:00"
+      "fetched_at": "2026-10-20T13:37:39.324874+00:00"
     }
   },
   {
@@ -77215,7 +77433,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 392,
-      "fetched_at": "2026-10-19T21:06:56.105893+00:00"
+      "fetched_at": "2026-10-20T13:37:39.918467+00:00"
     }
   },
   {
@@ -77334,7 +77552,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 393,
-      "fetched_at": "2026-10-19T21:06:56.617823+00:00"
+      "fetched_at": "2026-10-20T13:37:40.445495+00:00"
     }
   },
   {
@@ -77536,7 +77754,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 394,
-      "fetched_at": "2026-10-19T21:06:57.131465+00:00"
+      "fetched_at": "2026-10-20T13:37:41.059867+00:00"
     }
   },
   {
@@ -77662,7 +77880,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 395,
-      "fetched_at": "2026-10-19T21:06:57.652288+00:00"
+      "fetched_at": "2026-10-20T13:37:41.614694+00:00"
     }
   },
   {
@@ -77858,7 +78076,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 396,
-      "fetched_at": "2026-10-19T21:06:58.172029+00:00"
+      "fetched_at": "2026-10-20T13:37:42.158923+00:00"
     }
   },
   {
@@ -78134,7 +78352,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 397,
-      "fetched_at": "2026-10-19T21:06:58.777457+00:00"
+      "fetched_at": "2026-10-20T13:37:42.865823+00:00"
     }
   },
   {
@@ -78296,7 +78514,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 398,
-      "fetched_at": "2026-10-19T21:06:59.287171+00:00"
+      "fetched_at": "2026-10-20T13:37:43.409736+00:00"
     }
   },
   {
@@ -78485,7 +78703,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 399,
-      "fetched_at": "2026-10-19T21:06:59.816798+00:00"
+      "fetched_at": "2026-10-20T13:37:43.941328+00:00"
     }
   },
   {
@@ -78667,7 +78885,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 400,
-      "fetched_at": "2026-10-19T21:07:00.344734+00:00"
+      "fetched_at": "2026-10-20T13:37:44.500756+00:00"
     }
   },
   {
