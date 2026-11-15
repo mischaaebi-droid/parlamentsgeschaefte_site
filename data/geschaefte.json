@@ -88,7 +88,7 @@
       "type_id": "1",
       "type_name": "Gesch\\u00e4ft des Bundesrates",
       "curia_rank": 1,
-      "fetched_at": "2026-11-15T15:39:50.640083+00:00"
+      "fetched_at": "2026-11-15T21:02:51.373593+00:00"
     }
   },
   {
@@ -230,7 +230,7 @@
       "type_id": "1",
       "type_name": "Gesch\\u00e4ft des Bundesrates",
       "curia_rank": 2,
-      "fetched_at": "2026-11-15T15:39:51.239781+00:00"
+      "fetched_at": "2026-11-15T21:02:51.859683+00:00"
     }
   },
   {
@@ -329,7 +329,7 @@
       "type_id": "2",
       "type_name": "Gesch\\u00e4ft des Parlaments",
       "curia_rank": 3,
-      "fetched_at": "2026-11-15T15:39:51.827720+00:00"
+      "fetched_at": "2026-11-15T21:02:52.560139+00:00"
     }
   },
   {
@@ -476,7 +476,7 @@
       "type_id": "1",
       "type_name": "Gesch\\u00e4ft des Bundesrates",
       "curia_rank": 4,
-      "fetched_at": "2026-11-15T15:39:52.389752+00:00"
+      "fetched_at": "2026-11-15T21:02:53.055770+00:00"
     }
   },
   {
@@ -618,7 +618,7 @@
       "type_id": "1",
       "type_name": "Gesch\\u00e4ft des Bundesrates",
       "curia_rank": 5,
-      "fetched_at": "2026-11-15T15:39:52.923329+00:00"
+      "fetched_at": "2026-11-15T21:02:53.533692+00:00"
     }
   },
   {
@@ -891,7 +891,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 6,
-      "fetched_at": "2026-11-15T15:39:53.526525+00:00"
+      "fetched_at": "2026-11-15T21:02:54.046584+00:00"
     }
   },
   {
@@ -1164,7 +1164,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 7,
-      "fetched_at": "2026-11-15T15:39:54.120798+00:00"
+      "fetched_at": "2026-11-15T21:02:54.669941+00:00"
     }
   },
   {
@@ -1371,7 +1371,7 @@
       "type_id": "4",
       "type_name": "Parlamentarische Initiative",
       "curia_rank": 8,
-      "fetched_at": "2026-11-15T15:39:54.667394+00:00"
+      "fetched_at": "2026-11-15T21:02:55.308240+00:00"
     }
   },
   {
@@ -1598,7 +1598,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 9,
-      "fetched_at": "2026-11-15T15:39:55.239983+00:00"
+      "fetched_at": "2026-11-15T21:02:55.806833+00:00"
     }
   },
   {
@@ -1801,7 +1801,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 10,
-      "fetched_at": "2026-11-15T15:39:55.770608+00:00"
+      "fetched_at": "2026-11-15T21:02:56.412706+00:00"
     }
   },
   {
@@ -1955,7 +1955,7 @@
       "type_id": "3",
       "type_name": "Standesinitiative",
       "curia_rank": 11,
-      "fetched_at": "2026-11-15T15:39:56.300294+00:00"
+      "fetched_at": "2026-11-15T21:02:57.051301+00:00"
     }
   },
   {
@@ -2109,7 +2109,7 @@
       "type_id": "3",
       "type_name": "Standesinitiative",
       "curia_rank": 12,
-      "fetched_at": "2026-11-15T15:39:56.836450+00:00"
+      "fetched_at": "2026-11-15T21:02:57.543562+00:00"
     }
   },
   {
@@ -2317,7 +2317,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 13,
-      "fetched_at": "2026-11-15T15:39:57.394057+00:00"
+      "fetched_at": "2026-11-15T21:02:58.071031+00:00"
     }
   },
   {
@@ -2564,7 +2564,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 14,
-      "fetched_at": "2026-11-15T15:39:57.922663+00:00"
+      "fetched_at": "2026-11-15T21:02:58.559445+00:00"
     }
   },
   {
@@ -2837,7 +2837,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 15,
-      "fetched_at": "2026-11-15T15:39:58.640707+00:00"
+      "fetched_at": "2026-11-15T21:02:59.064825+00:00"
     }
   },
   {
@@ -2974,7 +2974,7 @@
       "type_id": "1",
       "type_name": "Gesch\\u00e4ft des Bundesrates",
       "curia_rank": 16,
-      "fetched_at": "2026-11-15T15:39:59.196250+00:00"
+      "fetched_at": "2026-11-15T21:02:59.557452+00:00"
     }
   },
   {
@@ -3116,7 +3116,7 @@
       "type_id": "1",
       "type_name": "Gesch\\u00e4ft des Bundesrates",
       "curia_rank": 17,
-      "fetched_at": "2026-11-15T15:39:59.712977+00:00"
+      "fetched_at": "2026-11-15T21:03:00.057642+00:00"
     }
   },
   {
@@ -3263,7 +3263,7 @@
       "type_id": "1",
       "type_name": "Gesch\\u00e4ft des Bundesrates",
       "curia_rank": 18,
-      "fetched_at": "2026-11-15T15:40:00.238926+00:00"
+      "fetched_at": "2026-11-15T21:03:00.566058+00:00"
     }
   },
   {
@@ -3495,7 +3495,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 19,
-      "fetched_at": "2026-11-15T15:40:00.792434+00:00"
+      "fetched_at": "2026-11-15T21:03:01.047399+00:00"
     }
   },
   {
@@ -3768,7 +3768,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 20,
-      "fetched_at": "2026-11-15T15:40:01.472867+00:00"
+      "fetched_at": "2026-11-15T21:03:01.549197+00:00"
     }
   },
   {
@@ -4041,7 +4041,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 21,
-      "fetched_at": "2026-11-15T15:40:02.035889+00:00"
+      "fetched_at": "2026-11-15T21:03:02.038299+00:00"
     }
   },
   {
@@ -4314,7 +4314,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 22,
-      "fetched_at": "2026-11-15T15:40:02.568182+00:00"
+      "fetched_at": "2026-11-15T21:03:02.574503+00:00"
     }
   },
   {
@@ -4432,7 +4432,7 @@
       "type_id": "10",
       "type_name": "Petition",
       "curia_rank": 23,
-      "fetched_at": "2026-11-15T15:40:03.114873+00:00"
+      "fetched_at": "2026-11-15T21:03:03.058269+00:00"
     }
   },
   {
@@ -4555,7 +4555,7 @@
       "type_id": "10",
       "type_name": "Petition",
       "curia_rank": 24,
-      "fetched_at": "2026-11-15T15:40:03.659611+00:00"
+      "fetched_at": "2026-11-15T21:03:03.542612+00:00"
     }
   },
   {
@@ -4756,7 +4756,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 25,
-      "fetched_at": "2026-11-15T15:40:04.183125+00:00"
+      "fetched_at": "2026-11-15T21:03:04.058190+00:00"
     }
   },
   {
@@ -4879,7 +4879,7 @@
       "type_id": "10",
       "type_name": "Petition",
       "curia_rank": 26,
-      "fetched_at": "2026-11-15T15:40:04.720422+00:00"
+      "fetched_at": "2026-11-15T21:03:04.547009+00:00"
     }
   },
   {
@@ -5085,7 +5085,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 27,
-      "fetched_at": "2026-11-15T15:40:05.304647+00:00"
+      "fetched_at": "2026-11-15T21:03:05.055265+00:00"
     }
   },
   {
@@ -5265,7 +5265,7 @@
       "type_id": "4",
       "type_name": "Parlamentarische Initiative",
       "curia_rank": 28,
-      "fetched_at": "2026-11-15T15:40:05.903451+00:00"
+      "fetched_at": "2026-11-15T21:03:05.536716+00:00"
     }
   },
   {
@@ -5480,7 +5480,7 @@
       "type_id": "4",
       "type_name": "Parlamentarische Initiative",
       "curia_rank": 29,
-      "fetched_at": "2026-11-15T15:40:06.430621+00:00"
+      "fetched_at": "2026-11-15T21:03:06.014624+00:00"
     }
   },
   {
@@ -5637,7 +5637,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 30,
-      "fetched_at": "2026-11-15T15:40:06.958672+00:00"
+      "fetched_at": "2026-11-15T21:03:06.525039+00:00"
     }
   },
   {
@@ -5760,7 +5760,7 @@
       "type_id": "10",
       "type_name": "Petition",
       "curia_rank": 31,
-      "fetched_at": "2026-11-15T15:40:07.533734+00:00"
+      "fetched_at": "2026-11-15T21:03:07.046383+00:00"
     }
   },
   {
@@ -6026,7 +6026,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 32,
-      "fetched_at": "2026-11-15T15:40:08.098244+00:00"
+      "fetched_at": "2026-11-15T21:03:07.560585+00:00"
     }
   },
   {
@@ -6149,7 +6149,7 @@
       "type_id": "10",
       "type_name": "Petition",
       "curia_rank": 33,
-      "fetched_at": "2026-11-15T15:40:08.697075+00:00"
+      "fetched_at": "2026-11-15T21:03:08.077781+00:00"
     }
   },
   {
@@ -6335,7 +6335,7 @@
       "type_id": "4",
       "type_name": "Parlamentarische Initiative",
       "curia_rank": 34,
-      "fetched_at": "2026-11-15T15:40:09.283570+00:00"
+      "fetched_at": "2026-11-15T21:03:08.553017+00:00"
     }
   },
   {
@@ -6458,7 +6458,7 @@
       "type_id": "10",
       "type_name": "Petition",
       "curia_rank": 35,
-      "fetched_at": "2026-11-15T15:40:09.820554+00:00"
+      "fetched_at": "2026-11-15T21:03:09.062168+00:00"
     }
   },
   {
@@ -6581,7 +6581,7 @@
       "type_id": "10",
       "type_name": "Petition",
       "curia_rank": 36,
-      "fetched_at": "2026-11-15T15:40:10.465156+00:00"
+      "fetched_at": "2026-11-15T21:03:09.923128+00:00"
     }
   },
   {
@@ -6704,7 +6704,7 @@
       "type_id": "10",
       "type_name": "Petition",
       "curia_rank": 37,
-      "fetched_at": "2026-11-15T15:40:11.016247+00:00"
+      "fetched_at": "2026-11-15T21:03:10.399999+00:00"
     }
   },
   {
@@ -6796,7 +6796,7 @@
       "type_id": "2",
       "type_name": "Gesch\\u00e4ft des Parlaments",
       "curia_rank": 38,
-      "fetched_at": "2026-11-15T15:40:11.542993+00:00"
+      "fetched_at": "2026-11-15T21:03:10.874919+00:00"
     }
   },
   {
@@ -6895,7 +6895,7 @@
       "type_id": "2",
       "type_name": "Gesch\\u00e4ft des Parlaments",
       "curia_rank": 39,
-      "fetched_at": "2026-11-15T15:40:12.168285+00:00"
+      "fetched_at": "2026-11-15T21:03:11.685143+00:00"
     }
   },
   {
@@ -6994,7 +6994,7 @@
       "type_id": "2",
       "type_name": "Gesch\\u00e4ft des Parlaments",
       "curia_rank": 40,
-      "fetched_at": "2026-11-15T15:40:12.691984+00:00"
+      "fetched_at": "2026-11-15T21:03:12.366167+00:00"
     }
   },
   {
@@ -7093,7 +7093,7 @@
       "type_id": "2",
       "type_name": "Gesch\\u00e4ft des Parlaments",
       "curia_rank": 41,
-      "fetched_at": "2026-11-15T15:40:13.232283+00:00"
+      "fetched_at": "2026-11-15T21:03:12.821877+00:00"
     }
   },
   {
@@ -7221,7 +7221,7 @@
       "type_id": "10",
       "type_name": "Petition",
       "curia_rank": 42,
-      "fetched_at": "2026-11-15T15:40:13.762627+00:00"
+      "fetched_at": "2026-11-15T21:03:13.422387+00:00"
     }
   },
   {
@@ -7344,7 +7344,7 @@
       "type_id": "10",
       "type_name": "Petition",
       "curia_rank": 43,
-      "fetched_at": "2026-11-15T15:40:14.333716+00:00"
+      "fetched_at": "2026-11-15T21:03:13.874807+00:00"
     }
   },
   {
@@ -7477,7 +7477,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 44,
-      "fetched_at": "2026-11-15T15:40:14.854183+00:00"
+      "fetched_at": "2026-11-15T21:03:14.372647+00:00"
     }
   },
   {
@@ -7678,7 +7678,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 45,
-      "fetched_at": "2026-11-15T15:40:15.382301+00:00"
+      "fetched_at": "2026-11-15T21:03:14.855441+00:00"
     }
   },
   {
@@ -7901,7 +7901,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 46,
-      "fetched_at": "2026-11-15T15:40:15.927024+00:00"
+      "fetched_at": "2026-11-15T21:03:15.326408+00:00"
     }
   },
   {
@@ -8058,7 +8058,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 47,
-      "fetched_at": "2026-11-15T15:40:16.480358+00:00"
+      "fetched_at": "2026-11-15T21:03:15.785916+00:00"
     }
   },
   {
@@ -8271,7 +8271,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 48,
-      "fetched_at": "2026-11-15T15:40:17.036843+00:00"
+      "fetched_at": "2026-11-15T21:03:16.263861+00:00"
     }
   },
   {
@@ -8404,7 +8404,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 49,
-      "fetched_at": "2026-11-15T15:40:17.559692+00:00"
+      "fetched_at": "2026-11-15T21:03:16.741870+00:00"
     }
   },
   {
@@ -8550,7 +8550,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 50,
-      "fetched_at": "2026-11-15T15:40:18.111823+00:00"
+      "fetched_at": "2026-11-15T21:03:17.209719+00:00"
     }
   },
   {
@@ -8676,7 +8676,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 51,
-      "fetched_at": "2026-11-15T15:40:18.641153+00:00"
+      "fetched_at": "2026-11-15T21:03:17.698333+00:00"
     }
   },
   {
@@ -8869,7 +8869,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 52,
-      "fetched_at": "2026-11-15T15:40:19.168430+00:00"
+      "fetched_at": "2026-11-15T21:03:18.162721+00:00"
     }
   },
   {
@@ -9132,7 +9132,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 53,
-      "fetched_at": "2026-11-15T15:40:19.705040+00:00"
+      "fetched_at": "2026-11-15T21:03:18.619827+00:00"
     }
   },
   {
@@ -9295,7 +9295,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 54,
-      "fetched_at": "2026-11-15T15:40:20.262682+00:00"
+      "fetched_at": "2026-11-15T21:03:19.165326+00:00"
     }
   },
   {
@@ -9938,7 +9938,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 55,
-      "fetched_at": "2026-11-15T15:40:20.814503+00:00"
+      "fetched_at": "2026-11-15T21:03:19.653717+00:00"
     }
   },
   {
@@ -10124,7 +10124,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 56,
-      "fetched_at": "2026-11-15T15:40:21.337084+00:00"
+      "fetched_at": "2026-11-15T21:03:20.111771+00:00"
     }
   },
   {
@@ -10360,7 +10360,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 57,
-      "fetched_at": "2026-11-15T15:40:21.876887+00:00"
+      "fetched_at": "2026-11-15T21:03:20.622038+00:00"
     }
   },
   {
@@ -10573,7 +10573,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 58,
-      "fetched_at": "2026-11-15T15:40:22.413899+00:00"
+      "fetched_at": "2026-11-15T21:03:21.104841+00:00"
     }
   },
   {
@@ -10779,7 +10779,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 59,
-      "fetched_at": "2026-11-15T15:40:23.028670+00:00"
+      "fetched_at": "2026-11-15T21:03:21.557291+00:00"
     }
   },
   {
@@ -10905,7 +10905,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 60,
-      "fetched_at": "2026-11-15T15:40:23.579682+00:00"
+      "fetched_at": "2026-11-15T21:03:22.006757+00:00"
     }
   },
   {
@@ -11071,7 +11071,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 61,
-      "fetched_at": "2026-11-15T15:40:24.119018+00:00"
+      "fetched_at": "2026-11-15T21:03:22.527674+00:00"
     }
   },
   {
@@ -11247,7 +11247,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 62,
-      "fetched_at": "2026-11-15T15:40:24.675450+00:00"
+      "fetched_at": "2026-11-15T21:03:23.011645+00:00"
     }
   },
   {
@@ -11413,7 +11413,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 63,
-      "fetched_at": "2026-11-15T15:40:25.193707+00:00"
+      "fetched_at": "2026-11-15T21:03:23.510032+00:00"
     }
   },
   {
@@ -11589,7 +11589,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 64,
-      "fetched_at": "2026-11-15T15:40:25.753857+00:00"
+      "fetched_at": "2026-11-15T21:03:24.013320+00:00"
     }
   },
   {
@@ -11772,7 +11772,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 65,
-      "fetched_at": "2026-11-15T15:40:26.411671+00:00"
+      "fetched_at": "2026-11-15T21:03:24.482006+00:00"
     }
   },
   {
@@ -11898,7 +11898,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 66,
-      "fetched_at": "2026-11-15T15:40:27.126816+00:00"
+      "fetched_at": "2026-11-15T21:03:24.929894+00:00"
     }
   },
   {
@@ -12064,7 +12064,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 67,
-      "fetched_at": "2026-11-15T15:40:27.687345+00:00"
+      "fetched_at": "2026-11-15T21:03:25.422647+00:00"
     }
   },
   {
@@ -12190,7 +12190,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 68,
-      "fetched_at": "2026-11-15T15:40:28.237882+00:00"
+      "fetched_at": "2026-11-15T21:03:25.912027+00:00"
     }
   },
   {
@@ -12386,7 +12386,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 69,
-      "fetched_at": "2026-11-15T15:40:28.783181+00:00"
+      "fetched_at": "2026-11-15T21:03:26.430141+00:00"
     }
   },
   {
@@ -12552,7 +12552,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 70,
-      "fetched_at": "2026-11-15T15:40:29.332396+00:00"
+      "fetched_at": "2026-11-15T21:03:26.935763+00:00"
     }
   },
   {
@@ -12698,7 +12698,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 71,
-      "fetched_at": "2026-11-15T15:40:29.903480+00:00"
+      "fetched_at": "2026-11-15T21:03:27.403645+00:00"
     }
   },
   {
@@ -12854,7 +12854,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 72,
-      "fetched_at": "2026-11-15T15:40:30.436390+00:00"
+      "fetched_at": "2026-11-15T21:03:28.043306+00:00"
     }
   },
   {
@@ -13007,7 +13007,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 73,
-      "fetched_at": "2026-11-15T15:40:30.966085+00:00"
+      "fetched_at": "2026-11-15T21:03:28.502305+00:00"
     }
   },
   {
@@ -13190,7 +13190,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 74,
-      "fetched_at": "2026-11-15T15:40:32.550708+00:00"
+      "fetched_at": "2026-11-15T21:03:28.979814+00:00"
     }
   },
   {
@@ -13416,7 +13416,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 75,
-      "fetched_at": "2026-11-15T15:40:33.082674+00:00"
+      "fetched_at": "2026-11-15T21:03:29.452947+00:00"
     }
   },
   {
@@ -13632,7 +13632,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 76,
-      "fetched_at": "2026-11-15T15:40:33.676603+00:00"
+      "fetched_at": "2026-11-15T21:03:29.921412+00:00"
     }
   },
   {
@@ -13909,7 +13909,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 77,
-      "fetched_at": "2026-11-15T15:40:34.262803+00:00"
+      "fetched_at": "2026-11-15T21:03:30.379569+00:00"
     }
   },
   {
@@ -14045,7 +14045,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 78,
-      "fetched_at": "2026-11-15T15:40:34.795767+00:00"
+      "fetched_at": "2026-11-15T21:03:30.849051+00:00"
     }
   },
   {
@@ -14361,7 +14361,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 79,
-      "fetched_at": "2026-11-15T15:40:35.329683+00:00"
+      "fetched_at": "2026-11-15T21:03:31.306205+00:00"
     }
   },
   {
@@ -14594,7 +14594,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 80,
-      "fetched_at": "2026-11-15T15:40:35.876506+00:00"
+      "fetched_at": "2026-11-15T21:03:31.807608+00:00"
     }
   },
   {
@@ -14770,7 +14770,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 81,
-      "fetched_at": "2026-11-15T15:40:36.450747+00:00"
+      "fetched_at": "2026-11-15T21:03:32.278125+00:00"
     }
   },
   {
@@ -14896,7 +14896,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 82,
-      "fetched_at": "2026-11-15T15:40:36.997851+00:00"
+      "fetched_at": "2026-11-15T21:03:32.743661+00:00"
     }
   },
   {
@@ -15132,7 +15132,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 83,
-      "fetched_at": "2026-11-15T15:40:37.575700+00:00"
+      "fetched_at": "2026-11-15T21:03:33.196738+00:00"
     }
   },
   {
@@ -15378,7 +15378,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 84,
-      "fetched_at": "2026-11-15T15:40:38.122415+00:00"
+      "fetched_at": "2026-11-15T21:03:33.718750+00:00"
     }
   },
   {
@@ -15504,7 +15504,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 85,
-      "fetched_at": "2026-11-15T15:40:38.661354+00:00"
+      "fetched_at": "2026-11-15T21:03:34.216527+00:00"
     }
   },
   {
@@ -15630,7 +15630,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 86,
-      "fetched_at": "2026-11-15T15:40:39.177905+00:00"
+      "fetched_at": "2026-11-15T21:03:34.726134+00:00"
     }
   },
   {
@@ -15756,7 +15756,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 87,
-      "fetched_at": "2026-11-15T15:40:39.709623+00:00"
+      "fetched_at": "2026-11-15T21:03:35.176477+00:00"
     }
   },
   {
@@ -16045,7 +16045,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 88,
-      "fetched_at": "2026-11-15T15:40:40.285931+00:00"
+      "fetched_at": "2026-11-15T21:03:35.652497+00:00"
     }
   },
   {
@@ -16354,7 +16354,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 89,
-      "fetched_at": "2026-11-15T15:40:40.859666+00:00"
+      "fetched_at": "2026-11-15T21:03:36.130643+00:00"
     }
   },
   {
@@ -16523,7 +16523,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 90,
-      "fetched_at": "2026-11-15T15:40:41.389339+00:00"
+      "fetched_at": "2026-11-15T21:03:36.673800+00:00"
     }
   },
   {
@@ -16762,7 +16762,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 91,
-      "fetched_at": "2026-11-15T15:40:41.959528+00:00"
+      "fetched_at": "2026-11-15T21:03:37.123340+00:00"
     }
   },
   {
@@ -17071,7 +17071,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 92,
-      "fetched_at": "2026-11-15T15:40:42.478313+00:00"
+      "fetched_at": "2026-11-15T21:03:37.620240+00:00"
     }
   },
   {
@@ -17410,7 +17410,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 93,
-      "fetched_at": "2026-11-15T15:40:43.047788+00:00"
+      "fetched_at": "2026-11-15T21:03:38.196541+00:00"
     }
   },
   {
@@ -17613,7 +17613,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 94,
-      "fetched_at": "2026-11-15T15:40:43.581387+00:00"
+      "fetched_at": "2026-11-15T21:03:38.653128+00:00"
     }
   },
   {
@@ -17832,7 +17832,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 95,
-      "fetched_at": "2026-11-15T15:40:44.259461+00:00"
+      "fetched_at": "2026-11-15T21:03:39.112492+00:00"
     }
   },
   {
@@ -17998,7 +17998,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 96,
-      "fetched_at": "2026-11-15T15:40:44.795193+00:00"
+      "fetched_at": "2026-11-15T21:03:39.614386+00:00"
     }
   },
   {
@@ -18271,7 +18271,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 97,
-      "fetched_at": "2026-11-15T15:40:45.360700+00:00"
+      "fetched_at": "2026-11-15T21:03:40.077009+00:00"
     }
   },
   {
@@ -18404,7 +18404,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 98,
-      "fetched_at": "2026-11-15T15:40:45.903219+00:00"
+      "fetched_at": "2026-11-15T21:03:40.527511+00:00"
     }
   },
   {
@@ -18530,7 +18530,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 99,
-      "fetched_at": "2026-11-15T15:40:46.444798+00:00"
+      "fetched_at": "2026-11-15T21:03:41.013771+00:00"
     }
   },
   {
@@ -18724,7 +18724,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 100,
-      "fetched_at": "2026-11-15T15:40:47.042003+00:00"
+      "fetched_at": "2026-11-15T21:03:41.482218+00:00"
     }
   },
   {
@@ -18997,7 +18997,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 101,
-      "fetched_at": "2026-11-15T15:40:47.588800+00:00"
+      "fetched_at": "2026-11-15T21:03:41.953329+00:00"
     }
   },
   {
@@ -19190,7 +19190,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 102,
-      "fetched_at": "2026-11-15T15:40:48.210974+00:00"
+      "fetched_at": "2026-11-15T21:03:42.444180+00:00"
     }
   },
   {
@@ -19397,7 +19397,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 103,
-      "fetched_at": "2026-11-15T15:40:48.749201+00:00"
+      "fetched_at": "2026-11-15T21:03:42.936038+00:00"
     }
   },
   {
@@ -19590,7 +19590,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 104,
-      "fetched_at": "2026-11-15T15:40:49.304880+00:00"
+      "fetched_at": "2026-11-15T21:03:43.442864+00:00"
     }
   },
   {
@@ -19823,7 +19823,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 105,
-      "fetched_at": "2026-11-15T15:40:49.833523+00:00"
+      "fetched_at": "2026-11-15T21:03:43.905946+00:00"
     }
   },
   {
@@ -20066,7 +20066,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 106,
-      "fetched_at": "2026-11-15T15:40:50.369888+00:00"
+      "fetched_at": "2026-11-15T21:03:44.362525+00:00"
     }
   },
   {
@@ -20439,7 +20439,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 107,
-      "fetched_at": "2026-11-15T15:40:50.925056+00:00"
+      "fetched_at": "2026-11-15T21:03:44.824877+00:00"
     }
   },
   {
@@ -20672,7 +20672,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 108,
-      "fetched_at": "2026-11-15T15:40:51.560483+00:00"
+      "fetched_at": "2026-11-15T21:03:45.276977+00:00"
     }
   },
   {
@@ -20965,7 +20965,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 109,
-      "fetched_at": "2026-11-15T15:40:52.140772+00:00"
+      "fetched_at": "2026-11-15T21:03:45.773980+00:00"
     }
   },
   {
@@ -21091,7 +21091,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 110,
-      "fetched_at": "2026-11-15T15:40:52.700248+00:00"
+      "fetched_at": "2026-11-15T21:03:46.229824+00:00"
     }
   },
   {
@@ -21307,7 +21307,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 111,
-      "fetched_at": "2026-11-15T15:40:53.246348+00:00"
+      "fetched_at": "2026-11-15T21:03:46.722880+00:00"
     }
   },
   {
@@ -21510,7 +21510,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 112,
-      "fetched_at": "2026-11-15T15:40:53.873408+00:00"
+      "fetched_at": "2026-11-15T21:03:47.184361+00:00"
     }
   },
   {
@@ -21836,7 +21836,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 113,
-      "fetched_at": "2026-11-15T15:40:54.424221+00:00"
+      "fetched_at": "2026-11-15T21:03:47.680969+00:00"
     }
   },
   {
@@ -22109,7 +22109,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 114,
-      "fetched_at": "2026-11-15T15:40:54.995448+00:00"
+      "fetched_at": "2026-11-15T21:03:48.192392+00:00"
     }
   },
   {
@@ -22268,7 +22268,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 115,
-      "fetched_at": "2026-11-15T15:40:55.524588+00:00"
+      "fetched_at": "2026-11-15T21:03:48.706326+00:00"
     }
   },
   {
@@ -22941,7 +22941,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 116,
-      "fetched_at": "2026-11-15T15:40:56.081514+00:00"
+      "fetched_at": "2026-11-15T21:03:49.255138+00:00"
     }
   },
   {
@@ -23200,7 +23200,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 117,
-      "fetched_at": "2026-11-15T15:40:56.618983+00:00"
+      "fetched_at": "2026-11-15T21:03:49.775516+00:00"
     }
   },
   {
@@ -23328,7 +23328,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 118,
-      "fetched_at": "2026-11-15T15:40:57.158709+00:00"
+      "fetched_at": "2026-11-15T21:03:50.301785+00:00"
     }
   },
   {
@@ -23637,7 +23637,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 119,
-      "fetched_at": "2026-11-15T15:40:57.699006+00:00"
+      "fetched_at": "2026-11-15T21:03:50.847197+00:00"
     }
   },
   {
@@ -23810,7 +23810,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 120,
-      "fetched_at": "2026-11-15T15:40:58.329555+00:00"
+      "fetched_at": "2026-11-15T21:03:51.306560+00:00"
     }
   },
   {
@@ -24119,7 +24119,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 121,
-      "fetched_at": "2026-11-15T15:40:58.876369+00:00"
+      "fetched_at": "2026-11-15T21:03:51.806437+00:00"
     }
   },
   {
@@ -24278,7 +24278,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 122,
-      "fetched_at": "2026-11-15T15:40:59.478464+00:00"
+      "fetched_at": "2026-11-15T21:03:52.396452+00:00"
     }
   },
   {
@@ -24411,7 +24411,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 123,
-      "fetched_at": "2026-11-15T15:41:00.008942+00:00"
+      "fetched_at": "2026-11-15T21:03:52.881985+00:00"
     }
   },
   {
@@ -24544,7 +24544,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 124,
-      "fetched_at": "2026-11-15T15:41:00.588399+00:00"
+      "fetched_at": "2026-11-15T21:03:53.422745+00:00"
     }
   },
   {
@@ -25107,7 +25107,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 125,
-      "fetched_at": "2026-11-15T15:41:01.136003+00:00"
+      "fetched_at": "2026-11-15T21:03:53.948958+00:00"
     }
   },
   {
@@ -25390,7 +25390,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 126,
-      "fetched_at": "2026-11-15T15:41:01.701399+00:00"
+      "fetched_at": "2026-11-15T21:03:54.468911+00:00"
     }
   },
   {
@@ -25643,7 +25643,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 127,
-      "fetched_at": "2026-11-15T15:41:02.371040+00:00"
+      "fetched_at": "2026-11-15T21:03:54.963350+00:00"
     }
   },
   {
@@ -26092,7 +26092,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 128,
-      "fetched_at": "2026-11-15T15:41:03.112749+00:00"
+      "fetched_at": "2026-11-15T21:03:55.504671+00:00"
     }
   },
   {
@@ -26255,7 +26255,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 129,
-      "fetched_at": "2026-11-15T15:41:03.645877+00:00"
+      "fetched_at": "2026-11-15T21:03:55.993395+00:00"
     }
   },
   {
@@ -26496,7 +26496,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 130,
-      "fetched_at": "2026-11-15T15:41:04.185378+00:00"
+      "fetched_at": "2026-11-15T21:03:56.462140+00:00"
     }
   },
   {
@@ -26629,7 +26629,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 131,
-      "fetched_at": "2026-11-15T15:41:04.723982+00:00"
+      "fetched_at": "2026-11-15T21:03:56.916883+00:00"
     }
   },
   {
@@ -26822,7 +26822,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 132,
-      "fetched_at": "2026-11-15T15:41:05.278785+00:00"
+      "fetched_at": "2026-11-15T21:03:57.372711+00:00"
     }
   },
   {
@@ -27191,7 +27191,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 133,
-      "fetched_at": "2026-11-15T15:41:05.864168+00:00"
+      "fetched_at": "2026-11-15T21:03:57.872932+00:00"
     }
   },
   {
@@ -27564,7 +27564,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 134,
-      "fetched_at": "2026-11-15T15:41:06.395497+00:00"
+      "fetched_at": "2026-11-15T21:03:58.365197+00:00"
     }
   },
   {
@@ -27697,7 +27697,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 135,
-      "fetched_at": "2026-11-15T15:41:06.924405+00:00"
+      "fetched_at": "2026-11-15T21:03:58.865678+00:00"
     }
   },
   {
@@ -28000,7 +28000,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 136,
-      "fetched_at": "2026-11-15T15:41:07.458435+00:00"
+      "fetched_at": "2026-11-15T21:03:59.377873+00:00"
     }
   },
   {
@@ -28183,7 +28183,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 137,
-      "fetched_at": "2026-11-15T15:41:08.007542+00:00"
+      "fetched_at": "2026-11-15T21:03:59.876216+00:00"
     }
   },
   {
@@ -28366,7 +28366,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 138,
-      "fetched_at": "2026-11-15T15:41:08.565676+00:00"
+      "fetched_at": "2026-11-15T21:04:00.429458+00:00"
     }
   },
   {
@@ -28519,7 +28519,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 139,
-      "fetched_at": "2026-11-15T15:41:09.126401+00:00"
+      "fetched_at": "2026-11-15T21:04:00.918391+00:00"
     }
   },
   {
@@ -28952,7 +28952,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 140,
-      "fetched_at": "2026-11-15T15:41:09.734031+00:00"
+      "fetched_at": "2026-11-15T21:04:01.441409+00:00"
     }
   },
   {
@@ -29165,7 +29165,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 141,
-      "fetched_at": "2026-11-15T15:41:10.275443+00:00"
+      "fetched_at": "2026-11-15T21:04:01.958565+00:00"
     }
   },
   {
@@ -29398,7 +29398,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 142,
-      "fetched_at": "2026-11-15T15:41:10.803351+00:00"
+      "fetched_at": "2026-11-15T21:04:02.424051+00:00"
     }
   },
   {
@@ -29631,7 +29631,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 143,
-      "fetched_at": "2026-11-15T15:41:11.332402+00:00"
+      "fetched_at": "2026-11-15T21:04:03.024643+00:00"
     }
   },
   {
@@ -29874,7 +29874,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 144,
-      "fetched_at": "2026-11-15T15:41:11.882571+00:00"
+      "fetched_at": "2026-11-15T21:04:03.640607+00:00"
     }
   },
   {
@@ -30127,7 +30127,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 145,
-      "fetched_at": "2026-11-15T15:41:12.433607+00:00"
+      "fetched_at": "2026-11-15T21:04:04.157307+00:00"
     }
   },
   {
@@ -30390,7 +30390,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 146,
-      "fetched_at": "2026-11-15T15:41:12.978510+00:00"
+      "fetched_at": "2026-11-15T21:04:04.747131+00:00"
     }
   },
   {
@@ -30823,7 +30823,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 147,
-      "fetched_at": "2026-11-15T15:41:13.582169+00:00"
+      "fetched_at": "2026-11-15T21:04:05.358389+00:00"
     }
   },
   {
@@ -31222,7 +31222,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 148,
-      "fetched_at": "2026-11-15T15:41:14.130409+00:00"
+      "fetched_at": "2026-11-15T21:04:05.825309+00:00"
     }
   },
   {
@@ -31465,7 +31465,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 149,
-      "fetched_at": "2026-11-15T15:41:14.732601+00:00"
+      "fetched_at": "2026-11-15T21:04:06.352010+00:00"
     }
   },
   {
@@ -32044,7 +32044,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 150,
-      "fetched_at": "2026-11-15T15:41:15.344017+00:00"
+      "fetched_at": "2026-11-15T21:04:06.916128+00:00"
     }
   },
   {
@@ -32393,7 +32393,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 151,
-      "fetched_at": "2026-11-15T15:41:15.887539+00:00"
+      "fetched_at": "2026-11-15T21:04:07.388452+00:00"
     }
   },
   {
@@ -32836,7 +32836,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 152,
-      "fetched_at": "2026-11-15T15:41:16.761756+00:00"
+      "fetched_at": "2026-11-15T21:04:07.856175+00:00"
     }
   },
   {
@@ -33082,7 +33082,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 153,
-      "fetched_at": "2026-11-15T15:41:17.300209+00:00"
+      "fetched_at": "2026-11-15T21:04:08.523123+00:00"
     }
   },
   {
@@ -33435,7 +33435,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 154,
-      "fetched_at": "2026-11-15T15:41:17.829361+00:00"
+      "fetched_at": "2026-11-15T21:04:09.139062+00:00"
     }
   },
   {
@@ -33768,7 +33768,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 155,
-      "fetched_at": "2026-11-15T15:41:18.419959+00:00"
+      "fetched_at": "2026-11-15T21:04:09.740625+00:00"
     }
   },
   {
@@ -34111,7 +34111,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 156,
-      "fetched_at": "2026-11-15T15:41:18.945339+00:00"
+      "fetched_at": "2026-11-15T21:04:10.203688+00:00"
     }
   },
   {
@@ -34244,7 +34244,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 157,
-      "fetched_at": "2026-11-15T15:41:19.467360+00:00"
+      "fetched_at": "2026-11-15T21:04:10.708200+00:00"
     }
   },
   {
@@ -34370,7 +34370,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 158,
-      "fetched_at": "2026-11-15T15:41:20.021573+00:00"
+      "fetched_at": "2026-11-15T21:04:11.177961+00:00"
     }
   },
   {
@@ -34503,7 +34503,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 159,
-      "fetched_at": "2026-11-15T15:41:20.584332+00:00"
+      "fetched_at": "2026-11-15T21:04:11.669034+00:00"
     }
   },
   {
@@ -34689,7 +34689,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 160,
-      "fetched_at": "2026-11-15T15:41:21.131251+00:00"
+      "fetched_at": "2026-11-15T21:04:12.163334+00:00"
     }
   },
   {
@@ -34905,7 +34905,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 161,
-      "fetched_at": "2026-11-15T15:41:21.658622+00:00"
+      "fetched_at": "2026-11-15T21:04:12.760491+00:00"
     }
   },
   {
@@ -35241,7 +35241,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 162,
-      "fetched_at": "2026-11-15T15:41:22.191912+00:00"
+      "fetched_at": "2026-11-15T21:04:13.367297+00:00"
     }
   },
   {
@@ -35374,12 +35374,12 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 163,
-      "fetched_at": "2026-11-15T15:41:22.834491+00:00"
+      "fetched_at": "2026-11-15T21:04:13.906316+00:00"
     }
   },
   {
     "id": 20264582,
-    "updated": "2026-11-12T11:23:16Z",
+    "updated": "2026-11-15T17:25:57Z",
     "additionalIndexing": "2841;28;2836",
     "affairType": {
       "abbreviation": "Mo.",
@@ -35613,7 +35613,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 164,
-      "fetched_at": "2026-11-15T15:41:23.388550+00:00"
+      "fetched_at": "2026-11-15T21:04:14.401132+00:00"
     }
   },
   {
@@ -35746,7 +35746,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 165,
-      "fetched_at": "2026-11-15T15:41:23.940667+00:00"
+      "fetched_at": "2026-11-15T21:04:14.873946+00:00"
     }
   },
   {
@@ -36009,7 +36009,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 166,
-      "fetched_at": "2026-11-15T15:41:24.470333+00:00"
+      "fetched_at": "2026-11-15T21:04:15.432381+00:00"
     }
   },
   {
@@ -36182,7 +36182,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 167,
-      "fetched_at": "2026-11-15T15:41:25.049056+00:00"
+      "fetched_at": "2026-11-15T21:04:15.947324+00:00"
     }
   },
   {
@@ -36335,7 +36335,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 168,
-      "fetched_at": "2026-11-15T15:41:25.579742+00:00"
+      "fetched_at": "2026-11-15T21:04:16.412270+00:00"
     }
   },
   {
@@ -36631,7 +36631,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 169,
-      "fetched_at": "2026-11-15T15:41:26.205638+00:00"
+      "fetched_at": "2026-11-15T21:04:16.924134+00:00"
     }
   },
   {
@@ -36767,7 +36767,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 170,
-      "fetched_at": "2026-11-15T15:41:26.721981+00:00"
+      "fetched_at": "2026-11-15T21:04:17.435021+00:00"
     }
   },
   {
@@ -36983,7 +36983,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 171,
-      "fetched_at": "2026-11-15T15:41:27.246965+00:00"
+      "fetched_at": "2026-11-15T21:04:17.904129+00:00"
     }
   },
   {
@@ -37156,7 +37156,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 172,
-      "fetched_at": "2026-11-15T15:41:27.800236+00:00"
+      "fetched_at": "2026-11-15T21:04:18.359158+00:00"
     }
   },
   {
@@ -37389,7 +37389,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 173,
-      "fetched_at": "2026-11-15T15:41:28.349624+00:00"
+      "fetched_at": "2026-11-15T21:04:18.818046+00:00"
     }
   },
   {
@@ -37522,7 +37522,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 174,
-      "fetched_at": "2026-11-15T15:41:28.987465+00:00"
+      "fetched_at": "2026-11-15T21:04:19.277906+00:00"
     }
   },
   {
@@ -37855,7 +37855,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 175,
-      "fetched_at": "2026-11-15T15:41:29.583547+00:00"
+      "fetched_at": "2026-11-15T21:04:19.749070+00:00"
     }
   },
   {
@@ -38218,7 +38218,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 176,
-      "fetched_at": "2026-11-15T15:41:30.105239+00:00"
+      "fetched_at": "2026-11-15T21:04:20.329467+00:00"
     }
   },
   {
@@ -38454,7 +38454,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 177,
-      "fetched_at": "2026-11-15T15:41:30.624387+00:00"
+      "fetched_at": "2026-11-15T21:04:20.793078+00:00"
     }
   },
   {
@@ -39003,7 +39003,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 178,
-      "fetched_at": "2026-11-15T15:41:31.199107+00:00"
+      "fetched_at": "2026-11-15T21:04:21.464597+00:00"
     }
   },
   {
@@ -39386,7 +39386,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 179,
-      "fetched_at": "2026-11-15T15:41:31.754998+00:00"
+      "fetched_at": "2026-11-15T21:04:21.990518+00:00"
     }
   },
   {
@@ -39526,7 +39526,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 180,
-      "fetched_at": "2026-11-15T15:41:32.309096+00:00"
+      "fetched_at": "2026-11-15T21:04:22.454139+00:00"
     }
   },
   {
@@ -39835,7 +39835,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 181,
-      "fetched_at": "2026-11-15T15:41:32.905472+00:00"
+      "fetched_at": "2026-11-15T21:04:22.913484+00:00"
     }
   },
   {
@@ -40138,7 +40138,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 182,
-      "fetched_at": "2026-11-15T15:41:33.467484+00:00"
+      "fetched_at": "2026-11-15T21:04:23.408609+00:00"
     }
   },
   {
@@ -40351,7 +40351,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 183,
-      "fetched_at": "2026-11-15T15:41:33.996326+00:00"
+      "fetched_at": "2026-11-15T21:04:23.887339+00:00"
     }
   },
   {
@@ -40544,7 +40544,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 184,
-      "fetched_at": "2026-11-15T15:41:34.581708+00:00"
+      "fetched_at": "2026-11-15T21:04:24.364259+00:00"
     }
   },
   {
@@ -40670,7 +40670,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 185,
-      "fetched_at": "2026-11-15T15:41:35.103563+00:00"
+      "fetched_at": "2026-11-15T21:04:24.853049+00:00"
     }
   },
   {
@@ -40803,7 +40803,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 186,
-      "fetched_at": "2026-11-15T15:41:35.615347+00:00"
+      "fetched_at": "2026-11-15T21:04:25.315750+00:00"
     }
   },
   {
@@ -40966,7 +40966,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 187,
-      "fetched_at": "2026-11-15T15:41:36.199587+00:00"
+      "fetched_at": "2026-11-15T21:04:25.768951+00:00"
     }
   },
   {
@@ -41239,7 +41239,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 188,
-      "fetched_at": "2026-11-15T15:41:36.745750+00:00"
+      "fetched_at": "2026-11-15T21:04:26.231446+00:00"
     }
   },
   {
@@ -41365,7 +41365,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 189,
-      "fetched_at": "2026-11-15T15:41:37.279994+00:00"
+      "fetched_at": "2026-11-15T21:04:26.762879+00:00"
     }
   },
   {
@@ -41638,7 +41638,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 190,
-      "fetched_at": "2026-11-15T15:41:37.806123+00:00"
+      "fetched_at": "2026-11-15T21:04:27.283311+00:00"
     }
   },
   {
@@ -42071,7 +42071,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 191,
-      "fetched_at": "2026-11-15T15:41:38.339509+00:00"
+      "fetched_at": "2026-11-15T21:04:27.809525+00:00"
     }
   },
   {
@@ -42237,7 +42237,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 192,
-      "fetched_at": "2026-11-15T15:41:38.867114+00:00"
+      "fetched_at": "2026-11-15T21:04:28.373657+00:00"
     }
   },
   {
@@ -42370,7 +42370,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 193,
-      "fetched_at": "2026-11-15T15:41:39.419533+00:00"
+      "fetched_at": "2026-11-15T21:04:28.826897+00:00"
     }
   },
   {
@@ -42503,7 +42503,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 194,
-      "fetched_at": "2026-11-15T15:41:39.969052+00:00"
+      "fetched_at": "2026-11-15T21:04:29.310473+00:00"
     }
   },
   {
@@ -42636,7 +42636,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 195,
-      "fetched_at": "2026-11-15T15:41:40.501143+00:00"
+      "fetched_at": "2026-11-15T21:04:29.785714+00:00"
     }
   },
   {
@@ -42783,7 +42783,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 196,
-      "fetched_at": "2026-11-15T15:41:41.076041+00:00"
+      "fetched_at": "2026-11-15T21:04:30.251820+00:00"
     }
   },
   {
@@ -43226,7 +43226,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 197,
-      "fetched_at": "2026-11-15T15:41:41.686340+00:00"
+      "fetched_at": "2026-11-15T21:04:30.766771+00:00"
     }
   },
   {
@@ -43377,7 +43377,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 198,
-      "fetched_at": "2026-11-15T15:41:42.424253+00:00"
+      "fetched_at": "2026-11-15T21:04:31.225125+00:00"
     }
   },
   {
@@ -43503,7 +43503,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 199,
-      "fetched_at": "2026-11-15T15:41:42.937703+00:00"
+      "fetched_at": "2026-11-15T21:04:31.725170+00:00"
     }
   },
   {
@@ -43696,7 +43696,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 200,
-      "fetched_at": "2026-11-15T15:41:43.491996+00:00"
+      "fetched_at": "2026-11-15T21:04:32.237290+00:00"
     }
   },
   {
@@ -43899,7 +43899,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 201,
-      "fetched_at": "2026-11-15T15:41:44.018413+00:00"
+      "fetched_at": "2026-11-15T21:04:32.823362+00:00"
     }
   },
   {
@@ -44182,7 +44182,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 202,
-      "fetched_at": "2026-11-15T15:41:44.554515+00:00"
+      "fetched_at": "2026-11-15T21:04:33.300767+00:00"
     }
   },
   {
@@ -44308,7 +44308,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 203,
-      "fetched_at": "2026-11-15T15:41:45.075899+00:00"
+      "fetched_at": "2026-11-15T21:04:33.755063+00:00"
     }
   },
   {
@@ -44461,7 +44461,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 204,
-      "fetched_at": "2026-11-15T15:41:45.776080+00:00"
+      "fetched_at": "2026-11-15T21:04:34.211149+00:00"
     }
   },
   {
@@ -44694,7 +44694,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 205,
-      "fetched_at": "2026-11-15T15:41:46.385049+00:00"
+      "fetched_at": "2026-11-15T21:04:34.759831+00:00"
     }
   },
   {
@@ -44917,7 +44917,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 206,
-      "fetched_at": "2026-11-15T15:41:46.946154+00:00"
+      "fetched_at": "2026-11-15T21:04:35.222337+00:00"
     }
   },
   {
@@ -45043,7 +45043,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 207,
-      "fetched_at": "2026-11-15T15:41:47.459922+00:00"
+      "fetched_at": "2026-11-15T21:04:35.722987+00:00"
     }
   },
   {
@@ -45236,7 +45236,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 208,
-      "fetched_at": "2026-11-15T15:41:47.981560+00:00"
+      "fetched_at": "2026-11-15T21:04:36.218855+00:00"
     }
   },
   {
@@ -45362,7 +45362,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 209,
-      "fetched_at": "2026-11-15T15:41:48.505198+00:00"
+      "fetched_at": "2026-11-15T21:04:36.673434+00:00"
     }
   },
   {
@@ -45556,7 +45556,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 210,
-      "fetched_at": "2026-11-15T15:41:49.064881+00:00"
+      "fetched_at": "2026-11-15T21:04:37.138634+00:00"
     }
   },
   {
@@ -45682,7 +45682,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 211,
-      "fetched_at": "2026-11-15T15:41:49.640414+00:00"
+      "fetched_at": "2026-11-15T21:04:37.620177+00:00"
     }
   },
   {
@@ -45835,7 +45835,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 212,
-      "fetched_at": "2026-11-15T15:41:50.215477+00:00"
+      "fetched_at": "2026-11-15T21:04:38.105408+00:00"
     }
   },
   {
@@ -45998,7 +45998,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 213,
-      "fetched_at": "2026-11-15T15:41:50.775958+00:00"
+      "fetched_at": "2026-11-15T21:04:38.572727+00:00"
     }
   },
   {
@@ -46171,7 +46171,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 214,
-      "fetched_at": "2026-11-15T15:41:51.338523+00:00"
+      "fetched_at": "2026-11-15T21:04:39.050951+00:00"
     }
   },
   {
@@ -46500,7 +46500,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 215,
-      "fetched_at": "2026-11-15T15:41:51.871881+00:00"
+      "fetched_at": "2026-11-15T21:04:39.512836+00:00"
     }
   },
   {
@@ -46626,7 +46626,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 216,
-      "fetched_at": "2026-11-15T15:41:52.477146+00:00"
+      "fetched_at": "2026-11-15T21:04:39.967924+00:00"
     }
   },
   {
@@ -46752,7 +46752,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 217,
-      "fetched_at": "2026-11-15T15:41:53.046303+00:00"
+      "fetched_at": "2026-11-15T21:04:40.429010+00:00"
     }
   },
   {
@@ -46898,7 +46898,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 218,
-      "fetched_at": "2026-11-15T15:41:53.573164+00:00"
+      "fetched_at": "2026-11-15T21:04:40.886210+00:00"
     }
   },
   {
@@ -47044,7 +47044,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 219,
-      "fetched_at": "2026-11-15T15:41:54.100193+00:00"
+      "fetched_at": "2026-11-15T21:04:41.347468+00:00"
     }
   },
   {
@@ -47281,7 +47281,7 @@
       "type_id": "4",
       "type_name": "Parlamentarische Initiative",
       "curia_rank": 220,
-      "fetched_at": "2026-11-15T15:41:54.676240+00:00"
+      "fetched_at": "2026-11-15T21:04:41.852805+00:00"
     }
   },
   {
@@ -47538,7 +47538,7 @@
       "type_id": "4",
       "type_name": "Parlamentarische Initiative",
       "curia_rank": 221,
-      "fetched_at": "2026-11-15T15:41:55.234723+00:00"
+      "fetched_at": "2026-11-15T21:04:42.362082+00:00"
     }
   },
   {
@@ -47715,7 +47715,7 @@
       "type_id": "4",
       "type_name": "Parlamentarische Initiative",
       "curia_rank": 222,
-      "fetched_at": "2026-11-15T15:41:55.802209+00:00"
+      "fetched_at": "2026-11-15T21:04:42.910199+00:00"
     }
   },
   {
@@ -47962,7 +47962,7 @@
       "type_id": "4",
       "type_name": "Parlamentarische Initiative",
       "curia_rank": 223,
-      "fetched_at": "2026-11-15T15:41:56.348170+00:00"
+      "fetched_at": "2026-11-15T21:04:43.379516+00:00"
     }
   },
   {
@@ -48599,7 +48599,7 @@
       "type_id": "4",
       "type_name": "Parlamentarische Initiative",
       "curia_rank": 224,
-      "fetched_at": "2026-11-15T15:41:56.944381+00:00"
+      "fetched_at": "2026-11-15T21:04:43.859973+00:00"
     }
   },
   {
@@ -48776,7 +48776,7 @@
       "type_id": "4",
       "type_name": "Parlamentarische Initiative",
       "curia_rank": 225,
-      "fetched_at": "2026-11-15T15:41:57.726672+00:00"
+      "fetched_at": "2026-11-15T21:04:44.331480+00:00"
     }
   },
   {
@@ -48983,7 +48983,7 @@
       "type_id": "4",
       "type_name": "Parlamentarische Initiative",
       "curia_rank": 226,
-      "fetched_at": "2026-11-15T15:41:58.256893+00:00"
+      "fetched_at": "2026-11-15T21:04:44.793430+00:00"
     }
   },
   {
@@ -49198,7 +49198,7 @@
       "type_id": "1",
       "type_name": "Gesch\\u00e4ft des Bundesrates",
       "curia_rank": 227,
-      "fetched_at": "2026-11-15T15:41:58.895396+00:00"
+      "fetched_at": "2026-11-15T21:04:45.278079+00:00"
     }
   },
   {
@@ -49501,7 +49501,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 228,
-      "fetched_at": "2026-11-15T15:41:59.976045+00:00"
+      "fetched_at": "2026-11-15T21:04:45.751809+00:00"
     }
   },
   {
@@ -49634,7 +49634,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 229,
-      "fetched_at": "2026-11-15T15:42:00.526166+00:00"
+      "fetched_at": "2026-11-15T21:04:46.216936+00:00"
     }
   },
   {
@@ -49837,7 +49837,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 230,
-      "fetched_at": "2026-11-15T15:42:01.053695+00:00"
+      "fetched_at": "2026-11-15T21:04:46.677212+00:00"
     }
   },
   {
@@ -50023,7 +50023,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 231,
-      "fetched_at": "2026-11-15T15:42:01.576337+00:00"
+      "fetched_at": "2026-11-15T21:04:47.145379+00:00"
     }
   },
   {
@@ -50276,7 +50276,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 232,
-      "fetched_at": "2026-11-15T15:42:03.073503+00:00"
+      "fetched_at": "2026-11-15T21:04:47.605469+00:00"
     }
   },
   {
@@ -50409,7 +50409,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 233,
-      "fetched_at": "2026-11-15T15:42:03.586677+00:00"
+      "fetched_at": "2026-11-15T21:04:48.066043+00:00"
     }
   },
   {
@@ -50632,7 +50632,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 234,
-      "fetched_at": "2026-11-15T15:42:04.128008+00:00"
+      "fetched_at": "2026-11-15T21:04:48.545026+00:00"
     }
   },
   {
@@ -50785,7 +50785,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 235,
-      "fetched_at": "2026-11-15T15:42:06.003943+00:00"
+      "fetched_at": "2026-11-15T21:04:49.277975+00:00"
     }
   },
   {
@@ -50918,7 +50918,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 236,
-      "fetched_at": "2026-11-15T15:42:06.541298+00:00"
+      "fetched_at": "2026-11-15T21:04:49.784017+00:00"
     }
   },
   {
@@ -51151,7 +51151,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 237,
-      "fetched_at": "2026-11-15T15:42:07.138884+00:00"
+      "fetched_at": "2026-11-15T21:04:50.388124+00:00"
     }
   },
   {
@@ -51284,7 +51284,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 238,
-      "fetched_at": "2026-11-15T15:42:07.690315+00:00"
+      "fetched_at": "2026-11-15T21:04:50.871040+00:00"
     }
   },
   {
@@ -51450,7 +51450,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 239,
-      "fetched_at": "2026-11-15T15:42:08.271922+00:00"
+      "fetched_at": "2026-11-15T21:04:51.493736+00:00"
     }
   },
   {
@@ -51616,7 +51616,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 240,
-      "fetched_at": "2026-11-15T15:42:09.488956+00:00"
+      "fetched_at": "2026-11-15T21:04:52.004793+00:00"
     }
   },
   {
@@ -51909,7 +51909,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 241,
-      "fetched_at": "2026-11-15T15:42:10.107211+00:00"
+      "fetched_at": "2026-11-15T21:04:52.623337+00:00"
     }
   },
   {
@@ -52045,7 +52045,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 242,
-      "fetched_at": "2026-11-15T15:42:10.626510+00:00"
+      "fetched_at": "2026-11-15T21:04:53.307373+00:00"
     }
   },
   {
@@ -52221,7 +52221,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 243,
-      "fetched_at": "2026-11-15T15:42:11.170844+00:00"
+      "fetched_at": "2026-11-15T21:04:53.865471+00:00"
     }
   },
   {
@@ -52382,7 +52382,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 244,
-      "fetched_at": "2026-11-15T15:42:11.698818+00:00"
+      "fetched_at": "2026-11-15T21:04:54.344187+00:00"
     }
   },
   {
@@ -52511,7 +52511,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 245,
-      "fetched_at": "2026-11-15T15:42:12.254811+00:00"
+      "fetched_at": "2026-11-15T21:04:54.952964+00:00"
     }
   },
   {
@@ -52844,7 +52844,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 246,
-      "fetched_at": "2026-11-15T15:42:12.813046+00:00"
+      "fetched_at": "2026-11-15T21:04:55.417005+00:00"
     }
   },
   {
@@ -53020,7 +53020,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 247,
-      "fetched_at": "2026-11-15T15:42:14.502791+00:00"
+      "fetched_at": "2026-11-15T21:04:55.897418+00:00"
     }
   },
   {
@@ -53149,7 +53149,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 248,
-      "fetched_at": "2026-11-15T15:42:17.342402+00:00"
+      "fetched_at": "2026-11-15T21:04:56.373671+00:00"
     }
   },
   {
@@ -53710,7 +53710,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 249,
-      "fetched_at": "2026-11-15T15:42:19.069112+00:00"
+      "fetched_at": "2026-11-15T21:04:56.854815+00:00"
     }
   },
   {
@@ -53836,7 +53836,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 250,
-      "fetched_at": "2026-11-15T15:42:19.607416+00:00"
+      "fetched_at": "2026-11-15T21:04:57.362083+00:00"
     }
   },
   {
@@ -54319,7 +54319,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 251,
-      "fetched_at": "2026-11-15T15:42:20.171840+00:00"
+      "fetched_at": "2026-11-15T21:04:57.843694+00:00"
     }
   },
   {
@@ -54452,7 +54452,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 252,
-      "fetched_at": "2026-11-15T15:42:21.004491+00:00"
+      "fetched_at": "2026-11-15T21:04:58.323333+00:00"
     }
   },
   {
@@ -54748,7 +54748,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 253,
-      "fetched_at": "2026-11-15T15:42:21.609631+00:00"
+      "fetched_at": "2026-11-15T21:04:58.844759+00:00"
     }
   },
   {
@@ -55149,7 +55149,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 254,
-      "fetched_at": "2026-11-15T15:42:22.157864+00:00"
+      "fetched_at": "2026-11-15T21:04:59.392820+00:00"
     }
   },
   {
@@ -55573,7 +55573,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 255,
-      "fetched_at": "2026-11-15T15:42:22.775624+00:00"
+      "fetched_at": "2026-11-15T21:05:00.053719+00:00"
     }
   },
   {
@@ -55706,7 +55706,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 256,
-      "fetched_at": "2026-11-15T15:42:23.289113+00:00"
+      "fetched_at": "2026-11-15T21:05:00.514150+00:00"
     }
   },
   {
@@ -55832,7 +55832,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 257,
-      "fetched_at": "2026-11-15T15:42:23.847776+00:00"
+      "fetched_at": "2026-11-15T21:05:00.979290+00:00"
     }
   },
   {
@@ -55979,7 +55979,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 258,
-      "fetched_at": "2026-11-15T15:42:24.382031+00:00"
+      "fetched_at": "2026-11-15T21:05:01.468731+00:00"
     }
   },
   {
@@ -56232,7 +56232,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 259,
-      "fetched_at": "2026-11-15T15:42:25.067466+00:00"
+      "fetched_at": "2026-11-15T21:05:01.983473+00:00"
     }
   },
   {
@@ -56488,7 +56488,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 260,
-      "fetched_at": "2026-11-15T15:42:25.602704+00:00"
+      "fetched_at": "2026-11-15T21:05:02.484499+00:00"
     }
   },
   {
@@ -56654,7 +56654,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 261,
-      "fetched_at": "2026-11-15T15:42:26.219930+00:00"
+      "fetched_at": "2026-11-15T21:05:02.947335+00:00"
     }
   },
   {
@@ -57020,7 +57020,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 262,
-      "fetched_at": "2026-11-15T15:42:26.997794+00:00"
+      "fetched_at": "2026-11-15T21:05:03.497258+00:00"
     }
   },
   {
@@ -57180,7 +57180,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 263,
-      "fetched_at": "2026-11-15T15:42:27.542021+00:00"
+      "fetched_at": "2026-11-15T21:05:03.954062+00:00"
     }
   },
   {
@@ -57489,7 +57489,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 264,
-      "fetched_at": "2026-11-15T15:42:28.965996+00:00"
+      "fetched_at": "2026-11-15T21:05:04.436302+00:00"
     }
   },
   {
@@ -57772,7 +57772,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 265,
-      "fetched_at": "2026-11-15T15:42:29.524734+00:00"
+      "fetched_at": "2026-11-15T21:05:04.908254+00:00"
     }
   },
   {
@@ -58155,7 +58155,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 266,
-      "fetched_at": "2026-11-15T15:42:30.544378+00:00"
+      "fetched_at": "2026-11-15T21:05:05.371928+00:00"
     }
   },
   {
@@ -58588,7 +58588,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 267,
-      "fetched_at": "2026-11-15T15:42:32.171504+00:00"
+      "fetched_at": "2026-11-15T21:05:05.854704+00:00"
     }
   },
   {
@@ -58729,7 +58729,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 268,
-      "fetched_at": "2026-11-15T15:42:32.701216+00:00"
+      "fetched_at": "2026-11-15T21:05:06.324349+00:00"
     }
   },
   {
@@ -58880,7 +58880,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 269,
-      "fetched_at": "2026-11-15T15:42:33.291583+00:00"
+      "fetched_at": "2026-11-15T21:05:06.790083+00:00"
     }
   },
   {
@@ -59006,7 +59006,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 270,
-      "fetched_at": "2026-11-15T15:42:33.831919+00:00"
+      "fetched_at": "2026-11-15T21:05:07.266188+00:00"
     }
   },
   {
@@ -59232,7 +59232,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 271,
-      "fetched_at": "2026-11-15T15:42:34.360001+00:00"
+      "fetched_at": "2026-11-15T21:05:07.729251+00:00"
     }
   },
   {
@@ -59465,7 +59465,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 272,
-      "fetched_at": "2026-11-15T15:42:35.807761+00:00"
+      "fetched_at": "2026-11-15T21:05:08.191745+00:00"
     }
   },
   {
@@ -59798,7 +59798,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 273,
-      "fetched_at": "2026-11-15T15:42:36.460639+00:00"
+      "fetched_at": "2026-11-15T21:05:08.670235+00:00"
     }
   },
   {
@@ -60051,7 +60051,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 274,
-      "fetched_at": "2026-11-15T15:42:37.082240+00:00"
+      "fetched_at": "2026-11-15T21:05:09.130635+00:00"
     }
   },
   {
@@ -60202,7 +60202,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 275,
-      "fetched_at": "2026-11-15T15:42:37.628124+00:00"
+      "fetched_at": "2026-11-15T21:05:09.589018+00:00"
     }
   },
   {
@@ -60328,7 +60328,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 276,
-      "fetched_at": "2026-11-15T15:42:38.447509+00:00"
+      "fetched_at": "2026-11-15T21:05:10.088377+00:00"
     }
   },
   {
@@ -60551,7 +60551,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 277,
-      "fetched_at": "2026-11-15T15:42:39.106993+00:00"
+      "fetched_at": "2026-11-15T21:05:10.551881+00:00"
     }
   },
   {
@@ -60787,7 +60787,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 278,
-      "fetched_at": "2026-11-15T15:42:39.763017+00:00"
+      "fetched_at": "2026-11-15T21:05:11.030870+00:00"
     }
   },
   {
@@ -60990,7 +60990,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 279,
-      "fetched_at": "2026-11-15T15:42:40.431127+00:00"
+      "fetched_at": "2026-11-15T21:05:11.510655+00:00"
     }
   },
   {
@@ -61111,7 +61111,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 280,
-      "fetched_at": "2026-11-15T15:42:41.085411+00:00"
+      "fetched_at": "2026-11-15T21:05:11.967102+00:00"
     }
   },
   {
@@ -61232,7 +61232,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 281,
-      "fetched_at": "2026-11-15T15:42:41.650391+00:00"
+      "fetched_at": "2026-11-15T21:05:12.474613+00:00"
     }
   },
   {
@@ -61369,7 +61369,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 282,
-      "fetched_at": "2026-11-15T15:42:42.204435+00:00"
+      "fetched_at": "2026-11-15T21:05:12.988188+00:00"
     }
   },
   {
@@ -61562,7 +61562,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 283,
-      "fetched_at": "2026-11-15T15:42:42.823729+00:00"
+      "fetched_at": "2026-11-15T21:05:13.874004+00:00"
     }
   },
   {
@@ -61941,7 +61941,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 284,
-      "fetched_at": "2026-11-15T15:42:43.398226+00:00"
+      "fetched_at": "2026-11-15T21:05:14.745979+00:00"
     }
   },
   {
@@ -62304,7 +62304,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 285,
-      "fetched_at": "2026-11-15T15:42:43.953658+00:00"
+      "fetched_at": "2026-11-15T21:05:15.236998+00:00"
     }
   },
   {
@@ -62437,7 +62437,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 286,
-      "fetched_at": "2026-11-15T15:42:45.516360+00:00"
+      "fetched_at": "2026-11-15T21:05:15.735443+00:00"
     }
   },
   {
@@ -62733,7 +62733,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 287,
-      "fetched_at": "2026-11-15T15:42:46.047804+00:00"
+      "fetched_at": "2026-11-15T21:05:16.224348+00:00"
     }
   },
   {
@@ -62896,7 +62896,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 288,
-      "fetched_at": "2026-11-15T15:42:47.781932+00:00"
+      "fetched_at": "2026-11-15T21:05:16.753166+00:00"
     }
   },
   {
@@ -63036,7 +63036,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 289,
-      "fetched_at": "2026-11-15T15:42:48.350074+00:00"
+      "fetched_at": "2026-11-15T21:05:17.245195+00:00"
     }
   },
   {
@@ -63162,7 +63162,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 290,
-      "fetched_at": "2026-11-15T15:42:49.211662+00:00"
+      "fetched_at": "2026-11-15T21:05:17.760314+00:00"
     }
   },
   {
@@ -63385,7 +63385,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 291,
-      "fetched_at": "2026-11-15T15:42:50.031875+00:00"
+      "fetched_at": "2026-11-15T21:05:18.309729+00:00"
     }
   },
   {
@@ -63645,7 +63645,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 292,
-      "fetched_at": "2026-11-15T15:42:50.747009+00:00"
+      "fetched_at": "2026-11-15T21:05:18.813372+00:00"
     }
   },
   {
@@ -63908,7 +63908,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 293,
-      "fetched_at": "2026-11-15T15:42:51.283002+00:00"
+      "fetched_at": "2026-11-15T21:05:19.447073+00:00"
     }
   },
   {
@@ -64071,7 +64071,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 294,
-      "fetched_at": "2026-11-15T15:42:51.858833+00:00"
+      "fetched_at": "2026-11-15T21:05:20.048062+00:00"
     }
   },
   {
@@ -64197,7 +64197,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 295,
-      "fetched_at": "2026-11-15T15:42:52.475375+00:00"
+      "fetched_at": "2026-11-15T21:05:20.585753+00:00"
     }
   },
   {
@@ -64330,7 +64330,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 296,
-      "fetched_at": "2026-11-15T15:42:53.119318+00:00"
+      "fetched_at": "2026-11-15T21:05:21.130367+00:00"
     }
   },
   {
@@ -64496,7 +64496,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 297,
-      "fetched_at": "2026-11-15T15:42:53.660883+00:00"
+      "fetched_at": "2026-11-15T21:05:21.743049+00:00"
     }
   },
   {
@@ -64645,7 +64645,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 298,
-      "fetched_at": "2026-11-15T15:42:54.192476+00:00"
+      "fetched_at": "2026-11-15T21:05:22.380353+00:00"
     }
   },
   {
@@ -64759,7 +64759,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 299,
-      "fetched_at": "2026-11-15T15:42:54.714710+00:00"
+      "fetched_at": "2026-11-15T21:05:22.862035+00:00"
     }
   },
   {
@@ -64873,7 +64873,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 300,
-      "fetched_at": "2026-11-15T15:42:55.355224+00:00"
+      "fetched_at": "2026-11-15T21:05:23.396612+00:00"
     }
   },
   {
@@ -65006,7 +65006,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 301,
-      "fetched_at": "2026-11-15T15:42:55.883681+00:00"
+      "fetched_at": "2026-11-15T21:05:23.881647+00:00"
     }
   },
   {
@@ -65132,7 +65132,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 302,
-      "fetched_at": "2026-11-15T15:42:56.402007+00:00"
+      "fetched_at": "2026-11-15T21:05:24.404307+00:00"
     }
   },
   {
@@ -65355,7 +65355,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 303,
-      "fetched_at": "2026-11-15T15:42:56.933631+00:00"
+      "fetched_at": "2026-11-15T21:05:24.940795+00:00"
     }
   },
   {
@@ -65598,7 +65598,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 304,
-      "fetched_at": "2026-11-15T15:42:59.071643+00:00"
+      "fetched_at": "2026-11-15T21:05:25.530949+00:00"
     }
   },
   {
@@ -65931,7 +65931,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 305,
-      "fetched_at": "2026-11-15T15:43:00.515879+00:00"
+      "fetched_at": "2026-11-15T21:05:26.067588+00:00"
     }
   },
   {
@@ -66045,7 +66045,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 306,
-      "fetched_at": "2026-11-15T15:43:02.121492+00:00"
+      "fetched_at": "2026-11-15T21:05:26.541104+00:00"
     }
   },
   {
@@ -66171,7 +66171,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 307,
-      "fetched_at": "2026-11-15T15:43:02.920330+00:00"
+      "fetched_at": "2026-11-15T21:05:27.128597+00:00"
     }
   },
   {
@@ -66292,7 +66292,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 308,
-      "fetched_at": "2026-11-15T15:43:03.546753+00:00"
+      "fetched_at": "2026-11-15T21:05:27.602633+00:00"
     }
   },
   {
@@ -66635,7 +66635,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 309,
-      "fetched_at": "2026-11-15T15:43:04.119650+00:00"
+      "fetched_at": "2026-11-15T21:05:28.156247+00:00"
     }
   },
   {
@@ -66848,7 +66848,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 310,
-      "fetched_at": "2026-11-15T15:43:04.684862+00:00"
+      "fetched_at": "2026-11-15T21:05:28.672754+00:00"
     }
   },
   {
@@ -66981,7 +66981,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 311,
-      "fetched_at": "2026-11-15T15:43:05.251729+00:00"
+      "fetched_at": "2026-11-15T21:05:29.205863+00:00"
     }
   },
   {
@@ -67114,7 +67114,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 312,
-      "fetched_at": "2026-11-15T15:43:05.821131+00:00"
+      "fetched_at": "2026-11-15T21:05:29.768095+00:00"
     }
   },
   {
@@ -67457,7 +67457,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 313,
-      "fetched_at": "2026-11-15T15:43:06.540421+00:00"
+      "fetched_at": "2026-11-15T21:05:30.288014+00:00"
     }
   },
   {
@@ -67634,7 +67634,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 314,
-      "fetched_at": "2026-11-15T15:43:07.361074+00:00"
+      "fetched_at": "2026-11-15T21:05:30.808471+00:00"
     }
   },
   {
@@ -67827,7 +67827,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 315,
-      "fetched_at": "2026-11-15T15:43:08.957981+00:00"
+      "fetched_at": "2026-11-15T21:05:31.332043+00:00"
     }
   },
   {
@@ -67960,7 +67960,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 316,
-      "fetched_at": "2026-11-15T15:43:09.581981+00:00"
+      "fetched_at": "2026-11-15T21:05:32.150132+00:00"
     }
   },
   {
@@ -68183,7 +68183,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 317,
-      "fetched_at": "2026-11-15T15:43:11.104082+00:00"
+      "fetched_at": "2026-11-15T21:05:32.682863+00:00"
     }
   },
   {
@@ -68426,7 +68426,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 318,
-      "fetched_at": "2026-11-15T15:43:11.626251+00:00"
+      "fetched_at": "2026-11-15T21:05:33.170285+00:00"
     }
   },
   {
@@ -68689,7 +68689,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 319,
-      "fetched_at": "2026-11-15T15:43:12.214403+00:00"
+      "fetched_at": "2026-11-15T21:05:33.805938+00:00"
     }
   },
   {
@@ -68886,7 +68886,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 320,
-      "fetched_at": "2026-11-15T15:43:13.017885+00:00"
+      "fetched_at": "2026-11-15T21:05:34.544234+00:00"
     }
   },
   {
@@ -69049,7 +69049,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 321,
-      "fetched_at": "2026-11-15T15:43:13.704853+00:00"
+      "fetched_at": "2026-11-15T21:05:35.014890+00:00"
     }
   },
   {
@@ -69205,7 +69205,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 322,
-      "fetched_at": "2026-11-15T15:43:14.346462+00:00"
+      "fetched_at": "2026-11-15T21:05:35.492198+00:00"
     }
   },
   {
@@ -69354,7 +69354,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 323,
-      "fetched_at": "2026-11-15T15:43:14.952663+00:00"
+      "fetched_at": "2026-11-15T21:05:36.104074+00:00"
     }
   },
   {
@@ -69590,7 +69590,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 324,
-      "fetched_at": "2026-11-15T15:43:15.612549+00:00"
+      "fetched_at": "2026-11-15T21:05:36.577351+00:00"
     }
   },
   {
@@ -69716,7 +69716,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 325,
-      "fetched_at": "2026-11-15T15:43:16.322922+00:00"
+      "fetched_at": "2026-11-15T21:05:37.066266+00:00"
     }
   },
   {
@@ -69999,7 +69999,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 326,
-      "fetched_at": "2026-11-15T15:43:16.951884+00:00"
+      "fetched_at": "2026-11-15T21:05:37.620248+00:00"
     }
   },
   {
@@ -70162,7 +70162,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 327,
-      "fetched_at": "2026-11-15T15:43:17.509333+00:00"
+      "fetched_at": "2026-11-15T21:05:38.073585+00:00"
     }
   },
   {
@@ -70375,7 +70375,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 328,
-      "fetched_at": "2026-11-15T15:43:18.214992+00:00"
+      "fetched_at": "2026-11-15T21:05:38.539477+00:00"
     }
   },
   {
@@ -70618,7 +70618,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 329,
-      "fetched_at": "2026-11-15T15:43:19.497312+00:00"
+      "fetched_at": "2026-11-15T21:05:39.068096+00:00"
     }
   },
   {
@@ -70744,7 +70744,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 330,
-      "fetched_at": "2026-11-15T15:43:20.090086+00:00"
+      "fetched_at": "2026-11-15T21:05:39.558859+00:00"
     }
   },
   {
@@ -70913,7 +70913,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 331,
-      "fetched_at": "2026-11-15T15:43:20.660531+00:00"
+      "fetched_at": "2026-11-15T21:05:40.026683+00:00"
     }
   },
   {
@@ -71053,7 +71053,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 332,
-      "fetched_at": "2026-11-15T15:43:21.237281+00:00"
+      "fetched_at": "2026-11-15T21:05:40.529766+00:00"
     }
   },
   {
@@ -71174,7 +71174,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 333,
-      "fetched_at": "2026-11-15T15:43:22.022620+00:00"
+      "fetched_at": "2026-11-15T21:05:40.994208+00:00"
     }
   },
   {
@@ -71477,7 +71477,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 334,
-      "fetched_at": "2026-11-15T15:43:22.683595+00:00"
+      "fetched_at": "2026-11-15T21:05:41.494746+00:00"
     }
   },
   {
@@ -71676,7 +71676,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 335,
-      "fetched_at": "2026-11-15T15:43:23.314617+00:00"
+      "fetched_at": "2026-11-15T21:05:41.979659+00:00"
     }
   },
   {
@@ -71939,7 +71939,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 336,
-      "fetched_at": "2026-11-15T15:43:23.881799+00:00"
+      "fetched_at": "2026-11-15T21:05:42.695533+00:00"
     }
   },
   {
@@ -72278,7 +72278,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 337,
-      "fetched_at": "2026-11-15T15:43:24.467074+00:00"
+      "fetched_at": "2026-11-15T21:05:43.177465+00:00"
     }
   },
   {
@@ -72404,7 +72404,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 338,
-      "fetched_at": "2026-11-15T15:43:25.029224+00:00"
+      "fetched_at": "2026-11-15T21:05:43.660428+00:00"
     }
   },
   {
@@ -72537,7 +72537,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 339,
-      "fetched_at": "2026-11-15T15:43:25.557011+00:00"
+      "fetched_at": "2026-11-15T21:05:44.117225+00:00"
     }
   },
   {
@@ -72663,7 +72663,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 340,
-      "fetched_at": "2026-11-15T15:43:26.163039+00:00"
+      "fetched_at": "2026-11-15T21:05:44.604206+00:00"
     }
   },
   {
@@ -72922,7 +72922,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 341,
-      "fetched_at": "2026-11-15T15:43:26.796341+00:00"
+      "fetched_at": "2026-11-15T21:05:45.104716+00:00"
     }
   },
   {
@@ -73065,7 +73065,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 342,
-      "fetched_at": "2026-11-15T15:43:27.328968+00:00"
+      "fetched_at": "2026-11-15T21:05:45.610359+00:00"
     }
   },
   {
@@ -73198,7 +73198,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 343,
-      "fetched_at": "2026-11-15T15:43:27.885893+00:00"
+      "fetched_at": "2026-11-15T21:05:46.094839+00:00"
     }
   },
   {
@@ -73331,7 +73331,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 344,
-      "fetched_at": "2026-11-15T15:43:28.488776+00:00"
+      "fetched_at": "2026-11-15T21:05:46.565310+00:00"
     }
   },
   {
@@ -73457,7 +73457,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 345,
-      "fetched_at": "2026-11-15T15:43:29.082332+00:00"
+      "fetched_at": "2026-11-15T21:05:47.129050+00:00"
     }
   },
   {
@@ -73630,7 +73630,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 346,
-      "fetched_at": "2026-11-15T15:43:29.658688+00:00"
+      "fetched_at": "2026-11-15T21:05:47.598604+00:00"
     }
   },
   {
@@ -73776,7 +73776,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 347,
-      "fetched_at": "2026-11-15T15:43:30.245973+00:00"
+      "fetched_at": "2026-11-15T21:05:48.094068+00:00"
     }
   },
   {
@@ -73985,7 +73985,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 348,
-      "fetched_at": "2026-11-15T15:43:30.800928+00:00"
+      "fetched_at": "2026-11-15T21:05:48.556185+00:00"
     }
   },
   {
@@ -74141,7 +74141,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 349,
-      "fetched_at": "2026-11-15T15:43:31.450968+00:00"
+      "fetched_at": "2026-11-15T21:05:49.028828+00:00"
     }
   },
   {
@@ -74364,7 +74364,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 350,
-      "fetched_at": "2026-11-15T15:43:32.028572+00:00"
+      "fetched_at": "2026-11-15T21:05:49.493271+00:00"
     }
   },
   {
@@ -74557,7 +74557,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 351,
-      "fetched_at": "2026-11-15T15:43:32.689246+00:00"
+      "fetched_at": "2026-11-15T21:05:49.949387+00:00"
     }
   },
   {
@@ -74774,7 +74774,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 352,
-      "fetched_at": "2026-11-15T15:43:33.281774+00:00"
+      "fetched_at": "2026-11-15T21:05:50.420341+00:00"
     }
   },
   {
@@ -75127,7 +75127,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 353,
-      "fetched_at": "2026-11-15T15:43:33.902636+00:00"
+      "fetched_at": "2026-11-15T21:05:50.948326+00:00"
     }
   },
   {
@@ -75248,7 +75248,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 354,
-      "fetched_at": "2026-11-15T15:43:36.486998+00:00"
+      "fetched_at": "2026-11-15T21:05:51.436233+00:00"
     }
   },
   {
@@ -75445,7 +75445,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 355,
-      "fetched_at": "2026-11-15T15:43:37.131416+00:00"
+      "fetched_at": "2026-11-15T21:05:52.002899+00:00"
     }
   },
   {
@@ -75672,7 +75672,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 356,
-      "fetched_at": "2026-11-15T15:43:39.156506+00:00"
+      "fetched_at": "2026-11-15T21:05:52.560090+00:00"
     }
   },
   {
@@ -76013,7 +76013,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 357,
-      "fetched_at": "2026-11-15T15:43:40.228686+00:00"
+      "fetched_at": "2026-11-15T21:05:53.044629+00:00"
     }
   },
   {
@@ -76134,7 +76134,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 358,
-      "fetched_at": "2026-11-15T15:43:40.760644+00:00"
+      "fetched_at": "2026-11-15T21:05:53.500937+00:00"
     }
   },
   {
@@ -76357,7 +76357,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 359,
-      "fetched_at": "2026-11-15T15:43:41.392777+00:00"
+      "fetched_at": "2026-11-15T21:05:54.271202+00:00"
     }
   },
   {
@@ -76483,7 +76483,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 360,
-      "fetched_at": "2026-11-15T15:43:41.984107+00:00"
+      "fetched_at": "2026-11-15T21:05:54.769382+00:00"
     }
   },
   {
@@ -76609,7 +76609,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 361,
-      "fetched_at": "2026-11-15T15:43:42.546724+00:00"
+      "fetched_at": "2026-11-15T21:05:55.277661+00:00"
     }
   },
   {
@@ -76735,7 +76735,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 362,
-      "fetched_at": "2026-11-15T15:43:43.103754+00:00"
+      "fetched_at": "2026-11-15T21:05:55.806270+00:00"
     }
   },
   {
@@ -76868,7 +76868,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 363,
-      "fetched_at": "2026-11-15T15:43:44.031878+00:00"
+      "fetched_at": "2026-11-15T21:05:56.283408+00:00"
     }
   },
   {
@@ -77091,7 +77091,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 364,
-      "fetched_at": "2026-11-15T15:43:44.660074+00:00"
+      "fetched_at": "2026-11-15T21:05:56.827213+00:00"
     }
   },
   {
@@ -77374,7 +77374,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 365,
-      "fetched_at": "2026-11-15T15:43:45.228003+00:00"
+      "fetched_at": "2026-11-15T21:05:57.348053+00:00"
     }
   },
   {
@@ -77507,7 +77507,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 366,
-      "fetched_at": "2026-11-15T15:43:45.812539+00:00"
+      "fetched_at": "2026-11-15T21:05:57.905700+00:00"
     }
   },
   {
@@ -77780,7 +77780,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 367,
-      "fetched_at": "2026-11-15T15:43:46.992883+00:00"
+      "fetched_at": "2026-11-15T21:05:58.409315+00:00"
     }
   },
   {
@@ -77953,7 +77953,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 368,
-      "fetched_at": "2026-11-15T15:43:47.531533+00:00"
+      "fetched_at": "2026-11-15T21:05:58.882851+00:00"
     }
   },
   {
@@ -78256,7 +78256,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 369,
-      "fetched_at": "2026-11-15T15:43:48.155476+00:00"
+      "fetched_at": "2026-11-15T21:05:59.377345+00:00"
     }
   },
   {
@@ -78389,7 +78389,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 370,
-      "fetched_at": "2026-11-15T15:43:48.810984+00:00"
+      "fetched_at": "2026-11-15T21:05:59.912999+00:00"
     }
   },
   {
@@ -78655,7 +78655,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 371,
-      "fetched_at": "2026-11-15T15:43:49.397987+00:00"
+      "fetched_at": "2026-11-15T21:06:00.464078+00:00"
     }
   },
   {
@@ -78888,7 +78888,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 372,
-      "fetched_at": "2026-11-15T15:43:49.924671+00:00"
+      "fetched_at": "2026-11-15T21:06:01.042833+00:00"
     }
   },
   {
@@ -79144,7 +79144,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 373,
-      "fetched_at": "2026-11-15T15:43:50.503424+00:00"
+      "fetched_at": "2026-11-15T21:06:01.530147+00:00"
     }
   },
   {
@@ -79427,7 +79427,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 374,
-      "fetched_at": "2026-11-15T15:43:51.086553+00:00"
+      "fetched_at": "2026-11-15T21:06:02.014419+00:00"
     }
   },
   {
@@ -79553,7 +79553,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 375,
-      "fetched_at": "2026-11-15T15:43:51.626987+00:00"
+      "fetched_at": "2026-11-15T21:06:02.515403+00:00"
     }
   },
   {
@@ -79689,7 +79689,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 376,
-      "fetched_at": "2026-11-15T15:43:52.157987+00:00"
+      "fetched_at": "2026-11-15T21:06:03.000392+00:00"
     }
   },
   {
@@ -79822,7 +79822,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 377,
-      "fetched_at": "2026-11-15T15:43:52.684748+00:00"
+      "fetched_at": "2026-11-15T21:06:03.476369+00:00"
     }
   },
   {
@@ -79945,7 +79945,7 @@
       "type_id": "10",
       "type_name": "Petition",
       "curia_rank": 378,
-      "fetched_at": "2026-11-15T15:43:53.240040+00:00"
+      "fetched_at": "2026-11-15T21:06:03.945665+00:00"
     }
   },
   {
@@ -80071,7 +80071,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 379,
-      "fetched_at": "2026-11-15T15:43:53.821114+00:00"
+      "fetched_at": "2026-11-15T21:06:04.432928+00:00"
     }
   },
   {
@@ -80197,7 +80197,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 380,
-      "fetched_at": "2026-11-15T15:43:54.342999+00:00"
+      "fetched_at": "2026-11-15T21:06:04.962159+00:00"
     }
   },
   {
@@ -80323,7 +80323,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 381,
-      "fetched_at": "2026-11-15T15:43:54.900819+00:00"
+      "fetched_at": "2026-11-15T21:06:05.466388+00:00"
     }
   },
   {
@@ -80449,7 +80449,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 382,
-      "fetched_at": "2026-11-15T15:43:55.410303+00:00"
+      "fetched_at": "2026-11-15T21:06:05.948227+00:00"
     }
   },
   {
@@ -80575,7 +80575,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 383,
-      "fetched_at": "2026-11-15T15:43:55.932474+00:00"
+      "fetched_at": "2026-11-15T21:06:06.492382+00:00"
     }
   },
   {
@@ -80715,7 +80715,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 384,
-      "fetched_at": "2026-11-15T15:43:56.464900+00:00"
+      "fetched_at": "2026-11-15T21:06:06.972827+00:00"
     }
   },
   {
@@ -80841,7 +80841,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 385,
-      "fetched_at": "2026-11-15T15:43:57.045185+00:00"
+      "fetched_at": "2026-11-15T21:06:08.157741+00:00"
     }
   },
   {
@@ -81037,7 +81037,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 386,
-      "fetched_at": "2026-11-15T15:43:58.110134+00:00"
+      "fetched_at": "2026-11-15T21:06:08.992205+00:00"
     }
   },
   {
@@ -81163,7 +81163,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 387,
-      "fetched_at": "2026-11-15T15:43:58.725833+00:00"
+      "fetched_at": "2026-11-15T21:06:09.463379+00:00"
     }
   },
   {
@@ -81303,7 +81303,7 @@
       "type_id": "18",
       "type_name": "Anfrage",
       "curia_rank": 388,
-      "fetched_at": "2026-11-15T15:43:59.260526+00:00"
+      "fetched_at": "2026-11-15T21:06:10.059286+00:00"
     }
   },
   {
@@ -81550,7 +81550,7 @@
       "type_id": "4",
       "type_name": "Parlamentarische Initiative",
       "curia_rank": 389,
-      "fetched_at": "2026-11-15T15:43:59.845351+00:00"
+      "fetched_at": "2026-11-15T21:06:10.626719+00:00"
     }
   },
   {
@@ -81649,7 +81649,7 @@
       "type_id": "2",
       "type_name": "Gesch\\u00e4ft des Parlaments",
       "curia_rank": 390,
-      "fetched_at": "2026-11-15T15:44:00.494121+00:00"
+      "fetched_at": "2026-11-15T21:06:11.102719+00:00"
     }
   },
   {
@@ -81770,7 +81770,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 392,
-      "fetched_at": "2026-11-15T15:44:01.573195+00:00"
+      "fetched_at": "2026-11-15T21:06:12.123457+00:00"
     }
   },
   {
@@ -81987,7 +81987,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 393,
-      "fetched_at": "2026-11-15T15:44:02.255231+00:00"
+      "fetched_at": "2026-11-15T21:06:12.602117+00:00"
     }
   },
   {
@@ -82170,7 +82170,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 394,
-      "fetched_at": "2026-11-15T15:44:02.777856+00:00"
+      "fetched_at": "2026-11-15T21:06:13.079775+00:00"
     }
   },
   {
@@ -82296,7 +82296,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 395,
-      "fetched_at": "2026-11-15T15:44:03.309158+00:00"
+      "fetched_at": "2026-11-15T21:06:13.658739+00:00"
     }
   },
   {
@@ -82527,7 +82527,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 396,
-      "fetched_at": "2026-11-15T15:44:03.966496+00:00"
+      "fetched_at": "2026-11-15T21:06:14.171242+00:00"
     }
   },
   {
@@ -82718,7 +82718,7 @@
       "type_id": "6",
       "type_name": "Postulat",
       "curia_rank": 397,
-      "fetched_at": "2026-11-15T15:44:04.555774+00:00"
+      "fetched_at": "2026-11-15T21:06:14.653875+00:00"
     }
   },
   {
@@ -82879,7 +82879,7 @@
       "type_id": "5",
       "type_name": "Motion",
       "curia_rank": 398,
-      "fetched_at": "2026-11-15T15:44:05.142115+00:00"
+      "fetched_at": "2026-11-15T21:06:15.135210+00:00"
     }
   },
   {
@@ -83165,7 +83165,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 399,
-      "fetched_at": "2026-11-15T15:44:05.818995+00:00"
+      "fetched_at": "2026-11-15T21:06:15.617802+00:00"
     }
   },
   {
@@ -83291,7 +83291,7 @@
       "type_id": "8",
       "type_name": "Interpellation",
       "curia_rank": 400,
-      "fetched_at": "2026-11-15T15:44:06.365646+00:00"
+      "fetched_at": "2026-11-15T21:06:16.092102+00:00"
     }
   },
   {
